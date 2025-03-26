@@ -1,0 +1,11 @@
+Metric,Value
+Mean Delay (sec),221.96995121951218
+Median Delay (sec),98.708
+Min Delay (sec),-6041.73
+Max Delay (sec),2332.433
+Positive Delay Count,36.0
+Negative Delay Count,5.0
+Delay < 1min,13.0
+Delay 1-5min,12.0
+Delay 5-15min,3.0
+Delay > 15min,8.0

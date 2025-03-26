@@ -1,0 +1,11 @@
+Metric,Value
+Segment Accuracy,0.5162037037037037
+Mode Accuracy,0.301255230125523
+Purpose Accuracy,0.5578703703703703
+Home/Work Purpose Accuracy,0.0
+Time Coverage,0.5766891355059917
+Matched Entries,432.0
+Home Count,67.0
+Home Correct,0.0
+Work Count,40.0
+Work Correct,0.0

@@ -1,0 +1,11 @@
+Metric,Value
+Segment Accuracy,0.8775903614457832
+Mode Accuracy,0.5945945945945946
+Purpose Accuracy,0.19373493975903613
+Home/Work Purpose Accuracy,0.0
+Time Coverage,1.0
+Total Time Slices,3744.0
+Home Count,1056.0
+Home Correct,0.0
+Work Count,618.0
+Work Correct,0.0

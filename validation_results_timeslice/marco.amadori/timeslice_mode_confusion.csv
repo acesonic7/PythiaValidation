@@ -1,0 +1,4 @@
+,None,in_vehicle,on_bicycle,unknown,walking
+in_vehicle,13,125,0,0,2
+on_bicycle,11,0,7,0,5
+walking,68,2,0,4,22

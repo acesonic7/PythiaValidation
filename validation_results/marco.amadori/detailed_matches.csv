@@ -1,0 +1,209 @@
+ground_truth_id,email,overlap_percentage,gt_start,gt_end,pred_start,pred_end,gt_segment,pred_segment,gt_purpose,pred_purpose,prediction_id,gt_mode,pred_mode
+36,marco.amadori@gmail.com,0.9144361111111111,2025-03-13 17:47:00,2025-03-13 18:05:00,2025-03-13 18:03:32.409,2025-03-13 20:28:10.841,moving,stationary,nan,nan,baaf6122-0068-11f0-9083-9f3bcddaa4d7,on_bicycle,None
+36,marco.amadori@gmail.com,1.0,2025-03-13 17:47:00,2025-03-13 18:05:00,2025-03-13 17:50:59.001,2025-03-13 18:03:32.409,moving,moving,nan,nan,baaf6121-0068-11f0-9083-9f3bcddaa4d7,on_bicycle,on_bicycle
+36,marco.amadori@gmail.com,1.0,2025-03-13 17:47:00,2025-03-13 18:05:00,2025-03-13 09:31:41.528,2025-03-13 17:50:59.001,moving,stationary,nan,nan,baaf6120-0068-11f0-9083-9f3bcddaa4d7,on_bicycle,None
+38,marco.amadori@gmail.com,1.0,2025-03-15 10:20:00,2025-03-15 10:30:00,2025-03-15 10:29:03.998,2025-03-15 15:50:07.795,moving,stationary,nan,nan,2924ef20-01ff-11f0-a234-15a3d785bcb0,walking,None
+38,marco.amadori@gmail.com,1.0,2025-03-15 10:20:00,2025-03-15 10:30:00,2025-03-15 07:20:21.014,2025-03-15 10:28:42.999,moving,stationary,nan,nan,1462db30-0180-11f0-a234-15a3d785bcb0,walking,None
+39,marco.amadori@gmail.com,0.5,2025-03-15 10:30:00,2025-03-15 15:50:00,2025-03-15 15:50:07.795,,stationary,moving,home,nan,2924ef21-01ff-11f0-a234-15a3d785bcb0,nan,in_vehicle
+39,marco.amadori@gmail.com,1.0,2025-03-15 10:30:00,2025-03-15 15:50:00,2025-03-15 10:29:03.998,2025-03-15 15:50:07.795,stationary,stationary,home,nan,2924ef20-01ff-11f0-a234-15a3d785bcb0,nan,None
+40,marco.amadori@gmail.com,0.5,2025-03-15 15:50:00,2025-03-15 16:11:00,2025-03-15 15:50:07.795,,moving,moving,nan,nan,2924ef21-01ff-11f0-a234-15a3d785bcb0,in_vehicle,in_vehicle
+40,marco.amadori@gmail.com,0.7204722222222222,2025-03-15 15:50:00,2025-03-15 16:11:00,2025-03-15 10:29:03.998,2025-03-15 15:50:07.795,moving,stationary,nan,nan,2924ef20-01ff-11f0-a234-15a3d785bcb0,in_vehicle,None
+41,marco.amadori@gmail.com,0.16507784090909092,2025-03-15 16:11:00,2025-03-15 17:39:00,2025-03-15 17:39:28.389,2025-03-15 18:19:41.943,stationary,moving,shpping mall,nan,2924ef23-01ff-11f0-a234-15a3d785bcb0,walking,in_vehicle
+41,marco.amadori@gmail.com,0.5,2025-03-15 16:11:00,2025-03-15 17:39:00,2025-03-15 15:50:07.795,,stationary,moving,shpping mall,nan,2924ef21-01ff-11f0-a234-15a3d785bcb0,walking,in_vehicle
+42,marco.amadori@gmail.com,0.5,2025-03-15 17:39:00,2025-03-15 18:10:00,2025-03-15 18:19:41.943,,moving,stationary,nan,nan,2924ef24-01ff-11f0-a234-15a3d785bcb0,in_vehicle,None
+42,marco.amadori@gmail.com,0.1709983870967742,2025-03-15 17:39:00,2025-03-15 18:10:00,2025-03-15 18:19:41.943,2025-03-16 08:52:15.889,moving,stationary,nan,nan,abcc6d80-023c-11f0-a234-15a3d785bcb0,in_vehicle,None
+42,marco.amadori@gmail.com,1.0,2025-03-15 17:39:00,2025-03-15 18:10:00,2025-03-15 17:39:28.389,2025-03-15 18:19:41.943,moving,moving,nan,nan,2924ef23-01ff-11f0-a234-15a3d785bcb0,in_vehicle,in_vehicle
+43,marco.amadori@gmail.com,0.5,2025-03-15 18:10:00,2025-03-16 08:52:00,2025-03-16 08:59:22.333,,stationary,stationary,home,nan,abcc6d82-023c-11f0-a234-15a3d785bcb0,nan,None
+43,marco.amadori@gmail.com,0.5,2025-03-15 18:10:00,2025-03-16 08:52:00,2025-03-15 18:19:41.943,,stationary,stationary,home,nan,2924ef24-01ff-11f0-a234-15a3d785bcb0,nan,None
+43,marco.amadori@gmail.com,1.0,2025-03-15 18:10:00,2025-03-16 08:52:00,2025-03-15 18:19:41.943,2025-03-16 08:52:15.889,stationary,stationary,home,nan,abcc6d80-023c-11f0-a234-15a3d785bcb0,nan,None
+44,marco.amadori@gmail.com,0.12927541254125413,2025-03-16 08:52:00,2025-03-16 10:33:00,2025-03-16 10:34:56.591,2025-03-16 10:45:35.001,moving,stationary,nan,nan,50c80752-02c3-11f0-a234-15a3d785bcb0,in_vehicle,None
+44,marco.amadori@gmail.com,1.0,2025-03-16 08:52:00,2025-03-16 10:33:00,2025-03-16 08:59:48.359,2025-03-16 10:34:56.591,moving,moving,nan,nan,50c80751-02c3-11f0-a234-15a3d785bcb0,in_vehicle,in_vehicle
+44,marco.amadori@gmail.com,0.5,2025-03-16 08:52:00,2025-03-16 10:33:00,2025-03-16 08:59:22.333,,moving,stationary,nan,nan,abcc6d82-023c-11f0-a234-15a3d785bcb0,in_vehicle,None
+44,marco.amadori@gmail.com,0.22580181518151815,2025-03-16 08:52:00,2025-03-16 10:33:00,2025-03-16 08:59:22.333,2025-03-16 08:59:48.359,moving,stationary,nan,nan,50c80750-02c3-11f0-a234-15a3d785bcb0,in_vehicle,None
+44,marco.amadori@gmail.com,0.22150709570957097,2025-03-16 08:52:00,2025-03-16 10:33:00,2025-03-16 08:52:15.889,2025-03-16 08:59:22.333,moving,moving,nan,nan,abcc6d81-023c-11f0-a234-15a3d785bcb0,in_vehicle,in_vehicle
+44,marco.amadori@gmail.com,0.15113679867986798,2025-03-16 08:52:00,2025-03-16 10:33:00,2025-03-15 18:19:41.943,2025-03-16 08:52:15.889,moving,stationary,nan,nan,abcc6d80-023c-11f0-a234-15a3d785bcb0,in_vehicle,None
+45,marco.amadori@gmail.com,1.0,2025-03-16 10:33:00,2025-03-16 10:45:00,2025-03-16 10:45:35.001,2025-03-16 11:10:24.998,stationary,moving,other,nan,50c80753-02c3-11f0-a234-15a3d785bcb0,nan,walking
+45,marco.amadori@gmail.com,1.0,2025-03-16 10:33:00,2025-03-16 10:45:00,2025-03-16 10:34:56.591,2025-03-16 10:45:35.001,stationary,stationary,other,nan,50c80752-02c3-11f0-a234-15a3d785bcb0,nan,None
+45,marco.amadori@gmail.com,1.0,2025-03-16 10:33:00,2025-03-16 10:45:00,2025-03-16 08:59:48.359,2025-03-16 10:34:56.591,stationary,moving,other,nan,50c80751-02c3-11f0-a234-15a3d785bcb0,nan,in_vehicle
+46,marco.amadori@gmail.com,0.10011246105919003,2025-03-16 10:45:00,2025-03-16 12:32:00,2025-03-16 12:36:17.278,2025-03-16 12:37:53.387,moving,moving,nan,nan,50c80759-02c3-11f0-a234-15a3d785bcb0,walking,in_vehicle
+46,marco.amadori@gmail.com,0.37147227414330214,2025-03-16 10:45:00,2025-03-16 12:32:00,2025-03-16 11:10:24.998,2025-03-16 11:20:09.850,moving,stationary,nan,nan,50c80754-02c3-11f0-a234-15a3d785bcb0,walking,None
+46,marco.amadori@gmail.com,0.37772554517133955,2025-03-16 10:45:00,2025-03-16 12:32:00,2025-03-16 10:45:35.001,2025-03-16 11:10:24.998,moving,moving,nan,nan,50c80753-02c3-11f0-a234-15a3d785bcb0,walking,walking
+46,marco.amadori@gmail.com,0.14563878504672897,2025-03-16 10:45:00,2025-03-16 12:32:00,2025-03-16 10:34:56.591,2025-03-16 10:45:35.001,moving,stationary,nan,nan,50c80752-02c3-11f0-a234-15a3d785bcb0,walking,None
+47,marco.amadori@gmail.com,1.0,2025-03-16 12:32:00,2025-03-16 12:36:00,2025-03-16 12:37:53.387,2025-03-16 13:23:06.228,moving,stationary,nan,nan,50c8075a-02c3-11f0-a234-15a3d785bcb0,in_vehicle,None
+47,marco.amadori@gmail.com,1.0,2025-03-16 12:32:00,2025-03-16 12:36:00,2025-03-16 12:36:17.278,2025-03-16 12:37:53.387,moving,moving,nan,nan,50c80759-02c3-11f0-a234-15a3d785bcb0,in_vehicle,in_vehicle
+48,marco.amadori@gmail.com,0.3020913043478261,2025-03-16 12:36:00,2025-03-16 13:22:00,2025-03-16 13:23:06.228,2025-03-16 13:40:15.321,stationary,moving,other,nan,50c8075b-02c3-11f0-a234-15a3d785bcb0,nan,in_vehicle
+48,marco.amadori@gmail.com,1.0,2025-03-16 12:36:00,2025-03-16 13:22:00,2025-03-16 12:37:53.387,2025-03-16 13:23:06.228,stationary,stationary,other,nan,50c8075a-02c3-11f0-a234-15a3d785bcb0,nan,None
+48,marco.amadori@gmail.com,0.3671692028985507,2025-03-16 12:36:00,2025-03-16 13:22:00,2025-03-16 12:36:17.278,2025-03-16 12:37:53.387,stationary,moving,other,nan,50c80759-02c3-11f0-a234-15a3d785bcb0,nan,in_vehicle
+49,marco.amadori@gmail.com,0.8085088235294118,2025-03-16 13:22:00,2025-03-16 13:39:00,2025-03-16 13:40:15.321,2025-03-16 14:38:01.318,moving,stationary,nan,nan,50c8075c-02c3-11f0-a234-15a3d785bcb0,in_vehicle,None
+49,marco.amadori@gmail.com,1.0,2025-03-16 13:22:00,2025-03-16 13:39:00,2025-03-16 13:23:06.228,2025-03-16 13:40:15.321,moving,moving,nan,nan,50c8075b-02c3-11f0-a234-15a3d785bcb0,in_vehicle,in_vehicle
+49,marco.amadori@gmail.com,0.9472823529411765,2025-03-16 13:22:00,2025-03-16 13:39:00,2025-03-16 12:37:53.387,2025-03-16 13:23:06.228,moving,stationary,nan,nan,50c8075a-02c3-11f0-a234-15a3d785bcb0,in_vehicle,None
+50,marco.amadori@gmail.com,0.26630055555555554,2025-03-16 13:39:00,2025-03-16 14:39:00,2025-03-16 14:38:01.318,2025-03-16 16:21:26.872,stationary,moving,other,nan,50c8075d-02c3-11f0-a234-15a3d785bcb0,nan,in_vehicle
+50,marco.amadori@gmail.com,1.0,2025-03-16 13:39:00,2025-03-16 14:39:00,2025-03-16 13:40:15.321,2025-03-16 14:38:01.318,stationary,stationary,other,nan,50c8075c-02c3-11f0-a234-15a3d785bcb0,nan,None
+50,marco.amadori@gmail.com,0.2709225,2025-03-16 13:39:00,2025-03-16 14:39:00,2025-03-16 13:23:06.228,2025-03-16 13:40:15.321,stationary,moving,other,nan,50c8075b-02c3-11f0-a234-15a3d785bcb0,nan,in_vehicle
+51,marco.amadori@gmail.com,0.5,2025-03-16 14:39:00,2025-03-16 16:20:00,2025-03-16 16:21:26.872,,moving,stationary,nan,nan,50c8075e-02c3-11f0-a234-15a3d785bcb0,in_vehicle,None
+51,marco.amadori@gmail.com,0.5,2025-03-16 14:39:00,2025-03-16 16:20:00,2025-03-16 16:21:26.872,,moving,stationary,nan,nan,74dce360-02fd-11f0-a234-15a3d785bcb0,in_vehicle,None
+51,marco.amadori@gmail.com,1.0,2025-03-16 14:39:00,2025-03-16 16:20:00,2025-03-16 14:38:01.318,2025-03-16 16:21:26.872,moving,moving,nan,nan,50c8075d-02c3-11f0-a234-15a3d785bcb0,in_vehicle,in_vehicle
+51,marco.amadori@gmail.com,0.13883135313531353,2025-03-16 14:39:00,2025-03-16 16:20:00,2025-03-16 13:40:15.321,2025-03-16 14:38:01.318,moving,stationary,nan,nan,50c8075c-02c3-11f0-a234-15a3d785bcb0,in_vehicle,None
+52,marco.amadori@gmail.com,0.5,2025-03-16 16:20:00,2025-03-17 07:35:00,2025-03-17 07:49:11.998,,stationary,stationary,home,nan,74dce362-02fd-11f0-a234-15a3d785bcb0,nan,None
+52,marco.amadori@gmail.com,0.5,2025-03-16 16:20:00,2025-03-17 07:35:00,2025-03-16 16:21:26.872,,stationary,stationary,home,nan,50c8075e-02c3-11f0-a234-15a3d785bcb0,nan,None
+52,marco.amadori@gmail.com,0.5,2025-03-16 16:20:00,2025-03-17 07:35:00,2025-03-16 16:21:26.872,,stationary,stationary,home,nan,74dce360-02fd-11f0-a234-15a3d785bcb0,nan,None
+53,marco.amadori@gmail.com,0.5,2025-03-17 07:35:00,2025-03-17 07:49:00,2025-03-17 07:49:11.998,,moving,stationary,nan,nan,74dce362-02fd-11f0-a234-15a3d785bcb0,on_bicycle,None
+54,marco.amadori@gmail.com,0.5,2025-03-17 07:49:00,2025-03-17 18:24:00,2025-03-17 18:35:54.998,,stationary,stationary,work,nan,34421ff2-0393-11f0-ba9a-d57aeb76f198,nan,None
+54,marco.amadori@gmail.com,0.5,2025-03-17 07:49:00,2025-03-17 18:24:00,2025-03-17 07:49:11.998,,stationary,stationary,work,nan,74dce362-02fd-11f0-a234-15a3d785bcb0,nan,None
+55,marco.amadori@gmail.com,1.0,2025-03-17 18:24:00,2025-03-17 18:36:00,2025-03-17 18:35:54.998,2025-03-18 07:30:36.999,moving,stationary,nan,nan,9f412520-03c6-11f0-ba9a-d57aeb76f198,on_bicycle,None
+55,marco.amadori@gmail.com,0.5,2025-03-17 18:24:00,2025-03-17 18:36:00,2025-03-17 18:35:54.998,,moving,stationary,nan,nan,34421ff2-0393-11f0-ba9a-d57aeb76f198,on_bicycle,None
+56,marco.amadori@gmail.com,0.5,2025-03-17 18:36:00,2025-03-18 07:27:00,2025-03-18 07:42:22.937,,stationary,stationary,home,nan,9f412522-03c6-11f0-ba9a-d57aeb76f198,nan,None
+56,marco.amadori@gmail.com,1.0,2025-03-17 18:36:00,2025-03-18 07:27:00,2025-03-17 18:35:54.998,2025-03-18 07:30:36.999,stationary,stationary,home,nan,9f412520-03c6-11f0-ba9a-d57aeb76f198,nan,None
+56,marco.amadori@gmail.com,0.5,2025-03-17 18:36:00,2025-03-18 07:27:00,2025-03-17 18:35:54.998,,stationary,stationary,home,nan,34421ff2-0393-11f0-ba9a-d57aeb76f198,nan,None
+57,marco.amadori@gmail.com,0.9705935897435898,2025-03-18 07:27:00,2025-03-18 07:40:00,2025-03-18 07:42:22.937,2025-03-18 09:07:55.017,moving,stationary,nan,nan,80555560-0456-11f0-ba9a-d57aeb76f198,on_bicycle,None
+57,marco.amadori@gmail.com,0.5,2025-03-18 07:27:00,2025-03-18 07:40:00,2025-03-18 07:42:22.937,,moving,stationary,nan,nan,9f412522-03c6-11f0-ba9a-d57aeb76f198,on_bicycle,None
+57,marco.amadori@gmail.com,1.0,2025-03-18 07:27:00,2025-03-18 07:40:00,2025-03-18 07:30:36.999,2025-03-18 07:42:22.937,moving,moving,nan,nan,9f412521-03c6-11f0-ba9a-d57aeb76f198,on_bicycle,on_bicycle
+57,marco.amadori@gmail.com,1.0,2025-03-18 07:27:00,2025-03-18 07:40:00,2025-03-17 18:35:54.998,2025-03-18 07:30:36.999,moving,stationary,nan,nan,9f412520-03c6-11f0-ba9a-d57aeb76f198,on_bicycle,None
+58,marco.amadori@gmail.com,0.11076890243902437,2025-03-18 07:40:00,2025-03-18 09:02:00,2025-03-18 09:07:55.017,2025-03-18 09:53:08.999,stationary,moving,work,nan,80555561-0456-11f0-ba9a-d57aeb76f198,nan,in_vehicle
+58,marco.amadori@gmail.com,1.0,2025-03-18 07:40:00,2025-03-18 09:02:00,2025-03-18 07:42:22.937,2025-03-18 09:07:55.017,stationary,stationary,work,nan,80555560-0456-11f0-ba9a-d57aeb76f198,nan,None
+58,marco.amadori@gmail.com,0.5,2025-03-18 07:40:00,2025-03-18 09:02:00,2025-03-18 07:42:22.937,,stationary,stationary,work,nan,9f412522-03c6-11f0-ba9a-d57aeb76f198,nan,None
+58,marco.amadori@gmail.com,0.2119790650406504,2025-03-18 07:40:00,2025-03-18 09:02:00,2025-03-18 07:30:36.999,2025-03-18 07:42:22.937,stationary,moving,work,nan,9f412521-03c6-11f0-ba9a-d57aeb76f198,nan,on_bicycle
+59,marco.amadori@gmail.com,1.0,2025-03-18 09:02:00,2025-03-18 09:30:00,2025-03-18 09:07:55.017,2025-03-18 09:53:08.999,moving,moving,nan,nan,80555561-0456-11f0-ba9a-d57aeb76f198,in_vehicle,in_vehicle
+59,marco.amadori@gmail.com,0.7470339285714286,2025-03-18 09:02:00,2025-03-18 09:30:00,2025-03-18 07:42:22.937,2025-03-18 09:07:55.017,moving,stationary,nan,nan,80555560-0456-11f0-ba9a-d57aeb76f198,in_vehicle,None
+60,marco.amadori@gmail.com,0.3208347222222222,2025-03-18 09:30:00,2025-03-18 09:42:00,2025-03-18 09:53:08.999,2025-03-18 09:59:50.748,stationary,stationary,other,nan,80555562-0456-11f0-ba9a-d57aeb76f198,nan,None
+60,marco.amadori@gmail.com,1.0,2025-03-18 09:30:00,2025-03-18 09:42:00,2025-03-18 09:07:55.017,2025-03-18 09:53:08.999,stationary,moving,other,nan,80555561-0456-11f0-ba9a-d57aeb76f198,nan,in_vehicle
+61,marco.amadori@gmail.com,0.9452730769230769,2025-03-18 09:42:00,2025-03-18 10:34:00,2025-03-18 09:59:50.748,2025-03-18 10:38:11.999,moving,moving,nan,nan,80555563-0456-11f0-ba9a-d57aeb76f198,in_vehicle,in_vehicle
+61,marco.amadori@gmail.com,0.63165,2025-03-18 09:42:00,2025-03-18 10:34:00,2025-03-18 09:53:08.999,2025-03-18 09:59:50.748,moving,stationary,nan,nan,80555562-0456-11f0-ba9a-d57aeb76f198,in_vehicle,None
+61,marco.amadori@gmail.com,0.5028842948717949,2025-03-18 09:42:00,2025-03-18 10:34:00,2025-03-18 09:07:55.017,2025-03-18 09:53:08.999,moving,moving,nan,nan,80555561-0456-11f0-ba9a-d57aeb76f198,in_vehicle,in_vehicle
+62,marco.amadori@gmail.com,0.5,2025-03-18 10:34:00,2025-03-18 10:53:00,2025-03-18 11:09:39.793,,stationary,stationary,other,nan,ff97d6d0-0493-11f0-ba9a-d57aeb76f198,nan,None
+62,marco.amadori@gmail.com,0.5,2025-03-18 10:34:00,2025-03-18 10:53:00,2025-03-18 11:09:39.793,,stationary,stationary,other,nan,80555567-0456-11f0-ba9a-d57aeb76f198,nan,None
+62,marco.amadori@gmail.com,1.0,2025-03-18 10:34:00,2025-03-18 10:53:00,2025-03-18 10:48:38.280,2025-03-18 11:09:39.793,stationary,moving,other,nan,80555566-0456-11f0-ba9a-d57aeb76f198,nan,walking
+62,marco.amadori@gmail.com,1.0,2025-03-18 10:34:00,2025-03-18 10:53:00,2025-03-18 09:59:50.748,2025-03-18 10:38:11.999,stationary,moving,other,nan,80555563-0456-11f0-ba9a-d57aeb76f198,nan,in_vehicle
+63,marco.amadori@gmail.com,0.5,2025-03-18 10:53:00,2025-03-18 11:07:00,2025-03-18 11:09:39.793,,moving,stationary,nan,nan,ff97d6d0-0493-11f0-ba9a-d57aeb76f198,in_vehicle,None
+63,marco.amadori@gmail.com,0.5,2025-03-18 10:53:00,2025-03-18 11:07:00,2025-03-18 11:09:39.793,,moving,stationary,nan,nan,80555567-0456-11f0-ba9a-d57aeb76f198,in_vehicle,None
+63,marco.amadori@gmail.com,1.0,2025-03-18 10:53:00,2025-03-18 11:07:00,2025-03-18 10:48:38.280,2025-03-18 11:09:39.793,moving,moving,nan,nan,80555566-0456-11f0-ba9a-d57aeb76f198,in_vehicle,walking
+64,marco.amadori@gmail.com,0.5,2025-03-18 11:07:00,2025-03-18 16:57:00,2025-03-18 11:09:39.793,,stationary,stationary,work,nan,ff97d6d0-0493-11f0-ba9a-d57aeb76f198,nan,None
+64,marco.amadori@gmail.com,0.5,2025-03-18 11:07:00,2025-03-18 16:57:00,2025-03-18 11:09:39.793,,stationary,stationary,work,nan,80555567-0456-11f0-ba9a-d57aeb76f198,nan,None
+68,marco.amadori@gmail.com,0.5,2025-03-18 17:29:00,2025-03-19 08:08:00,2025-03-19 08:22:32.999,,stationary,stationary,home,nan,5bc231d0-053e-11f0-ba9a-d57aeb76f198,nan,None
+68,marco.amadori@gmail.com,0.5,2025-03-18 17:29:00,2025-03-19 08:08:00,2025-03-19 08:22:32.999,,stationary,stationary,home,nan,ff97d6d2-0493-11f0-ba9a-d57aeb76f198,nan,None
+69,marco.amadori@gmail.com,0.5,2025-03-19 08:08:00,2025-03-19 08:31:00,2025-03-19 08:22:32.999,,moving,stationary,nan,nan,5bc231d0-053e-11f0-ba9a-d57aeb76f198,walking,None
+69,marco.amadori@gmail.com,0.5,2025-03-19 08:08:00,2025-03-19 08:31:00,2025-03-19 08:22:32.999,,moving,stationary,nan,nan,ff97d6d2-0493-11f0-ba9a-d57aeb76f198,walking,None
+70,marco.amadori@gmail.com,0.5,2025-03-19 08:31:00,2025-03-19 08:42:00,2025-03-19 08:22:32.999,,stationary,stationary,other,nan,5bc231d0-053e-11f0-ba9a-d57aeb76f198,nan,None
+70,marco.amadori@gmail.com,0.5,2025-03-19 08:31:00,2025-03-19 08:42:00,2025-03-19 08:22:32.999,,stationary,stationary,other,nan,ff97d6d2-0493-11f0-ba9a-d57aeb76f198,nan,None
+71,marco.amadori@gmail.com,0.742668,2025-03-19 08:42:00,2025-03-19 09:07:00,2025-03-19 09:03:25.998,2025-03-19 17:28:59.617,moving,stationary,nan,nan,5bc231d2-053e-11f0-ba9a-d57aeb76f198,walking,None
+71,marco.amadori@gmail.com,0.5,2025-03-19 08:42:00,2025-03-19 09:07:00,2025-03-19 08:22:32.999,,moving,stationary,nan,nan,5bc231d0-053e-11f0-ba9a-d57aeb76f198,walking,None
+71,marco.amadori@gmail.com,0.5,2025-03-19 08:42:00,2025-03-19 09:07:00,2025-03-19 08:22:32.999,,moving,stationary,nan,nan,ff97d6d2-0493-11f0-ba9a-d57aeb76f198,walking,None
+72,marco.amadori@gmail.com,1.0,2025-03-19 09:07:00,2025-03-19 17:15:00,2025-03-19 09:03:25.998,2025-03-19 17:28:59.617,stationary,stationary,home,nan,5bc231d2-053e-11f0-ba9a-d57aeb76f198,nan,None
+73,marco.amadori@gmail.com,0.123334,2025-03-19 17:15:00,2025-03-19 17:40:00,2025-03-19 17:51:54.999,2025-03-19 17:56:36.399,moving,stationary,nan,nan,5bc231d6-053e-11f0-ba9a-d57aeb76f198,in_vehicle,None
+73,marco.amadori@gmail.com,0.3286673333333333,2025-03-19 17:15:00,2025-03-19 17:40:00,2025-03-19 17:46:46.999,2025-03-19 17:51:54.999,moving,moving,nan,nan,5bc231d5-053e-11f0-ba9a-d57aeb76f198,in_vehicle,walking
+73,marco.amadori@gmail.com,0.5551400000000001,2025-03-19 17:15:00,2025-03-19 17:40:00,2025-03-19 17:41:07.290,2025-03-19 17:46:40.999,moving,stationary,nan,nan,5bc231d4-053e-11f0-ba9a-d57aeb76f198,in_vehicle,None
+73,marco.amadori@gmail.com,1.0,2025-03-19 17:15:00,2025-03-19 17:40:00,2025-03-19 17:28:59.617,2025-03-19 17:41:07.290,moving,moving,nan,nan,5bc231d3-053e-11f0-ba9a-d57aeb76f198,in_vehicle,in_vehicle
+73,marco.amadori@gmail.com,1.0,2025-03-19 17:15:00,2025-03-19 17:40:00,2025-03-19 09:03:25.998,2025-03-19 17:28:59.617,moving,stationary,nan,nan,5bc231d2-053e-11f0-ba9a-d57aeb76f198,in_vehicle,None
+74,marco.amadori@gmail.com,0.5,2025-03-19 17:40:00,2025-03-19 18:23:00,2025-03-19 18:23:56.019,,moving,stationary,nan,nan,5bc231d8-053e-11f0-ba9a-d57aeb76f198,walking,None
+74,marco.amadori@gmail.com,0.9626360465116279,2025-03-19 17:40:00,2025-03-19 18:23:00,2025-03-19 17:56:36.399,2025-03-19 18:23:56.019,moving,moving,nan,nan,5bc231d7-053e-11f0-ba9a-d57aeb76f198,walking,walking
+74,marco.amadori@gmail.com,0.7350383720930233,2025-03-19 17:40:00,2025-03-19 18:23:00,2025-03-19 17:51:54.999,2025-03-19 17:56:36.399,moving,stationary,nan,nan,5bc231d6-053e-11f0-ba9a-d57aeb76f198,walking,None
+74,marco.amadori@gmail.com,0.6259686046511628,2025-03-19 17:40:00,2025-03-19 18:23:00,2025-03-19 17:46:46.999,2025-03-19 17:51:54.999,moving,moving,nan,nan,5bc231d5-053e-11f0-ba9a-d57aeb76f198,walking,walking
+74,marco.amadori@gmail.com,0.5042631782945737,2025-03-19 17:40:00,2025-03-19 18:23:00,2025-03-19 17:41:07.290,2025-03-19 17:46:40.999,moving,stationary,nan,nan,5bc231d4-053e-11f0-ba9a-d57aeb76f198,walking,None
+74,marco.amadori@gmail.com,0.3749186046511628,2025-03-19 17:40:00,2025-03-19 18:23:00,2025-03-19 17:28:59.617,2025-03-19 17:41:07.290,moving,moving,nan,nan,5bc231d3-053e-11f0-ba9a-d57aeb76f198,walking,in_vehicle
+75,marco.amadori@gmail.com,0.5,2025-03-19 18:23:00,2025-03-20 07:34:00,2025-03-19 18:23:56.019,,stationary,stationary,home,nan,5bc231d8-053e-11f0-ba9a-d57aeb76f198,nan,None
+77,marco.amadori@gmail.com,0.18645868055555553,2025-03-20 07:50:00,2025-03-20 08:38:00,2025-03-20 08:44:02.999,2025-03-20 10:03:50.999,stationary,moving,work,nan,2619f6c3-05e9-11f0-853f-e508809b3947,nan,in_vehicle
+78,marco.amadori@gmail.com,0.5,2025-03-20 08:38:00,2025-03-20 09:59:00,2025-03-20 10:03:50.999,,moving,stationary,nan,nan,2619f6c4-05e9-11f0-853f-e508809b3947,in_vehicle,None
+78,marco.amadori@gmail.com,1.0,2025-03-20 08:38:00,2025-03-20 09:59:00,2025-03-20 08:44:02.999,2025-03-20 10:03:50.999,moving,moving,nan,nan,2619f6c3-05e9-11f0-853f-e508809b3947,in_vehicle,in_vehicle
+79,marco.amadori@gmail.com,0.10030318181818182,2025-03-20 09:59:00,2025-03-20 11:49:00,2025-03-20 11:52:57.999,2025-03-20 12:32:15.019,moving,moving,nan,nan,2619f6c5-05e9-11f0-853f-e508809b3947,walking,in_vehicle
+79,marco.amadori@gmail.com,0.5,2025-03-20 09:59:00,2025-03-20 11:49:00,2025-03-20 10:03:50.999,,moving,stationary,nan,nan,2619f6c4-05e9-11f0-853f-e508809b3947,walking,None
+79,marco.amadori@gmail.com,0.18045439393939394,2025-03-20 09:59:00,2025-03-20 11:49:00,2025-03-20 08:44:02.999,2025-03-20 10:03:50.999,moving,moving,nan,nan,2619f6c3-05e9-11f0-853f-e508809b3947,walking,in_vehicle
+80,marco.amadori@gmail.com,0.14392979797979796,2025-03-20 11:49:00,2025-03-20 12:22:00,2025-03-20 12:32:15.019,2025-03-20 14:14:11.487,moving,stationary,nan,nan,2619f6c6-05e9-11f0-853f-e508809b3947,in_vehicle,None
+80,marco.amadori@gmail.com,1.0,2025-03-20 11:49:00,2025-03-20 12:22:00,2025-03-20 11:52:57.999,2025-03-20 12:32:15.019,moving,moving,nan,nan,2619f6c5-05e9-11f0-853f-e508809b3947,in_vehicle,in_vehicle
+81,marco.amadori@gmail.com,1.0,2025-03-20 12:22:00,2025-03-20 14:12:00,2025-03-20 12:32:15.019,2025-03-20 14:14:11.487,stationary,stationary,work,nan,2619f6c6-05e9-11f0-853f-e508809b3947,nan,None
+81,marco.amadori@gmail.com,0.22954833333333333,2025-03-20 12:22:00,2025-03-20 14:12:00,2025-03-20 11:52:57.999,2025-03-20 12:32:15.019,stationary,moving,work,nan,2619f6c5-05e9-11f0-853f-e508809b3947,nan,in_vehicle
+82,marco.amadori@gmail.com,0.3998011627906977,2025-03-20 14:12:00,2025-03-20 14:55:00,2025-03-20 12:32:15.019,2025-03-20 14:14:11.487,moving,stationary,nan,nan,2619f6c6-05e9-11f0-853f-e508809b3947,on_bicycle,None
+84,marco.amadori@gmail.com,0.9456476190476191,2025-03-20 17:51:00,2025-03-20 18:05:00,2025-03-20 18:06:45.656,2025-03-20 18:07:29.011,moving,stationary,nan,nan,261a1dd3-05e9-11f0-853f-e508809b3947,on_bicycle,None
+86,marco.amadori@gmail.com,0.7983375,2025-03-21 07:33:00,2025-03-21 07:49:00,2025-03-21 07:51:13.596,2025-03-21 19:41:43.845,moving,stationary,nan,nan,35ae2da2-06b5-11f0-ab99-95f567402117,in_vehicle,None
+86,marco.amadori@gmail.com,1.0,2025-03-21 07:33:00,2025-03-21 07:49:00,2025-03-21 07:35:29.650,2025-03-21 07:51:13.596,moving,moving,nan,nan,35ae2da1-06b5-11f0-ab99-95f567402117,in_vehicle,in_vehicle
+87,marco.amadori@gmail.com,1.0,2025-03-21 07:49:00,2025-03-21 19:41:00,2025-03-21 07:51:13.596,2025-03-21 19:41:43.845,stationary,stationary,home,nan,35ae2da2-06b5-11f0-ab99-95f567402117,nan,None
+88,marco.amadori@gmail.com,1.0,2025-03-21 19:41:00,2025-03-21 19:57:00,2025-03-21 19:41:43.845,2025-03-21 19:58:37.727,moving,moving,nan,nan,35ae2da3-06b5-11f0-ab99-95f567402117,in_vehicle,in_vehicle
+88,marco.amadori@gmail.com,0.983171875,2025-03-21 19:41:00,2025-03-21 19:57:00,2025-03-21 07:51:13.596,2025-03-21 19:41:43.845,moving,stationary,nan,nan,35ae2da2-06b5-11f0-ab99-95f567402117,in_vehicle,None
+89,marco.amadori@gmail.com,0.5,2025-03-21 19:57:00,2025-03-21 23:50:00,2025-03-22 00:04:09.498,,stationary,stationary,other,nan,e7377020-077a-11f0-ab99-95f567402117,nan,None
+91,marco.amadori@gmail.com,0.37043729364682343,2025-03-21 00:02:00,2025-03-22 09:21:00,2025-03-21 07:51:13.596,2025-03-21 19:41:43.845,stationary,stationary,home,nan,35ae2da2-06b5-11f0-ab99-95f567402117,nan,None
+92,marco.amadori@gmail.com,0.5,2025-03-22 09:21:00,2025-03-22 10:17:00,2025-03-22 10:16:51.021,,moving,stationary,nan,nan,e7377022-077a-11f0-ab99-95f567402117,walking,None
+93,marco.amadori@gmail.com,0.5,2025-03-22 10:17:00,2025-03-22 10:29:00,2025-03-22 10:16:51.021,,stationary,stationary,other,nan,e7377022-077a-11f0-ab99-95f567402117,nan,None
+94,marco.amadori@gmail.com,0.5,2025-03-22 10:29:00,2025-03-22 10:34:00,2025-03-22 10:16:51.021,,moving,stationary,nan,nan,e7377022-077a-11f0-ab99-95f567402117,walking,None
+95,marco.amadori@gmail.com,0.22000166666666668,2025-03-22 10:34:00,2025-03-22 10:54:00,2025-03-22 11:04:35.998,2025-03-22 11:23:46.999,stationary,moving,other,nan,e7377024-077a-11f0-ab99-95f567402117,nan,unknown
+95,marco.amadori@gmail.com,0.5,2025-03-22 10:34:00,2025-03-22 10:54:00,2025-03-22 10:16:51.021,,stationary,stationary,other,nan,e7377022-077a-11f0-ab99-95f567402117,nan,None
+96,marco.amadori@gmail.com,0.20760223880597015,2025-03-22 10:54:00,2025-03-22 12:01:00,2025-03-22 12:02:05.439,2025-03-23 10:56:37.797,moving,stationary,nan,nan,98791e90-07cd-11f0-ab99-95f567402117,walking,None
+96,marco.amadori@gmail.com,0.7793534825870647,2025-03-22 10:54:00,2025-03-22 12:01:00,2025-03-22 11:23:46.999,2025-03-22 12:02:05.439,moving,moving,nan,nan,e7377025-077a-11f0-ab99-95f567402117,walking,walking
+96,marco.amadori@gmail.com,0.668407711442786,2025-03-22 10:54:00,2025-03-22 12:01:00,2025-03-22 11:04:35.998,2025-03-22 11:23:46.999,moving,moving,nan,nan,e7377024-077a-11f0-ab99-95f567402117,walking,unknown
+97,marco.amadori@gmail.com,0.5,2025-03-22 12:01:00,2025-03-23 10:55:00,2025-03-23 11:00:16.979,,stationary,moving,nan,nan,f2a22011-098f-11f0-ab99-95f567402117,nan,in_vehicle
+97,marco.amadori@gmail.com,1.0,2025-03-22 12:01:00,2025-03-23 10:55:00,2025-03-22 12:02:05.439,2025-03-23 10:56:37.797,stationary,stationary,nan,nan,98791e90-07cd-11f0-ab99-95f567402117,nan,None
+98,marco.amadori@gmail.com,0.5,2025-03-23 10:55:00,2025-03-23 11:06:00,2025-03-23 11:00:16.979,,moving,moving,nan,nan,f2a22011-098f-11f0-ab99-95f567402117,in_vehicle,in_vehicle
+98,marco.amadori@gmail.com,1.0,2025-03-23 10:55:00,2025-03-23 11:06:00,2025-03-23 10:59:46.957,2025-03-23 11:00:16.979,moving,stationary,nan,nan,f2a22010-098f-11f0-ab99-95f567402117,in_vehicle,None
+98,marco.amadori@gmail.com,1.0,2025-03-23 10:55:00,2025-03-23 11:06:00,2025-03-23 10:56:37.797,2025-03-23 10:59:46.957,moving,moving,nan,nan,98791e91-07cd-11f0-ab99-95f567402117,in_vehicle,in_vehicle
+98,marco.amadori@gmail.com,1.0,2025-03-23 10:55:00,2025-03-23 11:06:00,2025-03-22 12:02:05.439,2025-03-23 10:56:37.797,moving,stationary,nan,nan,98791e90-07cd-11f0-ab99-95f567402117,in_vehicle,None
+99,marco.amadori@gmail.com,0.5,2025-03-23 11:06:00,2025-03-23 11:45:00,2025-03-23 11:59:31.035,,stationary,stationary,shopping mall,nan,f2a22014-098f-11f0-ab99-95f567402117,nan,None
+99,marco.amadori@gmail.com,0.38540085470085467,2025-03-23 11:06:00,2025-03-23 11:45:00,2025-03-23 11:44:58.162,2025-03-23 11:58:52.027,stationary,moving,shopping mall,nan,f2a22013-098f-11f0-ab99-95f567402117,nan,in_vehicle
+99,marco.amadori@gmail.com,0.5,2025-03-23 11:06:00,2025-03-23 11:45:00,2025-03-23 11:00:16.979,,stationary,moving,shopping mall,nan,f2a22011-098f-11f0-ab99-95f567402117,nan,in_vehicle
+99,marco.amadori@gmail.com,0.2380252136752137,2025-03-23 11:06:00,2025-03-23 11:45:00,2025-03-23 10:59:46.957,2025-03-23 11:00:16.979,stationary,stationary,shopping mall,nan,f2a22010-098f-11f0-ab99-95f567402117,nan,None
+99,marco.amadori@gmail.com,0.22519529914529915,2025-03-23 11:06:00,2025-03-23 11:45:00,2025-03-23 10:56:37.797,2025-03-23 10:59:46.957,stationary,moving,shopping mall,nan,98791e91-07cd-11f0-ab99-95f567402117,nan,in_vehicle
+99,marco.amadori@gmail.com,0.14435769230769233,2025-03-23 11:06:00,2025-03-23 11:45:00,2025-03-22 12:02:05.439,2025-03-23 10:56:37.797,stationary,stationary,shopping mall,nan,98791e90-07cd-11f0-ab99-95f567402117,nan,None
+100,marco.amadori@gmail.com,0.5,2025-03-23 11:45:00,2025-03-23 11:58:00,2025-03-23 11:59:31.035,,moving,stationary,nan,nan,f2a22014-098f-11f0-ab99-95f567402117,in_vehicle,None
+100,marco.amadori@gmail.com,1.0,2025-03-23 11:45:00,2025-03-23 11:58:00,2025-03-23 11:44:58.162,2025-03-23 11:58:52.027,moving,moving,nan,nan,f2a22013-098f-11f0-ab99-95f567402117,in_vehicle,in_vehicle
+101,marco.amadori@gmail.com,0.5,2025-03-23 11:58:00,2025-03-23 12:13:00,2025-03-23 11:59:31.035,,stationary,stationary,other,nan,f2a22014-098f-11f0-ab99-95f567402117,nan,None
+101,marco.amadori@gmail.com,1.0,2025-03-23 11:58:00,2025-03-23 12:13:00,2025-03-23 11:44:58.162,2025-03-23 11:58:52.027,stationary,moving,other,nan,f2a22013-098f-11f0-ab99-95f567402117,nan,in_vehicle
+102,marco.amadori@gmail.com,1.0,2025-03-23 12:13:00,2025-03-23 12:27:00,2025-03-23 12:27:35.938,2025-03-23 16:42:31.999,moving,stationary,nan,nan,f2a22016-098f-11f0-ab99-95f567402117,in_vehicle,None
+102,marco.amadori@gmail.com,0.5,2025-03-23 12:13:00,2025-03-23 12:27:00,2025-03-23 11:59:31.035,,moving,stationary,nan,nan,f2a22014-098f-11f0-ab99-95f567402117,in_vehicle,None
+103,marco.amadori@gmail.com,1.0,2025-03-23 12:27:00,2025-03-23 16:40:00,2025-03-23 12:27:35.938,2025-03-23 16:42:31.999,stationary,stationary,home,nan,f2a22016-098f-11f0-ab99-95f567402117,nan,None
+103,marco.amadori@gmail.com,0.5,2025-03-23 12:27:00,2025-03-23 16:40:00,2025-03-23 11:59:31.035,,stationary,stationary,home,nan,f2a22014-098f-11f0-ab99-95f567402117,nan,None
+104,marco.amadori@gmail.com,0.5,2025-03-23 16:40:00,2025-03-23 17:28:00,2025-03-23 17:29:11.498,,moving,stationary,nan,nan,f2a22018-098f-11f0-ab99-95f567402117,walking,None
+104,marco.amadori@gmail.com,0.36527743055555556,2025-03-23 16:40:00,2025-03-23 17:28:00,2025-03-23 12:27:35.938,2025-03-23 16:42:31.999,moving,stationary,nan,nan,f2a22016-098f-11f0-ab99-95f567402117,walking,None
+105,marco.amadori@gmail.com,0.5,2025-03-23 17:28:00,2025-03-24 07:26:00,2025-03-24 07:31:01.038,,stationary,moving,home,nan,f2a22019-098f-11f0-ab99-95f567402117,nan,walking
+105,marco.amadori@gmail.com,0.5,2025-03-23 17:28:00,2025-03-24 07:26:00,2025-03-23 17:29:11.498,,stationary,stationary,home,nan,f2a22018-098f-11f0-ab99-95f567402117,nan,None
+106,marco.amadori@gmail.com,0.5,2025-03-24 07:26:00,2025-03-24 07:42:00,2025-03-24 07:31:01.038,,moving,moving,nan,nan,f2a22019-098f-11f0-ab99-95f567402117,on_bicycle,walking
+107,marco.amadori@gmail.com,0.5,2025-03-24 07:42:00,2025-03-24 08:03:00,2025-03-24 08:18:42.998,,moving,moving,nan,nan,f2a2201a-098f-11f0-ab99-95f567402117,walking,in_vehicle
+107,marco.amadori@gmail.com,0.5,2025-03-24 07:42:00,2025-03-24 08:03:00,2025-03-24 07:31:01.038,,moving,moving,nan,nan,f2a22019-098f-11f0-ab99-95f567402117,walking,walking
+108,marco.amadori@gmail.com,0.5,2025-03-24 08:03:00,2025-03-24 08:14:00,2025-03-24 08:18:42.998,,stationary,moving,other,nan,f2a2201a-098f-11f0-ab99-95f567402117,nan,in_vehicle
+109,marco.amadori@gmail.com,0.5,2025-03-24 08:14:00,2025-03-24 09:00:00,2025-03-24 08:18:42.998,,moving,moving,nan,nan,f2a2201a-098f-11f0-ab99-95f567402117,in_vehicle,in_vehicle
+110,marco.amadori@gmail.com,0.5551096153846153,2025-03-24 09:00:00,2025-03-24 09:26:00,2025-03-24 09:26:34.029,2025-03-24 10:00:45.999,stationary,moving,other,nan,f2a2201c-098f-11f0-ab99-95f567402117,nan,in_vehicle
+111,marco.amadori@gmail.com,1.0,2025-03-24 09:26:00,2025-03-24 09:37:00,2025-03-24 09:26:34.029,2025-03-24 10:00:45.999,moving,moving,nan,nan,f2a2201c-098f-11f0-ab99-95f567402117,in_vehicle,in_vehicle
+112,marco.amadori@gmail.com,0.5037055555555555,2025-03-24 09:37:00,2025-03-24 09:55:00,2025-03-24 10:00:55.998,2025-03-24 10:13:34.999,stationary,stationary,other,nan,f2a2201d-098f-11f0-ab99-95f567402117,nan,None
+112,marco.amadori@gmail.com,1.0,2025-03-24 09:37:00,2025-03-24 09:55:00,2025-03-24 09:26:34.029,2025-03-24 10:00:45.999,stationary,moving,other,nan,f2a2201c-098f-11f0-ab99-95f567402117,nan,in_vehicle
+113,marco.amadori@gmail.com,0.2800033333333333,2025-03-24 09:55:00,2025-03-24 10:00:00,2025-03-24 10:13:35.999,2025-03-24 10:42:32.444,moving,moving,nan,nan,f2a24720-098f-11f0-ab99-95f567402117,in_vehicle,in_vehicle
+113,marco.amadori@gmail.com,1.0,2025-03-24 09:55:00,2025-03-24 10:00:00,2025-03-24 10:00:55.998,2025-03-24 10:13:34.999,moving,stationary,nan,nan,f2a2201d-098f-11f0-ab99-95f567402117,in_vehicle,None
+113,marco.amadori@gmail.com,1.0,2025-03-24 09:55:00,2025-03-24 10:00:00,2025-03-24 09:26:34.029,2025-03-24 10:00:45.999,moving,moving,nan,nan,f2a2201c-098f-11f0-ab99-95f567402117,in_vehicle,in_vehicle
+114,marco.amadori@gmail.com,1.0,2025-03-24 10:00:00,2025-03-24 10:13:00,2025-03-24 10:13:35.999,2025-03-24 10:42:32.444,stationary,moving,other,nan,f2a24720-098f-11f0-ab99-95f567402117,nan,in_vehicle
+114,marco.amadori@gmail.com,1.0,2025-03-24 10:00:00,2025-03-24 10:13:00,2025-03-24 10:00:55.998,2025-03-24 10:13:34.999,stationary,stationary,other,nan,f2a2201d-098f-11f0-ab99-95f567402117,nan,None
+114,marco.amadori@gmail.com,1.0,2025-03-24 10:00:00,2025-03-24 10:13:00,2025-03-24 09:26:34.029,2025-03-24 10:00:45.999,stationary,moving,other,nan,f2a2201c-098f-11f0-ab99-95f567402117,nan,in_vehicle
+115,marco.amadori@gmail.com,0.30758412698412696,2025-03-24 10:13:00,2025-03-24 10:34:00,2025-03-24 10:42:32.444,2025-03-24 16:05:40.001,moving,stationary,nan,nan,f2a24721-098f-11f0-ab99-95f567402117,in_vehicle,None
+115,marco.amadori@gmail.com,1.0,2025-03-24 10:13:00,2025-03-24 10:34:00,2025-03-24 10:13:35.999,2025-03-24 10:42:32.444,moving,moving,nan,nan,f2a24720-098f-11f0-ab99-95f567402117,in_vehicle,in_vehicle
+115,marco.amadori@gmail.com,0.7420626984126985,2025-03-24 10:13:00,2025-03-24 10:34:00,2025-03-24 10:00:55.998,2025-03-24 10:13:34.999,moving,stationary,nan,nan,f2a2201d-098f-11f0-ab99-95f567402117,in_vehicle,None
+115,marco.amadori@gmail.com,0.13174523809523808,2025-03-24 10:13:00,2025-03-24 10:34:00,2025-03-24 09:26:34.029,2025-03-24 10:00:45.999,moving,moving,nan,nan,f2a2201c-098f-11f0-ab99-95f567402117,in_vehicle,in_vehicle
+116,marco.amadori@gmail.com,1.0,2025-03-24 10:34:00,2025-03-24 10:40:00,2025-03-24 10:42:32.444,2025-03-24 16:05:40.001,moving,stationary,nan,nan,f2a24721-098f-11f0-ab99-95f567402117,walking,None
+116,marco.amadori@gmail.com,1.0,2025-03-24 10:34:00,2025-03-24 10:40:00,2025-03-24 10:13:35.999,2025-03-24 10:42:32.444,moving,moving,nan,nan,f2a24720-098f-11f0-ab99-95f567402117,walking,in_vehicle
+117,marco.amadori@gmail.com,1.0,2025-03-24 10:40:00,2025-03-24 16:03:00,2025-03-24 10:42:32.444,2025-03-24 16:05:40.001,stationary,stationary,work,nan,f2a24721-098f-11f0-ab99-95f567402117,nan,None
+118,marco.amadori@gmail.com,1.0,2025-03-24 16:03:00,2025-03-24 16:16:00,2025-03-24 16:15:57.999,2025-03-25 06:38:52.004,moving,stationary,nan,nan,f2a24723-098f-11f0-ab99-95f567402117,on_bicycle,None
+118,marco.amadori@gmail.com,1.0,2025-03-24 16:03:00,2025-03-24 16:16:00,2025-03-24 16:05:40.001,2025-03-24 16:15:57.999,moving,moving,nan,nan,f2a24722-098f-11f0-ab99-95f567402117,on_bicycle,on_bicycle
+118,marco.amadori@gmail.com,1.0,2025-03-24 16:03:00,2025-03-24 16:16:00,2025-03-24 10:42:32.444,2025-03-24 16:05:40.001,moving,stationary,nan,nan,f2a24721-098f-11f0-ab99-95f567402117,on_bicycle,None
+119,marco.amadori@gmail.com,0.5,2025-03-24 16:16:00,2025-03-25 07:43:00,2025-03-25 07:47:21.005,,stationary,moving,home,nan,f2a24726-098f-11f0-ab99-95f567402117,nan,on_bicycle
+119,marco.amadori@gmail.com,0.9469975548363898,2025-03-24 16:16:00,2025-03-25 07:43:00,2025-03-24 16:15:57.999,2025-03-25 06:38:52.004,stationary,stationary,home,nan,f2a24723-098f-11f0-ab99-95f567402117,nan,None
+120,marco.amadori@gmail.com,0.5,2025-03-25 07:43:00,2025-03-25 07:58:00,2025-03-25 07:47:21.005,,moving,moving,nan,nan,f2a24726-098f-11f0-ab99-95f567402117,on_bicycle,on_bicycle
+120,marco.amadori@gmail.com,1.0,2025-03-25 07:43:00,2025-03-25 07:58:00,2025-03-25 06:40:23.846,2025-03-25 07:47:21.005,moving,stationary,nan,nan,f2a24725-098f-11f0-ab99-95f567402117,on_bicycle,None
+121,marco.amadori@gmail.com,0.5,2025-03-25 07:58:00,2025-03-25 17:06:00,2025-03-25 07:47:21.005,,stationary,moving,work,nan,f2a24726-098f-11f0-ab99-95f567402117,nan,on_bicycle
+122,marco.amadori@gmail.com,0.42222361111111106,2025-03-25 17:06:00,2025-03-25 17:18:00,2025-03-25 17:27:55.999,2025-03-26 06:19:47.464,moving,stationary,nan,nan,e5a63611-0a1d-11f0-ab99-95f567402117,on_bicycle,None
+122,marco.amadori@gmail.com,1.0,2025-03-25 17:06:00,2025-03-25 17:18:00,2025-03-25 17:08:25.511,2025-03-25 17:27:55.999,moving,moving,nan,nan,e5a63610-0a1d-11f0-ab99-95f567402117,on_bicycle,walking
+123,marco.amadori@gmail.com,1.0,2025-03-25 17:18:00,2025-03-25 17:26:00,2025-03-25 17:27:55.999,2025-03-26 06:19:47.464,stationary,stationary,other,nan,e5a63611-0a1d-11f0-ab99-95f567402117,nan,None
+123,marco.amadori@gmail.com,1.0,2025-03-25 17:18:00,2025-03-25 17:26:00,2025-03-25 17:08:25.511,2025-03-25 17:27:55.999,stationary,moving,other,nan,e5a63610-0a1d-11f0-ab99-95f567402117,nan,walking
+124,marco.amadori@gmail.com,1.0,2025-03-25 17:26:00,2025-03-25 17:28:00,2025-03-25 17:27:55.999,2025-03-26 06:19:47.464,moving,stationary,nan,nan,e5a63611-0a1d-11f0-ab99-95f567402117,on_bicycle,None
+124,marco.amadori@gmail.com,1.0,2025-03-25 17:26:00,2025-03-25 17:28:00,2025-03-25 17:08:25.511,2025-03-25 17:27:55.999,moving,moving,nan,nan,e5a63610-0a1d-11f0-ab99-95f567402117,on_bicycle,walking
+125,marco.amadori@gmail.com,1.0,2025-03-25 17:28:00,2025-03-25 17:36:00,2025-03-25 17:27:55.999,2025-03-26 06:19:47.464,stationary,stationary,other,nan,e5a63611-0a1d-11f0-ab99-95f567402117,nan,None
+125,marco.amadori@gmail.com,1.0,2025-03-25 17:28:00,2025-03-25 17:36:00,2025-03-25 17:08:25.511,2025-03-25 17:27:55.999,stationary,moving,other,nan,e5a63610-0a1d-11f0-ab99-95f567402117,nan,walking
+126,marco.amadori@gmail.com,1.0,2025-03-25 17:36:00,2025-03-25 17:39:00,2025-03-25 17:27:55.999,2025-03-26 06:19:47.464,moving,stationary,nan,nan,e5a63611-0a1d-11f0-ab99-95f567402117,on_bicycle,None
+126,marco.amadori@gmail.com,1.0,2025-03-25 17:36:00,2025-03-25 17:39:00,2025-03-25 17:08:25.511,2025-03-25 17:27:55.999,moving,moving,nan,nan,e5a63610-0a1d-11f0-ab99-95f567402117,on_bicycle,walking
+127,marco.amadori@gmail.com,1.0,2025-03-25 17:39:00,2025-03-26 06:19:00,2025-03-25 17:27:55.999,2025-03-26 06:19:47.464,stationary,stationary,other,nan,e5a63611-0a1d-11f0-ab99-95f567402117,nan,None
+128,marco.amadori@gmail.com,0.45304722222222227,2025-03-26 06:19:00,2025-03-26 06:31:00,2025-03-26 06:40:33.806,2025-03-26 07:06:54.999,moving,stationary,nan,nan,e5a63613-0a1d-11f0-ab99-95f567402117,in_vehicle,None
+128,marco.amadori@gmail.com,1.0,2025-03-26 06:19:00,2025-03-26 06:31:00,2025-03-26 06:20:20.495,2025-03-26 06:39:59.877,moving,moving,nan,nan,e5a63612-0a1d-11f0-ab99-95f567402117,in_vehicle,in_vehicle
+128,marco.amadori@gmail.com,1.0,2025-03-26 06:19:00,2025-03-26 06:31:00,2025-03-25 17:27:55.999,2025-03-26 06:19:47.464,moving,stationary,nan,nan,e5a63611-0a1d-11f0-ab99-95f567402117,in_vehicle,None
+129,marco.amadori@gmail.com,1.0,2025-03-26 06:31:00,2025-03-26 06:35:00,2025-03-26 06:40:33.806,2025-03-26 07:06:54.999,moving,stationary,nan,nan,e5a63613-0a1d-11f0-ab99-95f567402117,walking,None
+129,marco.amadori@gmail.com,1.0,2025-03-26 06:31:00,2025-03-26 06:35:00,2025-03-26 06:20:20.495,2025-03-26 06:39:59.877,moving,moving,nan,nan,e5a63612-0a1d-11f0-ab99-95f567402117,walking,in_vehicle
+129,marco.amadori@gmail.com,0.9477666666666666,2025-03-26 06:31:00,2025-03-26 06:35:00,2025-03-25 17:27:55.999,2025-03-26 06:19:47.464,moving,stationary,nan,nan,e5a63611-0a1d-11f0-ab99-95f567402117,walking,None
+130,marco.amadori@gmail.com,0.5,2025-03-26 06:35:00,2025-03-26 07:06:00,2025-03-26 07:22:33.289,,stationary,stationary,other,nan,e5a63615-0a1d-11f0-ab99-95f567402117,nan,None
+130,marco.amadori@gmail.com,0.45106451612903226,2025-03-26 06:35:00,2025-03-26 07:06:00,2025-03-26 07:07:01.020,2025-03-26 07:22:33.289,stationary,moving,other,nan,e5a63614-0a1d-11f0-ab99-95f567402117,nan,in_vehicle
+130,marco.amadori@gmail.com,1.0,2025-03-26 06:35:00,2025-03-26 07:06:00,2025-03-26 06:40:33.806,2025-03-26 07:06:54.999,stationary,stationary,other,nan,e5a63613-0a1d-11f0-ab99-95f567402117,nan,None
+130,marco.amadori@gmail.com,0.6450951612903225,2025-03-26 06:35:00,2025-03-26 07:06:00,2025-03-26 06:20:20.495,2025-03-26 06:39:59.877,stationary,moving,other,nan,e5a63612-0a1d-11f0-ab99-95f567402117,nan,in_vehicle
+131,marco.amadori@gmail.com,0.5,2025-03-26 07:06:00,2025-03-26 07:16:00,2025-03-26 07:22:33.289,,moving,stationary,nan,nan,e5a63615-0a1d-11f0-ab99-95f567402117,in_vehicle,None
+131,marco.amadori@gmail.com,1.0,2025-03-26 07:06:00,2025-03-26 07:16:00,2025-03-26 07:07:01.020,2025-03-26 07:22:33.289,moving,moving,nan,nan,e5a63614-0a1d-11f0-ab99-95f567402117,in_vehicle,in_vehicle
+131,marco.amadori@gmail.com,1.0,2025-03-26 07:06:00,2025-03-26 07:16:00,2025-03-26 06:40:33.806,2025-03-26 07:06:54.999,moving,stationary,nan,nan,e5a63613-0a1d-11f0-ab99-95f567402117,in_vehicle,None
+132,marco.amadori@gmail.com,0.5,2025-03-26 07:16:00,2025-03-27 07:16:00,2025-03-26 07:22:33.289,,stationary,stationary,work,nan,e5a63615-0a1d-11f0-ab99-95f567402117,nan,None

@@ -1,0 +1,4 @@
+,None,in_vehicle,on_bicycle,running,unknown,walking
+in_vehicle,29,201,0,0,0,2
+on_bicycle,56,3,36,0,0,7
+walking,69,7,0,3,4,31

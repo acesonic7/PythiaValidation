@@ -1,0 +1,189 @@
+email,gt_start,gt_end,pred_start,pred_end,gt_segment,pred_segment,overlap_percentage,gt_mode,pred_mode,mode_match,gt_purpose,pred_purpose,purpose_match,is_home_work,home_work_match,segment_match,start_time_diff_seconds
+dario.marchini@srmbologna.it,2025-03-11 08:21:00,2025-03-11 08:32:00,2025-03-11 08:29:56.999,2025-03-11 17:00:35.145,moving,stationary,1.0,on_bicycle,None,False,nan,nan,True,False,False,False,536.999
+dario.marchini@srmbologna.it,2025-03-11 08:21:00,2025-03-11 08:32:00,2025-03-11 08:29:56.999,,moving,stationary,0.5,on_bicycle,None,False,nan,nan,True,False,False,False,536.999
+dario.marchini@srmbologna.it,2025-03-11 08:21:00,2025-03-11 08:32:00,2025-03-11 08:21:55.522,2025-03-11 08:29:56.999,moving,moving,1.0,on_bicycle,on_bicycle,True,nan,nan,True,False,False,True,55.522
+dario.marchini@srmbologna.it,2025-03-11 08:32:00,2025-03-11 17:00:00,2025-03-11 17:00:35.145,,stationary,moving,0.5,nan,on_bicycle,False,work,nan,False,True,False,False,30515.145
+dario.marchini@srmbologna.it,2025-03-11 08:32:00,2025-03-11 17:00:00,2025-03-11 08:29:56.999,2025-03-11 17:00:35.145,stationary,stationary,1.0,nan,None,False,work,nan,False,True,False,True,-123.001
+dario.marchini@srmbologna.it,2025-03-11 08:32:00,2025-03-11 17:00:00,2025-03-11 08:29:56.999,,stationary,stationary,0.5,nan,None,False,work,nan,False,True,False,True,-123.001
+dario.marchini@srmbologna.it,2025-03-11 17:00:00,2025-03-11 17:12:00,2025-03-11 17:38:52.433,,moving,moving,0.5,on_bicycle,walking,False,nan,nan,True,False,False,True,2332.433
+dario.marchini@srmbologna.it,2025-03-11 17:00:00,2025-03-11 17:12:00,2025-03-11 17:00:35.145,,moving,moving,0.5,on_bicycle,on_bicycle,True,nan,nan,True,False,False,True,35.145
+dario.marchini@srmbologna.it,2025-03-11 17:00:00,2025-03-11 17:12:00,2025-03-11 08:29:56.999,2025-03-11 17:00:35.145,moving,stationary,1.0,on_bicycle,None,False,nan,nan,True,False,False,False,-30603.001
+dario.marchini@srmbologna.it,2025-03-11 17:12:00,2025-03-11 17:34:00,2025-03-11 17:38:52.433,,stationary,moving,0.5,nan,walking,False,other (supermarket),nan,False,False,False,False,1612.433
+dario.marchini@srmbologna.it,2025-03-11 17:12:00,2025-03-11 17:34:00,2025-03-11 17:00:35.145,,stationary,moving,0.5,nan,on_bicycle,False,other (supermarket),nan,False,False,False,False,-684.855
+dario.marchini@srmbologna.it,2025-03-11 17:12:00,2025-03-11 17:34:00,2025-03-11 08:29:56.999,2025-03-11 17:00:35.145,stationary,stationary,0.16298863636363636,nan,None,False,other (supermarket),nan,False,False,False,True,-31323.001
+dario.marchini@srmbologna.it,2025-03-11 17:34:00,2025-03-11 17:55:00,2025-03-11 17:38:52.433,,moving,moving,0.5,walking,walking,True,nan,nan,True,False,False,True,292.433
+dario.marchini@srmbologna.it,2025-03-11 17:55:00,2025-03-12 08:21:00,2025-03-12 08:31:36.999,,stationary,stationary,0.5,nan,None,False,home,nan,False,True,False,True,52596.999
+dario.marchini@srmbologna.it,2025-03-11 17:55:00,2025-03-12 08:21:00,2025-03-12 08:29:25.280,,stationary,stationary,0.5,nan,None,False,home,nan,False,True,False,True,52465.28
+dario.marchini@srmbologna.it,2025-03-11 17:55:00,2025-03-12 08:21:00,2025-03-12 08:29:25.280,,stationary,stationary,0.5,nan,None,False,home,nan,False,True,False,True,52465.28
+dario.marchini@srmbologna.it,2025-03-11 17:55:00,2025-03-12 08:21:00,2025-03-11 17:38:52.433,,stationary,moving,0.5,nan,walking,False,home,nan,False,True,False,False,-967.567
+dario.marchini@srmbologna.it,2025-03-12 08:21:00,2025-03-12 08:35:00,2025-03-12 08:31:36.999,2025-03-12 14:42:14.009,moving,stationary,1.0,on_bicycle,None,False,nan,nan,True,False,False,False,636.999
+dario.marchini@srmbologna.it,2025-03-12 08:21:00,2025-03-12 08:35:00,2025-03-12 08:31:36.999,,moving,stationary,0.5,on_bicycle,None,False,nan,nan,True,False,False,False,636.999
+dario.marchini@srmbologna.it,2025-03-12 08:21:00,2025-03-12 08:35:00,2025-03-12 08:29:25.280,,moving,stationary,0.5,on_bicycle,None,False,nan,nan,True,False,False,False,505.28
+dario.marchini@srmbologna.it,2025-03-12 08:21:00,2025-03-12 08:35:00,2025-03-12 08:29:25.280,,moving,stationary,0.5,on_bicycle,None,False,nan,nan,True,False,False,False,505.28
+dario.marchini@srmbologna.it,2025-03-12 08:21:00,2025-03-12 08:35:00,2025-03-12 08:21:33.153,2025-03-12 08:29:25.280,moving,moving,1.0,on_bicycle,on_bicycle,True,nan,nan,True,False,False,True,33.153
+dario.marchini@srmbologna.it,2025-03-12 08:35:00,2025-03-12 14:39:00,2025-03-12 14:48:50.999,,stationary,stationary,0.5,nan,None,False,work,nan,False,True,False,True,22430.999
+dario.marchini@srmbologna.it,2025-03-12 08:35:00,2025-03-12 14:39:00,2025-03-12 14:48:50.999,,stationary,stationary,0.5,nan,None,False,work,nan,False,True,False,True,22430.999
+dario.marchini@srmbologna.it,2025-03-12 08:35:00,2025-03-12 14:39:00,2025-03-12 08:31:36.999,2025-03-12 14:42:14.009,stationary,stationary,1.0,nan,None,False,work,nan,False,True,False,True,-203.001
+dario.marchini@srmbologna.it,2025-03-12 08:35:00,2025-03-12 14:39:00,2025-03-12 08:31:36.999,,stationary,stationary,0.5,nan,None,False,work,nan,False,True,False,True,-203.001
+dario.marchini@srmbologna.it,2025-03-12 08:35:00,2025-03-12 14:39:00,2025-03-12 08:29:25.280,,stationary,stationary,0.5,nan,None,False,work,nan,False,True,False,True,-334.72
+dario.marchini@srmbologna.it,2025-03-12 08:35:00,2025-03-12 14:39:00,2025-03-12 08:29:25.280,,stationary,stationary,0.5,nan,None,False,work,nan,False,True,False,True,-334.72
+dario.marchini@srmbologna.it,2025-03-12 14:39:00,2025-03-12 14:52:00,2025-03-12 14:48:50.999,,moving,stationary,0.5,on_bicycle,None,False,nan,nan,True,False,False,False,590.999
+dario.marchini@srmbologna.it,2025-03-12 14:39:00,2025-03-12 14:52:00,2025-03-12 14:48:50.999,,moving,stationary,0.5,on_bicycle,None,False,nan,nan,True,False,False,False,590.999
+dario.marchini@srmbologna.it,2025-03-12 14:39:00,2025-03-12 14:52:00,2025-03-12 14:42:14.009,2025-03-12 14:48:50.999,moving,moving,1.0,on_bicycle,on_bicycle,True,nan,nan,True,False,False,True,194.009
+dario.marchini@srmbologna.it,2025-03-12 14:39:00,2025-03-12 14:52:00,2025-03-12 08:31:36.999,2025-03-12 14:42:14.009,moving,stationary,1.0,on_bicycle,None,False,nan,nan,True,False,False,False,-22043.001
+dario.marchini@srmbologna.it,2025-03-12 14:52:00,2025-03-12 17:18:00,2025-03-12 17:27:31.999,,stationary,stationary,0.5,nan,None,False,work,nan,False,True,False,True,9331.999
+dario.marchini@srmbologna.it,2025-03-12 14:52:00,2025-03-12 17:18:00,2025-03-12 14:48:50.999,,stationary,stationary,0.5,nan,None,False,work,nan,False,True,False,True,-189.001
+dario.marchini@srmbologna.it,2025-03-12 14:52:00,2025-03-12 17:18:00,2025-03-12 14:48:50.999,,stationary,stationary,0.5,nan,None,False,work,nan,False,True,False,True,-189.001
+dario.marchini@srmbologna.it,2025-03-12 17:18:00,2025-03-12 17:28:00,2025-03-12 17:27:31.999,,moving,stationary,0.5,on_bicycle,None,False,nan,nan,True,False,False,False,571.999
+dario.marchini@srmbologna.it,2025-03-12 17:28:00,2025-03-13 08:21:00,2025-03-13 08:34:31.016,,stationary,stationary,0.5,nan,None,False,home,nan,False,True,False,True,54391.016
+dario.marchini@srmbologna.it,2025-03-12 17:28:00,2025-03-13 08:21:00,2025-03-12 17:27:31.999,,stationary,stationary,0.5,nan,None,False,home,nan,False,True,False,True,-28.001
+dario.marchini@srmbologna.it,2025-03-13 08:21:00,2025-03-13 08:35:00,2025-03-13 08:34:31.016,,moving,stationary,0.5,on_bicycle,None,False,nan,nan,True,False,False,False,811.016
+dario.marchini@srmbologna.it,2025-03-13 08:21:00,2025-03-13 08:35:00,2025-03-13 08:22:04.981,2025-03-13 08:34:31.016,moving,moving,1.0,on_bicycle,on_bicycle,True,nan,nan,True,False,False,True,64.981
+dario.marchini@srmbologna.it,2025-03-13 08:35:00,2025-03-13 17:09:00,2025-03-13 08:34:31.016,,stationary,stationary,0.5,nan,None,False,work,nan,False,True,False,True,-28.984
+dario.marchini@srmbologna.it,2025-03-13 17:09:00,2025-03-13 17:29:00,2025-03-13 17:40:26.489,2025-03-13 17:57:48.842,moving,stationary,0.17792583333333334,on_bicycle,None,False,nan,nan,True,False,False,False,1886.489
+dario.marchini@srmbologna.it,2025-03-13 17:09:00,2025-03-13 17:29:00,2025-03-13 17:34:22.999,2025-03-13 17:40:26.489,moving,moving,0.4808341666666667,on_bicycle,walking,False,nan,nan,True,False,False,True,1522.999
+dario.marchini@srmbologna.it,2025-03-13 17:09:00,2025-03-13 17:29:00,2025-03-13 17:29:00.022,2025-03-13 17:34:22.999,moving,stationary,0.7499816666666667,on_bicycle,None,False,nan,nan,True,False,False,False,1200.022
+dario.marchini@srmbologna.it,2025-03-13 17:09:00,2025-03-13 17:29:00,2025-03-13 17:11:50.433,2025-03-13 17:29:00.022,moving,moving,1.0,on_bicycle,on_bicycle,True,nan,nan,True,False,False,True,170.433
+dario.marchini@srmbologna.it,2025-03-13 17:29:00,2025-03-13 17:55:00,2025-03-13 18:03:56.999,2025-03-17 08:18:26.951,stationary,stationary,0.2326929487179487,nan,None,False,other (supermarket),nan,False,False,False,True,2096.999
+dario.marchini@srmbologna.it,2025-03-13 17:29:00,2025-03-13 17:55:00,2025-03-13 18:03:56.999,,stationary,stationary,0.5,nan,None,False,other (supermarket),nan,False,False,False,True,2096.999
+dario.marchini@srmbologna.it,2025-03-13 17:29:00,2025-03-13 17:55:00,2025-03-13 17:57:48.842,2025-03-13 18:03:56.999,stationary,moving,0.46869102564102566,nan,on_bicycle,False,other (supermarket),nan,False,False,False,False,1728.842
+dario.marchini@srmbologna.it,2025-03-13 17:29:00,2025-03-13 17:55:00,2025-03-13 17:40:26.489,2025-03-13 17:57:48.842,stationary,stationary,1.0,nan,None,False,other (supermarket),nan,False,False,False,True,686.489
+dario.marchini@srmbologna.it,2025-03-13 17:29:00,2025-03-13 17:55:00,2025-03-13 17:34:22.999,2025-03-13 17:40:26.489,stationary,moving,1.0,nan,walking,False,other (supermarket),nan,False,False,False,False,322.999
+dario.marchini@srmbologna.it,2025-03-13 17:29:00,2025-03-13 17:55:00,2025-03-13 17:29:00.022,2025-03-13 17:34:22.999,stationary,stationary,0.783973717948718,nan,None,False,other (supermarket),nan,False,False,False,True,0.022
+dario.marchini@srmbologna.it,2025-03-13 17:29:00,2025-03-13 17:55:00,2025-03-13 17:11:50.433,2025-03-13 17:29:00.022,stationary,moving,0.5769371794871795,nan,on_bicycle,False,other (supermarket),nan,False,False,False,False,-1029.567
+dario.marchini@srmbologna.it,2025-03-13 17:55:00,2025-03-13 18:03:00,2025-03-13 18:03:56.999,2025-03-17 08:18:26.951,moving,stationary,1.0,on_bicycle,None,False,nan,nan,True,False,False,False,536.999
+dario.marchini@srmbologna.it,2025-03-13 17:55:00,2025-03-13 18:03:00,2025-03-13 18:03:56.999,,moving,stationary,0.5,on_bicycle,None,False,nan,nan,True,False,False,False,536.999
+dario.marchini@srmbologna.it,2025-03-13 17:55:00,2025-03-13 18:03:00,2025-03-13 17:57:48.842,2025-03-13 18:03:56.999,moving,moving,1.0,on_bicycle,on_bicycle,True,nan,nan,True,False,False,True,168.842
+dario.marchini@srmbologna.it,2025-03-13 17:55:00,2025-03-13 18:03:00,2025-03-13 17:40:26.489,2025-03-13 17:57:48.842,moving,stationary,1.0,on_bicycle,None,False,nan,nan,True,False,False,False,-873.511
+dario.marchini@srmbologna.it,2025-03-13 18:03:00,2025-03-17 08:18:00,2025-03-17 08:33:10.999,,stationary,stationary,0.5,nan,None,False,home,nan,False,True,False,True,311410.999
+dario.marchini@srmbologna.it,2025-03-13 18:03:00,2025-03-17 08:18:00,2025-03-13 18:03:56.999,2025-03-17 08:18:26.951,stationary,stationary,1.0,nan,None,False,home,nan,False,True,False,True,56.999
+dario.marchini@srmbologna.it,2025-03-13 18:03:00,2025-03-17 08:18:00,2025-03-13 18:03:56.999,,stationary,stationary,0.5,nan,None,False,home,nan,False,True,False,True,56.999
+dario.marchini@srmbologna.it,2025-03-17 08:18:00,2025-03-17 08:33:00,2025-03-17 08:33:10.999,,moving,stationary,0.5,on_bicycle,None,False,nan,nan,True,False,False,False,910.999
+dario.marchini@srmbologna.it,2025-03-17 08:18:00,2025-03-17 08:33:00,2025-03-17 08:33:10.999,2025-03-17 17:20:52.132,moving,stationary,0.9877788888888889,on_bicycle,None,False,nan,nan,True,False,False,False,910.999
+dario.marchini@srmbologna.it,2025-03-17 08:18:00,2025-03-17 08:33:00,2025-03-17 08:18:26.951,2025-03-17 08:33:10.999,moving,moving,1.0,on_bicycle,on_bicycle,True,nan,nan,True,False,False,True,26.951
+dario.marchini@srmbologna.it,2025-03-17 08:18:00,2025-03-17 08:33:00,2025-03-13 18:03:56.999,2025-03-17 08:18:26.951,moving,stationary,1.0,on_bicycle,None,False,nan,nan,True,False,False,False,-310443.001
+dario.marchini@srmbologna.it,2025-03-17 08:33:00,2025-03-17 17:20:00,2025-03-17 17:42:19.999,,stationary,stationary,0.5,nan,None,False,work,nan,False,True,False,True,32959.999
+dario.marchini@srmbologna.it,2025-03-17 08:33:00,2025-03-17 17:20:00,2025-03-17 08:33:10.999,,stationary,stationary,0.5,nan,None,False,work,nan,False,True,False,True,10.999
+dario.marchini@srmbologna.it,2025-03-17 08:33:00,2025-03-17 17:20:00,2025-03-17 08:33:10.999,2025-03-17 17:20:52.132,stationary,stationary,1.0,nan,None,False,work,nan,False,True,False,True,10.999
+dario.marchini@srmbologna.it,2025-03-17 17:20:00,2025-03-17 17:42:00,2025-03-17 17:42:19.999,,moving,stationary,0.5,on_bicycle,None,False,nan,nan,True,False,False,False,1339.999
+dario.marchini@srmbologna.it,2025-03-17 17:20:00,2025-03-17 17:42:00,2025-03-17 17:20:52.132,2025-03-17 17:42:19.999,moving,moving,1.0,on_bicycle,on_bicycle,True,nan,nan,True,False,False,True,52.132
+dario.marchini@srmbologna.it,2025-03-17 17:20:00,2025-03-17 17:42:00,2025-03-17 08:33:10.999,2025-03-17 17:20:52.132,moving,stationary,0.7213121212121212,on_bicycle,None,False,nan,nan,True,False,False,False,-31609.001
+dario.marchini@srmbologna.it,2025-03-17 17:42:00,2025-03-18 08:20:00,2025-03-18 08:30:01.999,,stationary,stationary,0.5,nan,None,False,home,nan,False,True,False,True,53281.999
+dario.marchini@srmbologna.it,2025-03-17 17:42:00,2025-03-18 08:20:00,2025-03-17 17:42:19.999,,stationary,stationary,0.5,nan,None,False,home,nan,False,True,False,True,19.999
+dario.marchini@srmbologna.it,2025-03-18 08:20:00,2025-03-18 08:33:00,2025-03-18 08:30:01.999,2025-03-18 17:25:28.039,moving,stationary,1.0,on_bicycle,None,False,nan,nan,True,False,False,False,601.999
+dario.marchini@srmbologna.it,2025-03-18 08:20:00,2025-03-18 08:33:00,2025-03-18 08:30:01.999,,moving,stationary,0.5,on_bicycle,None,False,nan,nan,True,False,False,False,601.999
+dario.marchini@srmbologna.it,2025-03-18 08:20:00,2025-03-18 08:33:00,2025-03-18 08:22:38.749,2025-03-18 08:30:01.999,moving,moving,1.0,on_bicycle,on_bicycle,True,nan,nan,True,False,False,True,158.749
+dario.marchini@srmbologna.it,2025-03-18 08:33:00,2025-03-18 17:25:00,2025-03-18 08:30:01.999,2025-03-18 17:25:28.039,stationary,stationary,1.0,nan,None,False,work,nan,False,True,False,True,-178.001
+dario.marchini@srmbologna.it,2025-03-18 08:33:00,2025-03-18 17:25:00,2025-03-18 08:30:01.999,,stationary,stationary,0.5,nan,None,False,work,nan,False,True,False,True,-178.001
+dario.marchini@srmbologna.it,2025-03-18 17:25:00,2025-03-18 17:40:00,2025-03-18 17:41:27.014,2025-03-18 17:55:15.309,moving,stationary,0.9033177777777778,on_bicycle,None,False,nan,nan,True,False,False,False,987.014
+dario.marchini@srmbologna.it,2025-03-18 17:25:00,2025-03-18 17:40:00,2025-03-18 17:25:28.039,2025-03-18 17:41:27.014,moving,moving,1.0,on_bicycle,on_bicycle,True,nan,nan,True,False,False,True,28.039
+dario.marchini@srmbologna.it,2025-03-18 17:25:00,2025-03-18 17:40:00,2025-03-18 08:30:01.999,2025-03-18 17:25:28.039,moving,stationary,1.0,on_bicycle,None,False,nan,nan,True,False,False,False,-32098.001
+dario.marchini@srmbologna.it,2025-03-18 17:40:00,2025-03-18 17:55:00,2025-03-18 18:10:28.999,,stationary,stationary,0.5,nan,None,False,home,nan,False,True,False,True,1828.999
+dario.marchini@srmbologna.it,2025-03-18 17:40:00,2025-03-18 17:55:00,2025-03-18 17:55:15.309,2025-03-18 18:10:28.999,stationary,moving,0.98299,nan,in_vehicle,False,home,nan,False,True,False,False,915.309
+dario.marchini@srmbologna.it,2025-03-18 17:40:00,2025-03-18 17:55:00,2025-03-18 17:41:27.014,2025-03-18 17:55:15.309,stationary,stationary,1.0,nan,None,False,home,nan,False,True,False,True,87.014
+dario.marchini@srmbologna.it,2025-03-18 17:40:00,2025-03-18 17:55:00,2025-03-18 17:25:28.039,2025-03-18 17:41:27.014,stationary,moving,1.0,nan,on_bicycle,False,home,nan,False,True,False,False,-871.961
+dario.marchini@srmbologna.it,2025-03-18 17:55:00,2025-03-18 18:10:00,2025-03-18 18:10:28.999,,moving,stationary,0.5,in_vehicle,None,False,nan,nan,True,False,False,False,928.999
+dario.marchini@srmbologna.it,2025-03-18 17:55:00,2025-03-18 18:10:00,2025-03-18 17:55:15.309,2025-03-18 18:10:28.999,moving,moving,1.0,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,15.309
+dario.marchini@srmbologna.it,2025-03-18 17:55:00,2025-03-18 18:10:00,2025-03-18 17:41:27.014,2025-03-18 17:55:15.309,moving,stationary,1.0,in_vehicle,None,False,nan,nan,True,False,False,False,-812.986
+dario.marchini@srmbologna.it,2025-03-18 18:10:00,2025-03-18 18:24:00,2025-03-18 18:53:27.765,,stationary,moving,0.5,nan,in_vehicle,False,other (shop),nan,False,False,False,False,2607.765
+dario.marchini@srmbologna.it,2025-03-18 18:10:00,2025-03-18 18:24:00,2025-03-18 18:10:28.999,,stationary,stationary,0.5,nan,None,False,other (shop),nan,False,False,False,True,28.999
+dario.marchini@srmbologna.it,2025-03-18 18:10:00,2025-03-18 18:24:00,2025-03-18 17:55:15.309,2025-03-18 18:10:28.999,stationary,moving,1.0,nan,in_vehicle,False,other (shop),nan,False,False,False,False,-884.691
+dario.marchini@srmbologna.it,2025-03-18 18:24:00,2025-03-18 18:39:00,2025-03-18 18:53:27.765,,moving,moving,0.5,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,1767.765
+dario.marchini@srmbologna.it,2025-03-18 18:24:00,2025-03-18 18:39:00,2025-03-18 18:39:19.253,2025-03-18 18:53:27.765,moving,stationary,0.9786077777777777,in_vehicle,None,False,nan,nan,True,False,False,False,919.253
+dario.marchini@srmbologna.it,2025-03-18 18:24:00,2025-03-18 18:39:00,2025-03-18 18:10:28.999,,moving,stationary,0.5,in_vehicle,None,False,nan,nan,True,False,False,False,-811.001
+dario.marchini@srmbologna.it,2025-03-18 18:39:00,2025-03-18 18:53:00,2025-03-18 18:53:27.765,,stationary,moving,0.5,nan,in_vehicle,False,other (shop),nan,False,False,False,False,867.765
+dario.marchini@srmbologna.it,2025-03-18 18:39:00,2025-03-18 18:53:00,2025-03-18 18:39:19.253,2025-03-18 18:53:27.765,stationary,stationary,1.0,nan,None,False,other (shop),nan,False,False,False,True,19.253
+dario.marchini@srmbologna.it,2025-03-18 18:39:00,2025-03-18 18:53:00,2025-03-18 18:10:28.999,,stationary,stationary,0.5,nan,None,False,other (shop),nan,False,False,False,True,-1711.001
+dario.marchini@srmbologna.it,2025-03-18 18:53:00,2025-03-18 19:14:00,2025-03-18 18:53:27.765,,moving,moving,0.5,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,27.765
+dario.marchini@srmbologna.it,2025-03-18 18:53:00,2025-03-18 19:14:00,2025-03-18 18:39:19.253,2025-03-18 18:53:27.765,moving,stationary,0.7363214285714286,in_vehicle,None,False,nan,nan,True,False,False,False,-820.747
+dario.marchini@srmbologna.it,2025-03-18 19:14:00,2025-03-18 21:25:00,2025-03-18 21:25:10.220,,stationary,moving,0.5,nan,in_vehicle,False,home,nan,False,True,False,False,7870.22
+dario.marchini@srmbologna.it,2025-03-18 19:14:00,2025-03-18 21:25:00,2025-03-18 18:53:27.765,,stationary,moving,0.5,nan,in_vehicle,False,home,nan,False,True,False,False,-1232.235
+dario.marchini@srmbologna.it,2025-03-18 21:25:00,2025-03-18 21:54:00,2025-03-18 21:25:10.220,,moving,moving,0.5,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,10.22
+dario.marchini@srmbologna.it,2025-03-18 21:54:00,2025-03-19 00:28:00,2025-03-19 00:56:02.999,,stationary,stationary,0.5,nan,None,False,other (sport),nan,False,False,False,True,10922.999
+dario.marchini@srmbologna.it,2025-03-18 21:54:00,2025-03-19 00:28:00,2025-03-18 21:25:10.220,,stationary,moving,0.5,nan,in_vehicle,False,other (sport),nan,False,False,False,False,-1729.78
+dario.marchini@srmbologna.it,2025-03-19 00:28:00,2025-03-19 00:56:00,2025-03-19 00:56:02.999,,moving,stationary,0.5,walking,None,False,nan,nan,True,False,False,False,1682.999
+dario.marchini@srmbologna.it,2025-03-19 00:28:00,2025-03-19 00:56:00,2025-03-19 00:56:02.999,2025-03-19 13:14:56.999,moving,stationary,0.5339291666666667,walking,None,False,nan,nan,True,False,False,False,1682.999
+dario.marchini@srmbologna.it,2025-03-19 00:28:00,2025-03-19 00:56:00,2025-03-19 00:53:02.999,2025-03-19 00:56:02.999,moving,moving,0.6410720238095238,walking,walking,True,nan,nan,True,False,False,True,1502.999
+dario.marchini@srmbologna.it,2025-03-19 00:28:00,2025-03-19 00:56:00,2025-03-19 00:28:49.246,2025-03-19 00:52:47.999,moving,moving,1.0,walking,in_vehicle,False,nan,nan,True,False,False,True,49.246
+dario.marchini@srmbologna.it,2025-03-19 00:56:00,2025-03-19 13:10:00,2025-03-19 00:56:02.999,,stationary,stationary,0.5,nan,None,False,home,nan,False,True,False,True,2.999
+dario.marchini@srmbologna.it,2025-03-19 00:56:00,2025-03-19 13:10:00,2025-03-19 00:56:02.999,2025-03-19 13:14:56.999,stationary,stationary,1.0,nan,None,False,home,nan,False,True,False,True,2.999
+dario.marchini@srmbologna.it,2025-03-19 13:10:00,2025-03-19 13:22:00,2025-03-19 13:48:20.999,,moving,stationary,0.5,on_bicycle,None,False,nan,nan,True,False,False,False,2300.999
+dario.marchini@srmbologna.it,2025-03-19 13:10:00,2025-03-19 13:22:00,2025-03-19 13:35:38.708,2025-03-19 13:48:20.999,moving,moving,0.11290555555555556,on_bicycle,on_bicycle,True,nan,nan,True,False,False,True,1538.708
+dario.marchini@srmbologna.it,2025-03-19 13:10:00,2025-03-19 13:22:00,2025-03-19 13:20:45.999,2025-03-19 13:33:01.999,moving,moving,1.0,on_bicycle,walking,False,nan,nan,True,False,False,True,645.999
+dario.marchini@srmbologna.it,2025-03-19 13:10:00,2025-03-19 13:22:00,2025-03-19 13:14:56.999,2025-03-19 13:20:29.999,moving,moving,1.0,on_bicycle,on_bicycle,True,nan,nan,True,False,False,True,296.999
+dario.marchini@srmbologna.it,2025-03-19 13:10:00,2025-03-19 13:22:00,2025-03-19 00:56:02.999,2025-03-19 13:14:56.999,moving,stationary,1.0,on_bicycle,None,False,nan,nan,True,False,False,False,-44037.001
+dario.marchini@srmbologna.it,2025-03-19 13:22:00,2025-03-19 13:34:00,2025-03-19 13:48:20.999,,stationary,stationary,0.5,nan,None,False,other (supermarket),nan,False,False,False,True,1580.999
+dario.marchini@srmbologna.it,2025-03-19 13:22:00,2025-03-19 13:34:00,2025-03-19 13:35:38.708,2025-03-19 13:48:20.999,stationary,moving,1.0,nan,on_bicycle,False,other (supermarket),nan,False,False,False,False,818.708
+dario.marchini@srmbologna.it,2025-03-19 13:22:00,2025-03-19 13:34:00,2025-03-19 13:20:45.999,2025-03-19 13:33:01.999,stationary,moving,1.0,nan,walking,False,other (supermarket),nan,False,False,False,False,-74.001
+dario.marchini@srmbologna.it,2025-03-19 13:22:00,2025-03-19 13:34:00,2025-03-19 13:14:56.999,2025-03-19 13:20:29.999,stationary,moving,1.0,nan,on_bicycle,False,other (supermarket),nan,False,False,False,False,-423.001
+dario.marchini@srmbologna.it,2025-03-19 13:22:00,2025-03-19 13:34:00,2025-03-19 00:56:02.999,2025-03-19 13:14:56.999,stationary,stationary,0.6624986111111112,nan,None,False,other (supermarket),nan,False,False,False,True,-44757.001
+dario.marchini@srmbologna.it,2025-03-19 13:34:00,2025-03-19 13:47:00,2025-03-19 13:48:20.999,2025-03-20 08:18:48.975,moving,stationary,1.0,on_bicycle,None,False,nan,nan,True,False,False,False,860.999
+dario.marchini@srmbologna.it,2025-03-19 13:34:00,2025-03-19 13:47:00,2025-03-19 13:48:20.999,,moving,stationary,0.5,on_bicycle,None,False,nan,nan,True,False,False,False,860.999
+dario.marchini@srmbologna.it,2025-03-19 13:34:00,2025-03-19 13:47:00,2025-03-19 13:35:38.708,2025-03-19 13:48:20.999,moving,moving,1.0,on_bicycle,on_bicycle,True,nan,nan,True,False,False,True,98.708
+dario.marchini@srmbologna.it,2025-03-19 13:34:00,2025-03-19 13:47:00,2025-03-19 13:20:45.999,2025-03-19 13:33:01.999,moving,moving,1.0,on_bicycle,walking,False,nan,nan,True,False,False,True,-794.001
+dario.marchini@srmbologna.it,2025-03-19 13:34:00,2025-03-19 13:47:00,2025-03-19 13:14:56.999,2025-03-19 13:20:29.999,moving,moving,0.11538333333333332,on_bicycle,on_bicycle,True,nan,nan,True,False,False,True,-1143.001
+dario.marchini@srmbologna.it,2025-03-19 13:47:00,2025-03-20 08:17:00,2025-03-20 08:28:53.999,,stationary,stationary,0.5,nan,None,False,home,nan,False,True,False,True,67313.999
+dario.marchini@srmbologna.it,2025-03-19 13:47:00,2025-03-20 08:17:00,2025-03-19 13:48:20.999,2025-03-20 08:18:48.975,stationary,stationary,1.0,nan,None,False,home,nan,False,True,False,True,80.999
+dario.marchini@srmbologna.it,2025-03-19 13:47:00,2025-03-20 08:17:00,2025-03-19 13:48:20.999,,stationary,stationary,0.5,nan,None,False,home,nan,False,True,False,True,80.999
+dario.marchini@srmbologna.it,2025-03-20 08:17:00,2025-03-20 08:31:00,2025-03-20 08:28:53.999,,moving,stationary,0.5,on_bicycle,None,False,nan,nan,True,False,False,False,713.999
+dario.marchini@srmbologna.it,2025-03-20 08:17:00,2025-03-20 08:31:00,2025-03-20 08:18:48.975,2025-03-20 08:28:53.999,moving,moving,1.0,on_bicycle,in_vehicle,False,nan,nan,True,False,False,True,108.975
+dario.marchini@srmbologna.it,2025-03-20 08:17:00,2025-03-20 08:31:00,2025-03-19 13:48:20.999,2025-03-20 08:18:48.975,moving,stationary,1.0,on_bicycle,None,False,nan,nan,True,False,False,False,-66519.001
+dario.marchini@srmbologna.it,2025-03-20 08:31:00,2025-03-20 17:20:00,2025-03-20 17:34:51.026,,stationary,stationary,0.5,nan,None,False,work,nan,False,True,False,True,32631.026
+dario.marchini@srmbologna.it,2025-03-20 08:31:00,2025-03-20 17:20:00,2025-03-20 08:28:53.999,,stationary,stationary,0.5,nan,None,False,work,nan,False,True,False,True,-126.001
+dario.marchini@srmbologna.it,2025-03-20 17:20:00,2025-03-20 17:34:00,2025-03-20 17:34:51.026,,moving,stationary,0.5,on_bicycle,None,False,nan,nan,True,False,False,False,891.026
+dario.marchini@srmbologna.it,2025-03-20 17:34:00,2025-03-21 08:17:00,2025-03-20 17:34:51.026,,stationary,stationary,0.5,nan,None,False,home,nan,False,True,False,True,51.026
+dario.marchini@srmbologna.it,2025-03-21 08:17:00,2025-03-21 08:30:00,2025-03-21 08:29:00.999,2025-03-21 16:35:07.988,moving,stationary,1.0,on_bicycle,None,False,nan,nan,True,False,False,False,720.999
+dario.marchini@srmbologna.it,2025-03-21 08:17:00,2025-03-21 08:30:00,2025-03-21 08:17:09.026,2025-03-21 08:29:00.999,moving,moving,1.0,on_bicycle,on_bicycle,True,nan,nan,True,False,False,True,9.026
+dario.marchini@srmbologna.it,2025-03-21 08:30:00,2025-03-21 16:35:00,2025-03-21 08:29:00.999,2025-03-21 16:35:07.988,stationary,stationary,1.0,nan,None,False,work,nan,False,True,False,True,-59.001
+dario.marchini@srmbologna.it,2025-03-21 16:35:00,2025-03-21 16:48:00,2025-03-21 16:48:09.999,2025-03-21 19:09:51.629,moving,stationary,1.0,on_bicycle,None,False,nan,nan,True,False,False,False,789.999
+dario.marchini@srmbologna.it,2025-03-21 16:35:00,2025-03-21 16:48:00,2025-03-21 16:35:07.988,2025-03-21 16:48:00.999,moving,moving,1.0,on_bicycle,on_bicycle,True,nan,nan,True,False,False,True,7.988
+dario.marchini@srmbologna.it,2025-03-21 16:35:00,2025-03-21 16:48:00,2025-03-21 08:29:00.999,2025-03-21 16:35:07.988,moving,stationary,1.0,on_bicycle,None,False,nan,nan,True,False,False,False,-29159.001
+dario.marchini@srmbologna.it,2025-03-21 16:48:00,2025-03-21 19:09:00,2025-03-21 16:48:09.999,2025-03-21 19:09:51.629,stationary,stationary,1.0,nan,None,False,home,nan,False,True,False,True,9.999
+dario.marchini@srmbologna.it,2025-03-21 16:48:00,2025-03-21 19:09:00,2025-03-21 16:35:07.988,2025-03-21 16:48:00.999,stationary,moving,0.10650106382978723,nan,on_bicycle,False,home,nan,False,True,False,False,-772.012
+dario.marchini@srmbologna.it,2025-03-21 19:09:00,2025-03-21 19:58:00,2025-03-21 19:45:26.206,2025-03-21 20:19:19.288,moving,moving,0.5625149659863946,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,2186.206
+dario.marchini@srmbologna.it,2025-03-21 19:09:00,2025-03-21 19:58:00,2025-03-21 19:20:44.212,2025-03-21 19:45:26.206,moving,stationary,1.0,in_vehicle,None,False,nan,nan,True,False,False,False,704.212
+dario.marchini@srmbologna.it,2025-03-21 19:09:00,2025-03-21 19:58:00,2025-03-21 19:09:54.086,2025-03-21 19:20:44.212,moving,moving,0.5456503401360544,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,54.086
+dario.marchini@srmbologna.it,2025-03-21 19:09:00,2025-03-21 19:58:00,2025-03-21 16:48:09.999,2025-03-21 19:09:51.629,moving,stationary,0.3236833333333333,in_vehicle,None,False,nan,nan,True,False,False,False,-8450.001
+dario.marchini@srmbologna.it,2025-03-21 19:58:00,2025-03-21 20:05:00,2025-03-21 19:45:26.206,2025-03-21 20:19:19.288,stationary,moving,1.0,nan,in_vehicle,False,other,nan,False,False,False,False,-753.794
+dario.marchini@srmbologna.it,2025-03-21 19:58:00,2025-03-21 20:05:00,2025-03-21 19:20:44.212,2025-03-21 19:45:26.206,stationary,stationary,0.34810952380952376,nan,None,False,other,nan,False,False,False,True,-2235.788
+dario.marchini@srmbologna.it,2025-03-21 20:05:00,2025-03-21 20:19:00,2025-03-21 20:19:19.288,2025-03-22 09:34:04.269,moving,stationary,1.0,in_vehicle,None,False,nan,nan,True,False,False,False,859.288
+dario.marchini@srmbologna.it,2025-03-21 20:05:00,2025-03-21 20:19:00,2025-03-21 19:45:26.206,2025-03-21 20:19:19.288,moving,moving,1.0,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,-1173.794
+dario.marchini@srmbologna.it,2025-03-21 20:19:00,2025-03-22 09:25:00,2025-03-21 20:19:19.288,2025-03-22 09:34:04.269,stationary,stationary,1.0,nan,None,False,home,nan,False,True,False,True,19.288
+dario.marchini@srmbologna.it,2025-03-22 09:25:00,2025-03-22 11:00:00,2025-03-22 09:59:18.270,2025-03-22 12:00:29.254,moving,moving,0.7967947368421052,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,2058.27
+dario.marchini@srmbologna.it,2025-03-22 09:25:00,2025-03-22 11:00:00,2025-03-22 09:58:50.262,2025-03-22 09:59:18.270,moving,stationary,0.32070315789473686,in_vehicle,None,False,nan,nan,True,False,False,False,2030.262
+dario.marchini@srmbologna.it,2025-03-22 09:25:00,2025-03-22 11:00:00,2025-03-22 09:34:04.269,2025-03-22 09:58:50.262,moving,moving,0.514081052631579,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,544.269
+dario.marchini@srmbologna.it,2025-03-22 09:25:00,2025-03-22 11:00:00,2025-03-21 20:19:19.288,2025-03-22 09:34:04.269,moving,stationary,0.2533805263157895,in_vehicle,None,False,nan,nan,True,False,False,False,-47140.712
+dario.marchini@srmbologna.it,2025-03-22 11:00:00,2025-03-22 11:40:00,2025-03-22 09:59:18.270,2025-03-22 12:00:29.254,stationary,moving,1.0,nan,in_vehicle,False,home,nan,False,True,False,False,-3641.73
+dario.marchini@srmbologna.it,2025-03-22 11:40:00,2025-03-22 11:50:00,2025-03-22 12:00:29.254,2025-03-22 22:10:13.236,moving,stationary,0.4512433333333333,in_vehicle,None,False,nan,nan,True,False,False,False,1229.254
+dario.marchini@srmbologna.it,2025-03-22 11:40:00,2025-03-22 11:50:00,2025-03-22 09:59:18.270,2025-03-22 12:00:29.254,moving,moving,1.0,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,-6041.73
+dario.marchini@srmbologna.it,2025-03-22 11:50:00,2025-03-22 18:05:00,2025-03-22 12:00:29.254,2025-03-22 22:10:13.236,stationary,stationary,1.0,nan,None,False,home,nan,False,True,False,True,629.254
+dario.marchini@srmbologna.it,2025-03-22 18:05:00,2025-03-22 18:15:00,2025-03-22 12:00:29.254,2025-03-22 22:10:13.236,moving,stationary,1.0,in_vehicle,None,False,nan,nan,True,False,False,False,-21870.746
+dario.marchini@srmbologna.it,2025-03-22 18:15:00,2025-03-22 19:37:00,2025-03-22 12:00:29.254,2025-03-22 22:10:13.236,stationary,stationary,1.0,nan,None,False,other,nan,False,False,False,True,-22470.746
+dario.marchini@srmbologna.it,2025-03-22 19:37:00,2025-03-22 19:41:00,2025-03-22 12:00:29.254,2025-03-22 22:10:13.236,moving,stationary,1.0,in_vehicle,None,False,nan,nan,True,False,False,False,-27390.746
+dario.marchini@srmbologna.it,2025-03-22 19:41:00,2025-03-22 19:43:00,2025-03-22 12:00:29.254,2025-03-22 22:10:13.236,moving,stationary,1.0,in_vehicle,None,False,nan,nan,True,False,False,False,-27630.746
+dario.marchini@srmbologna.it,2025-03-22 19:43:00,2025-03-22 22:09:00,2025-03-22 12:00:29.254,2025-03-22 22:10:13.236,stationary,stationary,1.0,nan,None,False,home,nan,False,True,False,True,-27750.746
+dario.marchini@srmbologna.it,2025-03-22 22:09:00,2025-03-22 22:15:00,2025-03-22 22:17:01.225,2025-03-23 00:08:52.241,moving,stationary,1.0,in_vehicle,None,False,nan,nan,True,False,False,False,481.225
+dario.marchini@srmbologna.it,2025-03-22 22:09:00,2025-03-22 22:15:00,2025-03-22 22:10:13.236,2025-03-22 22:15:55.266,moving,moving,1.0,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,73.236
+dario.marchini@srmbologna.it,2025-03-22 22:09:00,2025-03-22 22:15:00,2025-03-22 12:00:29.254,2025-03-22 22:10:13.236,moving,stationary,1.0,in_vehicle,None,False,nan,nan,True,False,False,False,-36510.746
+dario.marchini@srmbologna.it,2025-03-22 22:15:00,2025-03-23 00:10:00,2025-03-23 00:09:00.239,,stationary,moving,0.5,nan,in_vehicle,False,other,nan,False,False,False,False,6840.239
+dario.marchini@srmbologna.it,2025-03-22 22:15:00,2025-03-23 00:10:00,2025-03-22 22:17:01.225,2025-03-23 00:08:52.241,stationary,stationary,1.0,nan,None,False,other,nan,False,False,False,True,121.225
+dario.marchini@srmbologna.it,2025-03-22 22:15:00,2025-03-23 00:10:00,2025-03-22 22:10:13.236,2025-03-22 22:15:55.266,stationary,moving,0.13844434782608694,nan,in_vehicle,False,other,nan,False,False,False,False,-286.764
+dario.marchini@srmbologna.it,2025-03-23 00:10:00,2025-03-23 00:16:00,2025-03-23 00:09:00.239,,moving,moving,0.5,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,-59.761
+dario.marchini@srmbologna.it,2025-03-23 00:10:00,2025-03-23 00:16:00,2025-03-22 22:17:01.225,2025-03-23 00:08:52.241,moving,stationary,1.0,in_vehicle,None,False,nan,nan,True,False,False,False,-6778.775
+dario.marchini@srmbologna.it,2025-03-23 00:16:00,2025-03-23 10:39:00,2025-03-23 10:59:33.999,,stationary,moving,0.5,nan,walking,False,home,nan,False,True,False,False,38613.999
+dario.marchini@srmbologna.it,2025-03-23 00:16:00,2025-03-23 10:39:00,2025-03-23 10:41:51.001,,stationary,moving,0.5,nan,running,False,home,nan,False,True,False,False,37551.001
+dario.marchini@srmbologna.it,2025-03-23 00:16:00,2025-03-23 10:39:00,2025-03-23 00:09:00.239,,stationary,moving,0.5,nan,in_vehicle,False,home,nan,False,True,False,False,-419.761
+dario.marchini@srmbologna.it,2025-03-23 10:39:00,2025-03-23 11:07:00,2025-03-23 10:59:33.999,,moving,moving,0.5,walking,walking,True,nan,nan,True,False,False,True,1233.999
+dario.marchini@srmbologna.it,2025-03-23 10:39:00,2025-03-23 11:07:00,2025-03-23 10:41:51.001,,moving,moving,0.5,walking,running,False,nan,nan,True,False,False,True,171.001
+dario.marchini@srmbologna.it,2025-03-23 11:07:00,2025-03-23 12:10:00,2025-03-23 10:59:33.999,,stationary,moving,0.5,nan,walking,False,home,nan,False,True,False,False,-446.001
+dario.marchini@srmbologna.it,2025-03-23 11:07:00,2025-03-23 12:10:00,2025-03-23 10:41:51.001,,stationary,moving,0.5,nan,running,False,home,nan,False,True,False,False,-1508.999
+dario.marchini@srmbologna.it,2025-03-23 12:10:00,2025-03-23 12:50:00,2025-03-23 12:54:14.238,2025-03-23 14:28:11.270,moving,stationary,0.26906749999999996,in_vehicle,None,False,nan,nan,True,False,False,False,2654.238
+dario.marchini@srmbologna.it,2025-03-23 12:10:00,2025-03-23 12:50:00,2025-03-23 12:19:11.229,2025-03-23 12:52:40.256,moving,moving,1.0,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,551.229
+dario.marchini@srmbologna.it,2025-03-23 12:50:00,2025-03-23 15:00:00,2025-03-23 12:54:14.238,2025-03-23 14:28:11.270,stationary,stationary,0.8706756410256411,nan,None,False,other,nan,False,False,False,True,254.238
+dario.marchini@srmbologna.it,2025-03-23 12:50:00,2025-03-23 15:00:00,2025-03-23 12:19:11.229,2025-03-23 12:52:40.256,stationary,moving,0.1359302564102564,nan,in_vehicle,False,other,nan,False,False,False,False,-1848.771
+dario.marchini@srmbologna.it,2025-03-23 15:40:00,2025-03-24 16:25:00,2025-03-23 23:40:59.248,2025-03-24 16:28:45.231,stationary,stationary,0.6862037261503928,nan,None,False,home,nan,False,True,False,True,28859.248
+dario.marchini@srmbologna.it,2025-03-23 15:40:00,2025-03-24 16:25:00,2025-03-23 19:40:42.001,2025-03-23 22:15:06.264,stationary,stationary,0.1241780359147026,nan,None,False,home,nan,False,True,False,True,14442.001
+dario.marchini@srmbologna.it,2025-03-24 16:25:00,2025-03-24 18:03:00,2025-03-24 18:01:07.266,2025-03-25 12:32:51.110,moving,stationary,0.17223367346938775,in_vehicle,None,False,nan,nan,True,False,False,False,5767.266
+dario.marchini@srmbologna.it,2025-03-24 16:25:00,2025-03-24 18:03:00,2025-03-24 16:28:45.231,2025-03-24 18:00:44.292,moving,moving,1.0,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,225.231
+dario.marchini@srmbologna.it,2025-03-24 16:25:00,2025-03-24 18:03:00,2025-03-23 23:40:59.248,2025-03-24 16:28:45.231,moving,stationary,0.1913658163265306,in_vehicle,None,False,nan,nan,True,False,False,False,-60240.752
+dario.marchini@srmbologna.it,2025-03-24 18:03:00,2025-03-25 18:03:00,2025-03-24 18:01:07.266,2025-03-25 12:32:51.110,stationary,stationary,0.7811471064814814,nan,None,False,home,nan,False,True,False,True,-112.734

@@ -1,0 +1,37 @@
+email,gt_start,gt_end,pred_start,pred_end,gt_segment,pred_segment,overlap_percentage,gt_mode,pred_mode,mode_match,gt_purpose,pred_purpose,purpose_match,is_home_work,home_work_match,segment_match,start_time_diff_seconds
+chiara.lepori@srmbologna.it,2025-03-19 09:00:00,2025-03-19 17:40:00,2025-03-19 13:10:18.407,2025-03-20 08:49:18.922,stationary,stationary,0.5474869551282051,nan,None,False,work,nan,False,True,False,True,15018.407
+chiara.lepori@srmbologna.it,2025-03-19 17:40:00,2025-03-19 17:55:00,2025-03-19 13:10:18.407,2025-03-20 08:49:18.922,moving,stationary,1.0,on_bicycle,None,False,nan,nan,True,False,False,False,-16181.593
+chiara.lepori@srmbologna.it,2025-03-19 17:55:00,2025-03-20 08:50:00,2025-03-20 08:52:17.943,,stationary,stationary,0.5,nan,None,False,home,nan,False,True,False,True,53837.943
+chiara.lepori@srmbologna.it,2025-03-19 17:55:00,2025-03-20 08:50:00,2025-03-19 13:10:18.407,2025-03-20 08:49:18.922,stationary,stationary,1.0,nan,None,False,home,nan,False,True,False,True,-17081.593
+chiara.lepori@srmbologna.it,2025-03-20 08:50:00,2025-03-20 09:05:00,2025-03-20 08:52:17.943,,moving,stationary,0.5,on_bicycle,None,False,nan,nan,True,False,False,False,137.943
+chiara.lepori@srmbologna.it,2025-03-20 08:50:00,2025-03-20 09:05:00,2025-03-20 08:49:29.895,2025-03-20 08:52:17.943,moving,moving,1.0,on_bicycle,walking,False,nan,nan,True,False,False,True,-30.105
+chiara.lepori@srmbologna.it,2025-03-20 08:50:00,2025-03-20 09:05:00,2025-03-19 13:10:18.407,2025-03-20 08:49:18.922,moving,stationary,0.9543577777777779,on_bicycle,None,False,nan,nan,True,False,False,False,-70781.593
+chiara.lepori@srmbologna.it,2025-03-20 09:05:00,2025-03-20 17:50:00,2025-03-20 08:52:17.943,,stationary,stationary,0.5,nan,None,False,work,nan,False,True,False,True,-762.057
+chiara.lepori@srmbologna.it,2025-03-20 17:50:00,2025-03-20 18:06:00,2025-03-20 18:06:09.464,2025-03-21 08:56:57.729,moving,stationary,0.9276416666666666,on_bicycle,None,False,nan,nan,True,False,False,False,969.464
+chiara.lepori@srmbologna.it,2025-03-20 17:50:00,2025-03-20 18:06:00,2025-03-20 17:58:54.528,2025-03-20 18:06:09.464,moving,moving,1.0,on_bicycle,on_bicycle,True,nan,nan,True,False,False,True,534.528
+chiara.lepori@srmbologna.it,2025-03-20 18:06:00,2025-03-21 08:50:00,2025-03-20 18:06:09.464,2025-03-21 08:56:57.729,stationary,stationary,1.0,nan,None,False,home,nan,False,True,False,True,9.464
+chiara.lepori@srmbologna.it,2025-03-21 08:50:00,2025-03-21 09:06:00,2025-03-21 08:59:17.646,2025-03-22 12:20:30.315,moving,stationary,1.0,on_bicycle,None,False,nan,nan,True,False,False,False,557.646
+chiara.lepori@srmbologna.it,2025-03-21 08:50:00,2025-03-21 09:06:00,2025-03-21 08:56:57.729,2025-03-21 08:59:17.646,moving,moving,1.0,on_bicycle,on_bicycle,True,nan,nan,True,False,False,True,417.729
+chiara.lepori@srmbologna.it,2025-03-21 08:50:00,2025-03-21 09:06:00,2025-03-20 18:06:09.464,2025-03-21 08:56:57.729,moving,stationary,1.0,on_bicycle,None,False,nan,nan,True,False,False,False,-53030.536
+chiara.lepori@srmbologna.it,2025-03-21 09:06:00,2025-03-21 17:10:00,2025-03-21 08:59:17.646,2025-03-22 12:20:30.315,stationary,stationary,1.0,nan,None,False,work,nan,False,True,False,True,-402.354
+chiara.lepori@srmbologna.it,2025-03-21 17:10:00,2025-03-21 17:20:00,2025-03-21 08:59:17.646,2025-03-22 12:20:30.315,moving,stationary,1.0,on_bicycle,None,False,nan,nan,True,False,False,False,-29442.354
+chiara.lepori@srmbologna.it,2025-03-21 17:20:00,2025-03-21 17:30:00,2025-03-21 08:59:17.646,2025-03-22 12:20:30.315,stationary,stationary,1.0,nan,None,False,other,nan,False,False,False,True,-30042.354
+chiara.lepori@srmbologna.it,2025-03-21 17:30:00,2025-03-21 17:38:00,2025-03-21 08:59:17.646,2025-03-22 12:20:30.315,moving,stationary,1.0,on_bicycle,None,False,nan,nan,True,False,False,False,-30642.354
+chiara.lepori@srmbologna.it,2025-03-21 17:38:00,2025-03-21 17:43:00,2025-03-21 08:59:17.646,2025-03-22 12:20:30.315,stationary,stationary,1.0,nan,None,False,other,nan,False,False,False,True,-31122.354
+chiara.lepori@srmbologna.it,2025-03-21 17:43:00,2025-03-21 17:55:00,2025-03-21 08:59:17.646,2025-03-22 12:20:30.315,moving,stationary,1.0,on_bicycle,None,False,nan,nan,True,False,False,False,-31422.354
+chiara.lepori@srmbologna.it,2025-03-21 17:55:00,2025-03-24 08:50:00,2025-03-22 12:22:35.106,2025-03-24 17:03:38.543,stationary,stationary,0.7105734834437086,nan,None,False,home,nan,False,True,False,True,66455.106
+chiara.lepori@srmbologna.it,2025-03-21 17:55:00,2025-03-24 08:50:00,2025-03-21 08:59:17.646,2025-03-22 12:20:30.315,stationary,stationary,0.29682258278145696,nan,None,False,home,nan,False,True,False,True,-32142.354
+chiara.lepori@srmbologna.it,2025-03-24 08:50:00,2025-03-24 09:00:00,2025-03-22 12:22:35.106,2025-03-24 17:03:38.543,moving,stationary,1.0,on_bicycle,None,False,nan,nan,True,False,False,False,-160044.894
+chiara.lepori@srmbologna.it,2025-03-24 09:00:00,2025-03-24 17:00:00,2025-03-24 17:15:36.594,,stationary,stationary,0.5,nan,None,False,work,nan,False,True,False,True,29736.594
+chiara.lepori@srmbologna.it,2025-03-24 09:00:00,2025-03-24 17:00:00,2025-03-22 12:22:35.106,2025-03-24 17:03:38.543,stationary,stationary,1.0,nan,None,False,work,nan,False,True,False,True,-160644.894
+chiara.lepori@srmbologna.it,2025-03-24 17:00:00,2025-03-24 17:15:00,2025-03-24 17:15:36.594,,moving,stationary,0.5,on_bicycle,None,False,nan,nan,True,False,False,False,936.594
+chiara.lepori@srmbologna.it,2025-03-24 17:00:00,2025-03-24 17:15:00,2025-03-24 17:13:12.941,2025-03-24 17:15:36.594,moving,moving,1.0,on_bicycle,on_bicycle,True,nan,nan,True,False,False,True,792.941
+chiara.lepori@srmbologna.it,2025-03-24 17:00:00,2025-03-24 17:15:00,2025-03-24 17:03:38.543,2025-03-24 17:13:12.941,moving,moving,1.0,on_bicycle,in_vehicle,False,nan,nan,True,False,False,True,218.543
+chiara.lepori@srmbologna.it,2025-03-24 17:00:00,2025-03-24 17:15:00,2025-03-22 12:22:35.106,2025-03-24 17:03:38.543,moving,stationary,1.0,on_bicycle,None,False,nan,nan,True,False,False,False,-189444.894
+chiara.lepori@srmbologna.it,2025-03-24 17:15:00,2025-03-24 17:35:00,2025-03-24 17:15:36.594,,stationary,stationary,0.5,nan,None,False,other,nan,False,False,False,True,36.594
+chiara.lepori@srmbologna.it,2025-03-24 17:15:00,2025-03-24 17:35:00,2025-03-24 17:13:12.941,2025-03-24 17:15:36.594,stationary,moving,0.780495,nan,on_bicycle,False,other,nan,False,False,False,False,-107.059
+chiara.lepori@srmbologna.it,2025-03-24 17:15:00,2025-03-24 17:35:00,2025-03-24 17:03:38.543,2025-03-24 17:13:12.941,stationary,moving,0.6607841666666667,nan,in_vehicle,False,other,nan,False,False,False,False,-681.457
+chiara.lepori@srmbologna.it,2025-03-24 17:15:00,2025-03-24 17:35:00,2025-03-22 12:22:35.106,2025-03-24 17:03:38.543,stationary,stationary,0.18211916666666667,nan,None,False,other,nan,False,False,False,True,-190344.894
+chiara.lepori@srmbologna.it,2025-03-24 17:35:00,2025-03-24 17:45:00,2025-03-24 17:15:36.594,,moving,stationary,0.5,on_bicycle,None,False,nan,nan,True,False,False,False,-1163.406
+chiara.lepori@srmbologna.it,2025-03-24 17:45:00,2025-03-25 17:45:00,2025-03-25 12:21:53.375,2025-03-25 14:22:42.998,stationary,stationary,0.10474100694444444,nan,None,False,home,nan,False,True,False,True,67013.375
+chiara.lepori@srmbologna.it,2025-03-24 17:45:00,2025-03-25 17:45:00,2025-03-24 17:15:36.594,,stationary,stationary,0.5,nan,None,False,home,nan,False,True,False,True,-1763.406
