@@ -519,29 +519,21 @@ def normalize_segment_values(df, segment_col):
 
 
 def normalize_purpose_values(df, purpose_col):
-    """
-    Normalize purpose values to standardized categories
-    """
     if purpose_col in df.columns and df[purpose_col].notna().any():
-        # Convert to lowercase
-        df[purpose_col] = df[purpose_col].astype(str).str.lower()
+        # Create normalized version
+        df['normalized_purpose'] = df[purpose_col].astype(str).str.lower().str.strip()
 
-        # Normalize home-related purposes
-        home_patterns = ['Home','home','house', 'apartment', 'residence', 'flat']
-        work_patterns = ['Work','work', 'office', 'job', 'workplace', 'company']
+        # Apply exact standardization (not pattern matching)
+        home_patterns = ['home', 'house', 'apartment', 'residence', 'flat']
+        work_patterns = ['work', 'office', 'job', 'workplace', 'company']
 
-        # Create normalized version maintaining original values
-        df['normalized_purpose'] = df[purpose_col].copy()
-
-        # Apply home normalization
         for pattern in home_patterns:
-            mask = df[purpose_col].str.contains(pattern, case=False, na=False)
-            df.loc[mask, 'normalized_purpose'] = 'home'
+            mask = df['normalized_purpose'].str.contains(pattern, case=False, na=False)
+            df.loc[mask, 'normalized_purpose'] = 'home'  # Exactly 'home'
 
-        # Apply work normalization
         for pattern in work_patterns:
-            mask = df[purpose_col].str.contains(pattern, case=False, na=False)
-            df.loc[mask, 'normalized_purpose'] = 'work'
+            mask = df['normalized_purpose'].str.contains(pattern, case=False, na=False)
+            df.loc[mask, 'normalized_purpose'] = 'work'  # Exactly 'work'
 
     return df
 
@@ -602,7 +594,7 @@ def extract_mode_from_json(mode_json):
         print(f"Error parsing mode JSON: {e}, Value: {mode_json}")
         # Try to extract any mode-like string from the JSON
         if isinstance(mode_json, str):
-            mode_patterns = ['walking', 'running', 'cycling', 'in_vehicle', 'on_bicycle', 'driving', 'car']
+            mode_patterns = ['walking', 'running', 'cycling', 'motorcycle', 'in_vehicle', 'on_bicycle', 'driving', 'car']
             for pattern in mode_patterns:
                 if pattern in mode_json.lower():
                     return pattern
@@ -611,79 +603,54 @@ def extract_mode_from_json(mode_json):
 
 def normalize_mode_values(ground_truth_df, predictions_df):
     """
-    Normalize transportation mode values between datasets
+    Normalize transportation mode values with strict debugging
     """
-    # Ground truth mode normalization
+    print("=== MODE NORMALIZATION DEBUGGING ===")
+
+    # Step 1: Create a simple, standardized mapping (with minimal transformations)
+    mode_mapping = {
+        # Keep original values where possible
+        'motorcycle': 'motorcycle',
+        'on_bicycle': 'on_bicycle',
+        'bicycle': 'on_bicycle',
+        'cycling': 'on_bicycle',
+        'cycle': 'on_bicycle',
+        'bike': 'on_bicycle',
+        'walking': 'walking',
+        'walk': 'walking',
+        'in_vehicle': 'in_vehicle',
+        'car': 'in_vehicle',
+        'vehicle': 'in_vehicle',
+        'running': 'running',
+        'unknown': 'unknown',
+        'still': 'stationary'
+    }
+
+    # Step 2: Add direct debugging for ground truth
     if 'mode' in ground_truth_df.columns:
-        # Convert to lowercase
-        ground_truth_df['mode'] = ground_truth_df['mode'].astype(str).str.lower()
+        print(f"Ground truth unique modes BEFORE normalization: {ground_truth_df['mode'].unique()}")
+        ground_truth_df['normalized_mode'] = ground_truth_df['mode'].copy()
 
-        # Map to standardized categories
-        mode_mapping = {
-            'cycling': 'on_bicycle',
-            'cycle': 'on_bicycle',
-            'bicycle': 'on_bicycle',
-            'bike': 'on_bicycle',
-            'walking': 'walking',
-            'walk': 'walking',
-            'foot': 'walking',
-            'car': 'in_vehicle',
-            'driving': 'in_vehicle',
-            'drive': 'in_vehicle',
-            'vehicle': 'in_vehicle',
-            'car+walking': 'mixed',
-            'multimodal': 'mixed',
-            'mixed': 'mixed',
-            'running': 'running',
-            'run': 'running'
-        }
+        # Apply mapping directly (no string manipulation)
+        for i, row in ground_truth_df.iterrows():
+            mode = str(row['mode']).lower() if not pd.isna(row['mode']) else None
+            if mode in mode_mapping:
+                ground_truth_df.at[i, 'normalized_mode'] = mode_mapping[mode]
 
-        # Apply mapping with flexible matching
-        ground_truth_df['normalized_mode'] = ground_truth_df['mode'].apply(
-            lambda x: next((v for k, v in mode_mapping.items() if k in str(x).lower()), str(x))
-        )
+        print(f"Ground truth unique modes AFTER normalization: {ground_truth_df['normalized_mode'].unique()}")
 
-    # Prediction mode normalization
-    if 'mode' in predictions_df.columns:
-        # Extract dominant mode from JSON or string
-        predictions_df['dominant_mode'] = predictions_df['mode'].apply(extract_mode_from_json)
-
-    # Use smode as primary or backup if available
+    # Step 3: Add direct debugging for predictions
     if 'smode' in predictions_df.columns:
-        predictions_df['normalized_mode'] = predictions_df['smode']
-        # Fill missing values with dominant_mode if available
-        if 'dominant_mode' in predictions_df.columns:
-            predictions_df.loc[predictions_df['normalized_mode'].isna(), 'normalized_mode'] = predictions_df[
-                'dominant_mode']
-    elif 'dominant_mode' in predictions_df.columns:
-        predictions_df['normalized_mode'] = predictions_df['dominant_mode']
+        print(f"Prediction unique modes BEFORE normalization: {predictions_df['smode'].unique()}")
+        predictions_df['normalized_mode'] = predictions_df['smode'].copy()
 
-    # Apply the same mapping to predictions for consistency
-    if 'normalized_mode' in predictions_df.columns:
-        mode_mapping = {
-            'cycling': 'on_bicycle',
-            'cycle': 'on_bicycle',
-            'bicycle': 'on_bicycle',
-            'bike': 'on_bicycle',
-            'on_bicycle': 'on_bicycle',
-            'walking': 'walking',
-            'walk': 'walking',
-            'foot': 'walking',
-            'car': 'in_vehicle',
-            'driving': 'in_vehicle',
-            'drive': 'in_vehicle',
-            'vehicle': 'in_vehicle',
-            'in_vehicle': 'in_vehicle',
-            'car+walking': 'mixed',
-            'multimodal': 'mixed',
-            'mixed': 'mixed',
-            'running': 'running',
-            'run': 'running'
-        }
+        # Apply mapping directly (no string manipulation)
+        for i, row in predictions_df.iterrows():
+            smode = str(row['smode']).lower() if not pd.isna(row['smode']) else None
+            if smode in mode_mapping:
+                predictions_df.at[i, 'normalized_mode'] = mode_mapping[smode]
 
-        predictions_df['normalized_mode'] = predictions_df['normalized_mode'].apply(
-            lambda x: next((v for k, v in mode_mapping.items() if k in str(x).lower()), str(x))
-        )
+        print(f"Prediction unique modes AFTER normalization: {predictions_df['normalized_mode'].unique()}")
 
     return ground_truth_df, predictions_df
 
@@ -912,10 +879,10 @@ def find_overlapping_entries(ground_truth_df, predictions_df):
                     elif 'mode' in gt_row:
                         match_data['gt_mode'] = gt_row['mode']
 
-                    if 'normalized_mode' in pred_row:
-                        match_data['pred_mode'] = pred_row['normalized_mode']
-                    elif 'smode' in pred_row:
+                    if 'smode' in pred_row:
                         match_data['pred_mode'] = pred_row['smode']
+                    elif 'normalized_mode' in pred_row:
+                        match_data['pred_mode'] = pred_row['normalized_mode']
                     elif 'mode' in pred_row:
                         match_data['pred_mode'] = extract_mode_from_json(pred_row['mode'])
 
@@ -1127,6 +1094,31 @@ def calculate_metrics(matches_df):
         metrics['mode_accuracy'] = mode_correct.mean() if len(mode_correct) > 0 else 0
     else:
         metrics['mode_accuracy'] = 0
+        # Add this code in calculate_metrics right after the mode accuracy calculation
+        if len(moving_matches) > 0 and 'gt_mode' in moving_matches.columns and 'pred_mode' in moving_matches.columns:
+            # Print mode comparison details
+            print("\n=== MODE COMPARISON DEBUGGING ===")
+            print(f"Moving entries: {len(moving_matches)}")
+            valid_modes = moving_matches.dropna(subset=['gt_mode', 'pred_mode'])
+            print(f"Valid mode entries: {len(valid_modes)}")
+
+            # Print sample of ground truth and prediction modes
+            if not valid_modes.empty:
+                print("\nSample mode comparisons (first 10):")
+                for i, row in valid_modes.head(10).iterrows():
+                    print(
+                        f"GT: '{row['gt_mode']}' vs Pred: '{row['pred_mode']}' → Match: {row['gt_mode'] == row['pred_mode']}")
+
+                # Count matches by mode type
+                mode_matches = valid_modes[valid_modes['gt_mode'] == valid_modes['pred_mode']]
+                print(
+                    f"\nTotal mode matches: {len(mode_matches)}/{len(valid_modes)} ({len(mode_matches) / len(valid_modes):.2%})")
+
+                # Create a confusion matrix for modes
+                if len(valid_modes) > 0:
+                    print("\nMode confusion:")
+                    mode_counts = pd.crosstab(valid_modes['gt_mode'], valid_modes['pred_mode'])
+                    print(mode_counts)
 
     # Overall purpose accuracy
     if 'gt_purpose' in matches_df.columns and 'pred_purpose' in matches_df.columns:
@@ -1138,34 +1130,51 @@ def calculate_metrics(matches_df):
 
     # Home and Work purpose accuracy
     if 'gt_purpose' in matches_df.columns and 'pred_purpose' in matches_df.columns:
-        # Filter for entries where ground truth purpose is home or work
+        # Filter for entries with home or work
         home_work_df = matches_df[
             matches_df['gt_purpose'].str.lower().str.contains('home|work', na=False)
         ]
 
         if not home_work_df.empty:
-            # Calculate accuracy for home/work purposes
-            valid_hw_purposes = home_work_df.dropna(subset=['gt_purpose', 'pred_purpose'])
-            hw_purpose_correct = valid_hw_purposes['gt_purpose'] == valid_hw_purposes['pred_purpose']
-            metrics['home_work_purpose_accuracy'] = hw_purpose_correct.mean() if len(hw_purpose_correct) > 0 else 0
+            # Make sure to do case-insensitive comparison
+            valid_hw = home_work_df.dropna(subset=['gt_purpose', 'pred_purpose'])
 
+            # Convert both to lowercase for comparison
+            valid_hw = valid_hw.copy()
+            valid_hw['gt_purpose_lower'] = valid_hw['gt_purpose'].str.lower().str.strip()
+            valid_hw['pred_purpose_lower'] = valid_hw['pred_purpose'].str.lower().str.strip()
+
+            hw_matches = valid_hw['gt_purpose_lower'] == valid_hw['pred_purpose_lower']
+            metrics['home_work_purpose_accuracy'] = hw_matches.mean() if len(hw_matches) > 0 else 0
+
+            # Count matches by purpose type
             # Count matches by purpose type
             hw_counts = {
                 'home_count': len(home_work_df[home_work_df['gt_purpose'].str.lower().str.contains('home', na=False)]),
                 'work_count': len(home_work_df[home_work_df['gt_purpose'].str.lower().str.contains('work', na=False)]),
-                'home_correct': sum(
-                    home_work_df[home_work_df['gt_purpose'].str.lower().str.contains('home', na=False)]['gt_purpose'] ==
-                    home_work_df[home_work_df['gt_purpose'].str.lower().str.contains('home', na=False)][
-                        'pred_purpose']),
-                'work_correct': sum(
-                    home_work_df[home_work_df['gt_purpose'].str.lower().str.contains('work', na=False)]['gt_purpose'] ==
-                    home_work_df[home_work_df['gt_purpose'].str.lower().str.contains('work', na=False)]['pred_purpose'])
             }
+
+            # For home correct matches - use case-insensitive matching
+            home_entries = home_work_df[home_work_df['gt_purpose'].str.lower().str.contains('home', na=False)]
+            if not home_entries.empty:
+                home_entries = home_entries.copy()
+                home_entries['gt_lower'] = home_entries['gt_purpose'].str.lower().str.strip()
+                home_entries['pred_lower'] = home_entries['pred_purpose'].str.lower().str.strip()
+                hw_counts['home_correct'] = sum(home_entries['gt_lower'] == home_entries['pred_lower'])
+            else:
+                hw_counts['home_correct'] = 0
+
+            # For work correct matches - use case-insensitive matching
+            work_entries = home_work_df[home_work_df['gt_purpose'].str.lower().str.contains('work', na=False)]
+            if not work_entries.empty:
+                work_entries = work_entries.copy()
+                work_entries['gt_lower'] = work_entries['gt_purpose'].str.lower().str.strip()
+                work_entries['pred_lower'] = work_entries['pred_purpose'].str.lower().str.strip()
+                hw_counts['work_correct'] = sum(work_entries['gt_lower'] == work_entries['pred_lower'])
+            else:
+                hw_counts['work_correct'] = 0
+
             metrics.update(hw_counts)
-        else:
-            metrics['home_work_purpose_accuracy'] = 0
-    else:
-        metrics['home_work_purpose_accuracy'] = 0
 
     # Overall time coverage
     total_gt_duration = sum((row['gt_end'] - row['gt_start']).total_seconds()
@@ -1295,7 +1304,7 @@ def generate_report(metrics, matches_df, output_dir):
             'Purpose_Accuracy': user_metric.get('purpose_accuracy', 0),
             'Home_Work_Purpose_Accuracy': user_metric.get('home_work_purpose_accuracy', 0),
             'Time_Coverage': user_metric['time_coverage'],
-            'Num_Entries': user_metric['num_entries']
+            'Num_Entries': user_metric.get('num_entries', 0)  # Default to 0 if not present
         })
 
     user_df = pd.DataFrame(user_rows)

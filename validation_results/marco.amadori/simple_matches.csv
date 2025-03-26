@@ -1,209 +1,209 @@
 email,gt_start,gt_end,pred_start,pred_end,gt_segment,pred_segment,overlap_percentage,gt_mode,pred_mode,mode_match,gt_purpose,pred_purpose,purpose_match,is_home_work,home_work_match,segment_match,start_time_diff_seconds
-marco.amadori@gmail.com,2025-03-13 17:47:00,2025-03-13 18:05:00,2025-03-13 18:03:32.409,2025-03-13 20:28:10.841,moving,stationary,0.9144361111111111,on_bicycle,None,False,nan,nan,True,False,False,False,992.409
+marco.amadori@gmail.com,2025-03-13 17:47:00,2025-03-13 18:05:00,2025-03-13 18:03:32.409,2025-03-13 20:28:10.841,moving,stationary,0.9144361111111111,on_bicycle,,False,nan,nan,True,False,False,False,992.409
 marco.amadori@gmail.com,2025-03-13 17:47:00,2025-03-13 18:05:00,2025-03-13 17:50:59.001,2025-03-13 18:03:32.409,moving,moving,1.0,on_bicycle,on_bicycle,True,nan,nan,True,False,False,True,239.001
-marco.amadori@gmail.com,2025-03-13 17:47:00,2025-03-13 18:05:00,2025-03-13 09:31:41.528,2025-03-13 17:50:59.001,moving,stationary,1.0,on_bicycle,None,False,nan,nan,True,False,False,False,-29718.472
-marco.amadori@gmail.com,2025-03-15 10:20:00,2025-03-15 10:30:00,2025-03-15 10:29:03.998,2025-03-15 15:50:07.795,moving,stationary,1.0,walking,None,False,nan,nan,True,False,False,False,543.998
-marco.amadori@gmail.com,2025-03-15 10:20:00,2025-03-15 10:30:00,2025-03-15 07:20:21.014,2025-03-15 10:28:42.999,moving,stationary,1.0,walking,None,False,nan,nan,True,False,False,False,-10778.986
-marco.amadori@gmail.com,2025-03-15 10:30:00,2025-03-15 15:50:00,2025-03-15 15:50:07.795,,stationary,moving,0.5,nan,in_vehicle,False,home,nan,False,True,False,False,19207.795
-marco.amadori@gmail.com,2025-03-15 10:30:00,2025-03-15 15:50:00,2025-03-15 10:29:03.998,2025-03-15 15:50:07.795,stationary,stationary,1.0,nan,None,False,home,nan,False,True,False,True,-56.002
+marco.amadori@gmail.com,2025-03-13 17:47:00,2025-03-13 18:05:00,2025-03-13 09:31:41.528,2025-03-13 17:50:59.001,moving,stationary,1.0,on_bicycle,,False,nan,nan,True,False,False,False,-29718.472
+marco.amadori@gmail.com,2025-03-15 10:20:00,2025-03-15 10:30:00,2025-03-15 10:29:03.998,2025-03-15 15:50:07.795,moving,stationary,1.0,walking,,False,nan,nan,True,False,False,False,543.998
+marco.amadori@gmail.com,2025-03-15 10:20:00,2025-03-15 10:30:00,2025-03-15 07:20:21.014,2025-03-15 10:28:42.999,moving,stationary,1.0,walking,,False,nan,nan,True,False,False,False,-10778.986
+marco.amadori@gmail.com,2025-03-15 10:30:00,2025-03-15 15:50:00,2025-03-15 15:50:07.795,,stationary,moving,0.5,,in_vehicle,False,home,nan,False,True,False,False,19207.795
+marco.amadori@gmail.com,2025-03-15 10:30:00,2025-03-15 15:50:00,2025-03-15 10:29:03.998,2025-03-15 15:50:07.795,stationary,stationary,1.0,,,False,home,nan,False,True,False,True,-56.002
 marco.amadori@gmail.com,2025-03-15 15:50:00,2025-03-15 16:11:00,2025-03-15 15:50:07.795,,moving,moving,0.5,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,7.795
-marco.amadori@gmail.com,2025-03-15 15:50:00,2025-03-15 16:11:00,2025-03-15 10:29:03.998,2025-03-15 15:50:07.795,moving,stationary,0.7204722222222222,in_vehicle,None,False,nan,nan,True,False,False,False,-19256.002
-marco.amadori@gmail.com,2025-03-15 16:11:00,2025-03-15 17:39:00,2025-03-15 17:39:28.389,2025-03-15 18:19:41.943,stationary,moving,0.16507784090909092,walking,in_vehicle,False,shpping mall,nan,False,False,False,False,5308.389
-marco.amadori@gmail.com,2025-03-15 16:11:00,2025-03-15 17:39:00,2025-03-15 15:50:07.795,,stationary,moving,0.5,walking,in_vehicle,False,shpping mall,nan,False,False,False,False,-1252.205
-marco.amadori@gmail.com,2025-03-15 17:39:00,2025-03-15 18:10:00,2025-03-15 18:19:41.943,,moving,stationary,0.5,in_vehicle,None,False,nan,nan,True,False,False,False,2441.943
-marco.amadori@gmail.com,2025-03-15 17:39:00,2025-03-15 18:10:00,2025-03-15 18:19:41.943,2025-03-16 08:52:15.889,moving,stationary,0.1709983870967742,in_vehicle,None,False,nan,nan,True,False,False,False,2441.943
+marco.amadori@gmail.com,2025-03-15 15:50:00,2025-03-15 16:11:00,2025-03-15 10:29:03.998,2025-03-15 15:50:07.795,moving,stationary,0.7204722222222222,in_vehicle,,False,nan,nan,True,False,False,False,-19256.002
+marco.amadori@gmail.com,2025-03-15 16:11:00,2025-03-15 17:39:00,2025-03-15 17:39:28.389,2025-03-15 18:19:41.943,stationary,moving,0.16507784090909092,(walking),in_vehicle,False,shpping mall,nan,False,False,False,False,5308.389
+marco.amadori@gmail.com,2025-03-15 16:11:00,2025-03-15 17:39:00,2025-03-15 15:50:07.795,,stationary,moving,0.5,(walking),in_vehicle,False,shpping mall,nan,False,False,False,False,-1252.205
+marco.amadori@gmail.com,2025-03-15 17:39:00,2025-03-15 18:10:00,2025-03-15 18:19:41.943,,moving,stationary,0.5,in_vehicle,,False,nan,nan,True,False,False,False,2441.943
+marco.amadori@gmail.com,2025-03-15 17:39:00,2025-03-15 18:10:00,2025-03-15 18:19:41.943,2025-03-16 08:52:15.889,moving,stationary,0.1709983870967742,in_vehicle,,False,nan,nan,True,False,False,False,2441.943
 marco.amadori@gmail.com,2025-03-15 17:39:00,2025-03-15 18:10:00,2025-03-15 17:39:28.389,2025-03-15 18:19:41.943,moving,moving,1.0,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,28.389
-marco.amadori@gmail.com,2025-03-15 18:10:00,2025-03-16 08:52:00,2025-03-16 08:59:22.333,,stationary,stationary,0.5,nan,None,False,home,nan,False,True,False,True,53362.333
-marco.amadori@gmail.com,2025-03-15 18:10:00,2025-03-16 08:52:00,2025-03-15 18:19:41.943,,stationary,stationary,0.5,nan,None,False,home,nan,False,True,False,True,581.943
-marco.amadori@gmail.com,2025-03-15 18:10:00,2025-03-16 08:52:00,2025-03-15 18:19:41.943,2025-03-16 08:52:15.889,stationary,stationary,1.0,nan,None,False,home,nan,False,True,False,True,581.943
-marco.amadori@gmail.com,2025-03-16 08:52:00,2025-03-16 10:33:00,2025-03-16 10:34:56.591,2025-03-16 10:45:35.001,moving,stationary,0.12927541254125413,in_vehicle,None,False,nan,nan,True,False,False,False,6176.591
+marco.amadori@gmail.com,2025-03-15 18:10:00,2025-03-16 08:52:00,2025-03-16 08:59:22.333,,stationary,stationary,0.5,,,False,home,nan,False,True,False,True,53362.333
+marco.amadori@gmail.com,2025-03-15 18:10:00,2025-03-16 08:52:00,2025-03-15 18:19:41.943,,stationary,stationary,0.5,,,False,home,nan,False,True,False,True,581.943
+marco.amadori@gmail.com,2025-03-15 18:10:00,2025-03-16 08:52:00,2025-03-15 18:19:41.943,2025-03-16 08:52:15.889,stationary,stationary,1.0,,,False,home,nan,False,True,False,True,581.943
+marco.amadori@gmail.com,2025-03-16 08:52:00,2025-03-16 10:33:00,2025-03-16 10:34:56.591,2025-03-16 10:45:35.001,moving,stationary,0.12927541254125413,in_vehicle,,False,nan,nan,True,False,False,False,6176.591
 marco.amadori@gmail.com,2025-03-16 08:52:00,2025-03-16 10:33:00,2025-03-16 08:59:48.359,2025-03-16 10:34:56.591,moving,moving,1.0,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,468.359
-marco.amadori@gmail.com,2025-03-16 08:52:00,2025-03-16 10:33:00,2025-03-16 08:59:22.333,,moving,stationary,0.5,in_vehicle,None,False,nan,nan,True,False,False,False,442.333
-marco.amadori@gmail.com,2025-03-16 08:52:00,2025-03-16 10:33:00,2025-03-16 08:59:22.333,2025-03-16 08:59:48.359,moving,stationary,0.22580181518151815,in_vehicle,None,False,nan,nan,True,False,False,False,442.333
+marco.amadori@gmail.com,2025-03-16 08:52:00,2025-03-16 10:33:00,2025-03-16 08:59:22.333,,moving,stationary,0.5,in_vehicle,,False,nan,nan,True,False,False,False,442.333
+marco.amadori@gmail.com,2025-03-16 08:52:00,2025-03-16 10:33:00,2025-03-16 08:59:22.333,2025-03-16 08:59:48.359,moving,stationary,0.22580181518151815,in_vehicle,,False,nan,nan,True,False,False,False,442.333
 marco.amadori@gmail.com,2025-03-16 08:52:00,2025-03-16 10:33:00,2025-03-16 08:52:15.889,2025-03-16 08:59:22.333,moving,moving,0.22150709570957097,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,15.889
-marco.amadori@gmail.com,2025-03-16 08:52:00,2025-03-16 10:33:00,2025-03-15 18:19:41.943,2025-03-16 08:52:15.889,moving,stationary,0.15113679867986798,in_vehicle,None,False,nan,nan,True,False,False,False,-52338.057
-marco.amadori@gmail.com,2025-03-16 10:33:00,2025-03-16 10:45:00,2025-03-16 10:45:35.001,2025-03-16 11:10:24.998,stationary,moving,1.0,nan,walking,False,other,nan,False,False,False,False,755.001
-marco.amadori@gmail.com,2025-03-16 10:33:00,2025-03-16 10:45:00,2025-03-16 10:34:56.591,2025-03-16 10:45:35.001,stationary,stationary,1.0,nan,None,False,other,nan,False,False,False,True,116.591
-marco.amadori@gmail.com,2025-03-16 10:33:00,2025-03-16 10:45:00,2025-03-16 08:59:48.359,2025-03-16 10:34:56.591,stationary,moving,1.0,nan,in_vehicle,False,other,nan,False,False,False,False,-5591.641
+marco.amadori@gmail.com,2025-03-16 08:52:00,2025-03-16 10:33:00,2025-03-15 18:19:41.943,2025-03-16 08:52:15.889,moving,stationary,0.15113679867986798,in_vehicle,,False,nan,nan,True,False,False,False,-52338.057
+marco.amadori@gmail.com,2025-03-16 10:33:00,2025-03-16 10:45:00,2025-03-16 10:45:35.001,2025-03-16 11:10:24.998,stationary,moving,1.0,,walking,False,other,nan,False,False,False,False,755.001
+marco.amadori@gmail.com,2025-03-16 10:33:00,2025-03-16 10:45:00,2025-03-16 10:34:56.591,2025-03-16 10:45:35.001,stationary,stationary,1.0,,,False,other,nan,False,False,False,True,116.591
+marco.amadori@gmail.com,2025-03-16 10:33:00,2025-03-16 10:45:00,2025-03-16 08:59:48.359,2025-03-16 10:34:56.591,stationary,moving,1.0,,in_vehicle,False,other,nan,False,False,False,False,-5591.641
 marco.amadori@gmail.com,2025-03-16 10:45:00,2025-03-16 12:32:00,2025-03-16 12:36:17.278,2025-03-16 12:37:53.387,moving,moving,0.10011246105919003,walking,in_vehicle,False,nan,nan,True,False,False,True,6677.278
-marco.amadori@gmail.com,2025-03-16 10:45:00,2025-03-16 12:32:00,2025-03-16 11:10:24.998,2025-03-16 11:20:09.850,moving,stationary,0.37147227414330214,walking,None,False,nan,nan,True,False,False,False,1524.998
+marco.amadori@gmail.com,2025-03-16 10:45:00,2025-03-16 12:32:00,2025-03-16 11:10:24.998,2025-03-16 11:20:09.850,moving,stationary,0.37147227414330214,walking,,False,nan,nan,True,False,False,False,1524.998
 marco.amadori@gmail.com,2025-03-16 10:45:00,2025-03-16 12:32:00,2025-03-16 10:45:35.001,2025-03-16 11:10:24.998,moving,moving,0.37772554517133955,walking,walking,True,nan,nan,True,False,False,True,35.001
-marco.amadori@gmail.com,2025-03-16 10:45:00,2025-03-16 12:32:00,2025-03-16 10:34:56.591,2025-03-16 10:45:35.001,moving,stationary,0.14563878504672897,walking,None,False,nan,nan,True,False,False,False,-603.409
-marco.amadori@gmail.com,2025-03-16 12:32:00,2025-03-16 12:36:00,2025-03-16 12:37:53.387,2025-03-16 13:23:06.228,moving,stationary,1.0,in_vehicle,None,False,nan,nan,True,False,False,False,353.387
+marco.amadori@gmail.com,2025-03-16 10:45:00,2025-03-16 12:32:00,2025-03-16 10:34:56.591,2025-03-16 10:45:35.001,moving,stationary,0.14563878504672897,walking,,False,nan,nan,True,False,False,False,-603.409
+marco.amadori@gmail.com,2025-03-16 12:32:00,2025-03-16 12:36:00,2025-03-16 12:37:53.387,2025-03-16 13:23:06.228,moving,stationary,1.0,in_vehicle,,False,nan,nan,True,False,False,False,353.387
 marco.amadori@gmail.com,2025-03-16 12:32:00,2025-03-16 12:36:00,2025-03-16 12:36:17.278,2025-03-16 12:37:53.387,moving,moving,1.0,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,257.278
-marco.amadori@gmail.com,2025-03-16 12:36:00,2025-03-16 13:22:00,2025-03-16 13:23:06.228,2025-03-16 13:40:15.321,stationary,moving,0.3020913043478261,nan,in_vehicle,False,other,nan,False,False,False,False,2826.228
-marco.amadori@gmail.com,2025-03-16 12:36:00,2025-03-16 13:22:00,2025-03-16 12:37:53.387,2025-03-16 13:23:06.228,stationary,stationary,1.0,nan,None,False,other,nan,False,False,False,True,113.387
-marco.amadori@gmail.com,2025-03-16 12:36:00,2025-03-16 13:22:00,2025-03-16 12:36:17.278,2025-03-16 12:37:53.387,stationary,moving,0.3671692028985507,nan,in_vehicle,False,other,nan,False,False,False,False,17.278
-marco.amadori@gmail.com,2025-03-16 13:22:00,2025-03-16 13:39:00,2025-03-16 13:40:15.321,2025-03-16 14:38:01.318,moving,stationary,0.8085088235294118,in_vehicle,None,False,nan,nan,True,False,False,False,1095.321
+marco.amadori@gmail.com,2025-03-16 12:36:00,2025-03-16 13:22:00,2025-03-16 13:23:06.228,2025-03-16 13:40:15.321,stationary,moving,0.3020913043478261,,in_vehicle,False,other,nan,False,False,False,False,2826.228
+marco.amadori@gmail.com,2025-03-16 12:36:00,2025-03-16 13:22:00,2025-03-16 12:37:53.387,2025-03-16 13:23:06.228,stationary,stationary,1.0,,,False,other,nan,False,False,False,True,113.387
+marco.amadori@gmail.com,2025-03-16 12:36:00,2025-03-16 13:22:00,2025-03-16 12:36:17.278,2025-03-16 12:37:53.387,stationary,moving,0.3671692028985507,,in_vehicle,False,other,nan,False,False,False,False,17.278
+marco.amadori@gmail.com,2025-03-16 13:22:00,2025-03-16 13:39:00,2025-03-16 13:40:15.321,2025-03-16 14:38:01.318,moving,stationary,0.8085088235294118,in_vehicle,,False,nan,nan,True,False,False,False,1095.321
 marco.amadori@gmail.com,2025-03-16 13:22:00,2025-03-16 13:39:00,2025-03-16 13:23:06.228,2025-03-16 13:40:15.321,moving,moving,1.0,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,66.228
-marco.amadori@gmail.com,2025-03-16 13:22:00,2025-03-16 13:39:00,2025-03-16 12:37:53.387,2025-03-16 13:23:06.228,moving,stationary,0.9472823529411765,in_vehicle,None,False,nan,nan,True,False,False,False,-2646.613
-marco.amadori@gmail.com,2025-03-16 13:39:00,2025-03-16 14:39:00,2025-03-16 14:38:01.318,2025-03-16 16:21:26.872,stationary,moving,0.26630055555555554,nan,in_vehicle,False,other,nan,False,False,False,False,3541.318
-marco.amadori@gmail.com,2025-03-16 13:39:00,2025-03-16 14:39:00,2025-03-16 13:40:15.321,2025-03-16 14:38:01.318,stationary,stationary,1.0,nan,None,False,other,nan,False,False,False,True,75.321
-marco.amadori@gmail.com,2025-03-16 13:39:00,2025-03-16 14:39:00,2025-03-16 13:23:06.228,2025-03-16 13:40:15.321,stationary,moving,0.2709225,nan,in_vehicle,False,other,nan,False,False,False,False,-953.772
-marco.amadori@gmail.com,2025-03-16 14:39:00,2025-03-16 16:20:00,2025-03-16 16:21:26.872,,moving,stationary,0.5,in_vehicle,None,False,nan,nan,True,False,False,False,6146.872
-marco.amadori@gmail.com,2025-03-16 14:39:00,2025-03-16 16:20:00,2025-03-16 16:21:26.872,,moving,stationary,0.5,in_vehicle,None,False,nan,nan,True,False,False,False,6146.872
+marco.amadori@gmail.com,2025-03-16 13:22:00,2025-03-16 13:39:00,2025-03-16 12:37:53.387,2025-03-16 13:23:06.228,moving,stationary,0.9472823529411765,in_vehicle,,False,nan,nan,True,False,False,False,-2646.613
+marco.amadori@gmail.com,2025-03-16 13:39:00,2025-03-16 14:39:00,2025-03-16 14:38:01.318,2025-03-16 16:21:26.872,stationary,moving,0.26630055555555554,,in_vehicle,False,other,nan,False,False,False,False,3541.318
+marco.amadori@gmail.com,2025-03-16 13:39:00,2025-03-16 14:39:00,2025-03-16 13:40:15.321,2025-03-16 14:38:01.318,stationary,stationary,1.0,,,False,other,nan,False,False,False,True,75.321
+marco.amadori@gmail.com,2025-03-16 13:39:00,2025-03-16 14:39:00,2025-03-16 13:23:06.228,2025-03-16 13:40:15.321,stationary,moving,0.2709225,,in_vehicle,False,other,nan,False,False,False,False,-953.772
+marco.amadori@gmail.com,2025-03-16 14:39:00,2025-03-16 16:20:00,2025-03-16 16:21:26.872,,moving,stationary,0.5,in_vehicle,,False,nan,nan,True,False,False,False,6146.872
+marco.amadori@gmail.com,2025-03-16 14:39:00,2025-03-16 16:20:00,2025-03-16 16:21:26.872,,moving,stationary,0.5,in_vehicle,,False,nan,nan,True,False,False,False,6146.872
 marco.amadori@gmail.com,2025-03-16 14:39:00,2025-03-16 16:20:00,2025-03-16 14:38:01.318,2025-03-16 16:21:26.872,moving,moving,1.0,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,-58.682
-marco.amadori@gmail.com,2025-03-16 14:39:00,2025-03-16 16:20:00,2025-03-16 13:40:15.321,2025-03-16 14:38:01.318,moving,stationary,0.13883135313531353,in_vehicle,None,False,nan,nan,True,False,False,False,-3524.679
-marco.amadori@gmail.com,2025-03-16 16:20:00,2025-03-17 07:35:00,2025-03-17 07:49:11.998,,stationary,stationary,0.5,nan,None,False,home,nan,False,True,False,True,55751.998
-marco.amadori@gmail.com,2025-03-16 16:20:00,2025-03-17 07:35:00,2025-03-16 16:21:26.872,,stationary,stationary,0.5,nan,None,False,home,nan,False,True,False,True,86.872
-marco.amadori@gmail.com,2025-03-16 16:20:00,2025-03-17 07:35:00,2025-03-16 16:21:26.872,,stationary,stationary,0.5,nan,None,False,home,nan,False,True,False,True,86.872
-marco.amadori@gmail.com,2025-03-17 07:35:00,2025-03-17 07:49:00,2025-03-17 07:49:11.998,,moving,stationary,0.5,on_bicycle,None,False,nan,nan,True,False,False,False,851.998
-marco.amadori@gmail.com,2025-03-17 07:49:00,2025-03-17 18:24:00,2025-03-17 18:35:54.998,,stationary,stationary,0.5,nan,None,False,work,nan,False,True,False,True,38814.998
-marco.amadori@gmail.com,2025-03-17 07:49:00,2025-03-17 18:24:00,2025-03-17 07:49:11.998,,stationary,stationary,0.5,nan,None,False,work,nan,False,True,False,True,11.998
-marco.amadori@gmail.com,2025-03-17 18:24:00,2025-03-17 18:36:00,2025-03-17 18:35:54.998,2025-03-18 07:30:36.999,moving,stationary,1.0,on_bicycle,None,False,nan,nan,True,False,False,False,714.998
-marco.amadori@gmail.com,2025-03-17 18:24:00,2025-03-17 18:36:00,2025-03-17 18:35:54.998,,moving,stationary,0.5,on_bicycle,None,False,nan,nan,True,False,False,False,714.998
-marco.amadori@gmail.com,2025-03-17 18:36:00,2025-03-18 07:27:00,2025-03-18 07:42:22.937,,stationary,stationary,0.5,nan,None,False,home,nan,False,True,False,True,47182.937
-marco.amadori@gmail.com,2025-03-17 18:36:00,2025-03-18 07:27:00,2025-03-17 18:35:54.998,2025-03-18 07:30:36.999,stationary,stationary,1.0,nan,None,False,home,nan,False,True,False,True,-5.002
-marco.amadori@gmail.com,2025-03-17 18:36:00,2025-03-18 07:27:00,2025-03-17 18:35:54.998,,stationary,stationary,0.5,nan,None,False,home,nan,False,True,False,True,-5.002
-marco.amadori@gmail.com,2025-03-18 07:27:00,2025-03-18 07:40:00,2025-03-18 07:42:22.937,2025-03-18 09:07:55.017,moving,stationary,0.9705935897435898,on_bicycle,None,False,nan,nan,True,False,False,False,922.937
-marco.amadori@gmail.com,2025-03-18 07:27:00,2025-03-18 07:40:00,2025-03-18 07:42:22.937,,moving,stationary,0.5,on_bicycle,None,False,nan,nan,True,False,False,False,922.937
+marco.amadori@gmail.com,2025-03-16 14:39:00,2025-03-16 16:20:00,2025-03-16 13:40:15.321,2025-03-16 14:38:01.318,moving,stationary,0.13883135313531353,in_vehicle,,False,nan,nan,True,False,False,False,-3524.679
+marco.amadori@gmail.com,2025-03-16 16:20:00,2025-03-17 07:35:00,2025-03-17 07:49:11.998,,stationary,stationary,0.5,,,False,home,nan,False,True,False,True,55751.998
+marco.amadori@gmail.com,2025-03-16 16:20:00,2025-03-17 07:35:00,2025-03-16 16:21:26.872,,stationary,stationary,0.5,,,False,home,nan,False,True,False,True,86.872
+marco.amadori@gmail.com,2025-03-16 16:20:00,2025-03-17 07:35:00,2025-03-16 16:21:26.872,,stationary,stationary,0.5,,,False,home,nan,False,True,False,True,86.872
+marco.amadori@gmail.com,2025-03-17 07:35:00,2025-03-17 07:49:00,2025-03-17 07:49:11.998,,moving,stationary,0.5,on_bicycle,,False,nan,nan,True,False,False,False,851.998
+marco.amadori@gmail.com,2025-03-17 07:49:00,2025-03-17 18:24:00,2025-03-17 18:35:54.998,,stationary,stationary,0.5,,,False,work,nan,False,True,False,True,38814.998
+marco.amadori@gmail.com,2025-03-17 07:49:00,2025-03-17 18:24:00,2025-03-17 07:49:11.998,,stationary,stationary,0.5,,,False,work,nan,False,True,False,True,11.998
+marco.amadori@gmail.com,2025-03-17 18:24:00,2025-03-17 18:36:00,2025-03-17 18:35:54.998,2025-03-18 07:30:36.999,moving,stationary,1.0,on_bicycle,,False,nan,nan,True,False,False,False,714.998
+marco.amadori@gmail.com,2025-03-17 18:24:00,2025-03-17 18:36:00,2025-03-17 18:35:54.998,,moving,stationary,0.5,on_bicycle,,False,nan,nan,True,False,False,False,714.998
+marco.amadori@gmail.com,2025-03-17 18:36:00,2025-03-18 07:27:00,2025-03-18 07:42:22.937,,stationary,stationary,0.5,,,False,home,nan,False,True,False,True,47182.937
+marco.amadori@gmail.com,2025-03-17 18:36:00,2025-03-18 07:27:00,2025-03-17 18:35:54.998,2025-03-18 07:30:36.999,stationary,stationary,1.0,,,False,home,nan,False,True,False,True,-5.002
+marco.amadori@gmail.com,2025-03-17 18:36:00,2025-03-18 07:27:00,2025-03-17 18:35:54.998,,stationary,stationary,0.5,,,False,home,nan,False,True,False,True,-5.002
+marco.amadori@gmail.com,2025-03-18 07:27:00,2025-03-18 07:40:00,2025-03-18 07:42:22.937,2025-03-18 09:07:55.017,moving,stationary,0.9705935897435898,on_bicycle,,False,nan,nan,True,False,False,False,922.937
+marco.amadori@gmail.com,2025-03-18 07:27:00,2025-03-18 07:40:00,2025-03-18 07:42:22.937,,moving,stationary,0.5,on_bicycle,,False,nan,nan,True,False,False,False,922.937
 marco.amadori@gmail.com,2025-03-18 07:27:00,2025-03-18 07:40:00,2025-03-18 07:30:36.999,2025-03-18 07:42:22.937,moving,moving,1.0,on_bicycle,on_bicycle,True,nan,nan,True,False,False,True,216.999
-marco.amadori@gmail.com,2025-03-18 07:27:00,2025-03-18 07:40:00,2025-03-17 18:35:54.998,2025-03-18 07:30:36.999,moving,stationary,1.0,on_bicycle,None,False,nan,nan,True,False,False,False,-46265.002
-marco.amadori@gmail.com,2025-03-18 07:40:00,2025-03-18 09:02:00,2025-03-18 09:07:55.017,2025-03-18 09:53:08.999,stationary,moving,0.11076890243902437,nan,in_vehicle,False,work,nan,False,True,False,False,5275.017
-marco.amadori@gmail.com,2025-03-18 07:40:00,2025-03-18 09:02:00,2025-03-18 07:42:22.937,2025-03-18 09:07:55.017,stationary,stationary,1.0,nan,None,False,work,nan,False,True,False,True,142.937
-marco.amadori@gmail.com,2025-03-18 07:40:00,2025-03-18 09:02:00,2025-03-18 07:42:22.937,,stationary,stationary,0.5,nan,None,False,work,nan,False,True,False,True,142.937
-marco.amadori@gmail.com,2025-03-18 07:40:00,2025-03-18 09:02:00,2025-03-18 07:30:36.999,2025-03-18 07:42:22.937,stationary,moving,0.2119790650406504,nan,on_bicycle,False,work,nan,False,True,False,False,-563.001
+marco.amadori@gmail.com,2025-03-18 07:27:00,2025-03-18 07:40:00,2025-03-17 18:35:54.998,2025-03-18 07:30:36.999,moving,stationary,1.0,on_bicycle,,False,nan,nan,True,False,False,False,-46265.002
+marco.amadori@gmail.com,2025-03-18 07:40:00,2025-03-18 09:02:00,2025-03-18 09:07:55.017,2025-03-18 09:53:08.999,stationary,moving,0.11076890243902437,,in_vehicle,False,work,nan,False,True,False,False,5275.017
+marco.amadori@gmail.com,2025-03-18 07:40:00,2025-03-18 09:02:00,2025-03-18 07:42:22.937,2025-03-18 09:07:55.017,stationary,stationary,1.0,,,False,work,nan,False,True,False,True,142.937
+marco.amadori@gmail.com,2025-03-18 07:40:00,2025-03-18 09:02:00,2025-03-18 07:42:22.937,,stationary,stationary,0.5,,,False,work,nan,False,True,False,True,142.937
+marco.amadori@gmail.com,2025-03-18 07:40:00,2025-03-18 09:02:00,2025-03-18 07:30:36.999,2025-03-18 07:42:22.937,stationary,moving,0.2119790650406504,,on_bicycle,False,work,nan,False,True,False,False,-563.001
 marco.amadori@gmail.com,2025-03-18 09:02:00,2025-03-18 09:30:00,2025-03-18 09:07:55.017,2025-03-18 09:53:08.999,moving,moving,1.0,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,355.017
-marco.amadori@gmail.com,2025-03-18 09:02:00,2025-03-18 09:30:00,2025-03-18 07:42:22.937,2025-03-18 09:07:55.017,moving,stationary,0.7470339285714286,in_vehicle,None,False,nan,nan,True,False,False,False,-4777.063
-marco.amadori@gmail.com,2025-03-18 09:30:00,2025-03-18 09:42:00,2025-03-18 09:53:08.999,2025-03-18 09:59:50.748,stationary,stationary,0.3208347222222222,nan,None,False,other,nan,False,False,False,True,1388.999
-marco.amadori@gmail.com,2025-03-18 09:30:00,2025-03-18 09:42:00,2025-03-18 09:07:55.017,2025-03-18 09:53:08.999,stationary,moving,1.0,nan,in_vehicle,False,other,nan,False,False,False,False,-1324.983
+marco.amadori@gmail.com,2025-03-18 09:02:00,2025-03-18 09:30:00,2025-03-18 07:42:22.937,2025-03-18 09:07:55.017,moving,stationary,0.7470339285714286,in_vehicle,,False,nan,nan,True,False,False,False,-4777.063
+marco.amadori@gmail.com,2025-03-18 09:30:00,2025-03-18 09:42:00,2025-03-18 09:53:08.999,2025-03-18 09:59:50.748,stationary,stationary,0.3208347222222222,,,False,other,nan,False,False,False,True,1388.999
+marco.amadori@gmail.com,2025-03-18 09:30:00,2025-03-18 09:42:00,2025-03-18 09:07:55.017,2025-03-18 09:53:08.999,stationary,moving,1.0,,in_vehicle,False,other,nan,False,False,False,False,-1324.983
 marco.amadori@gmail.com,2025-03-18 09:42:00,2025-03-18 10:34:00,2025-03-18 09:59:50.748,2025-03-18 10:38:11.999,moving,moving,0.9452730769230769,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,1070.748
-marco.amadori@gmail.com,2025-03-18 09:42:00,2025-03-18 10:34:00,2025-03-18 09:53:08.999,2025-03-18 09:59:50.748,moving,stationary,0.63165,in_vehicle,None,False,nan,nan,True,False,False,False,668.999
+marco.amadori@gmail.com,2025-03-18 09:42:00,2025-03-18 10:34:00,2025-03-18 09:53:08.999,2025-03-18 09:59:50.748,moving,stationary,0.63165,in_vehicle,,False,nan,nan,True,False,False,False,668.999
 marco.amadori@gmail.com,2025-03-18 09:42:00,2025-03-18 10:34:00,2025-03-18 09:07:55.017,2025-03-18 09:53:08.999,moving,moving,0.5028842948717949,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,-2044.983
-marco.amadori@gmail.com,2025-03-18 10:34:00,2025-03-18 10:53:00,2025-03-18 11:09:39.793,,stationary,stationary,0.5,nan,None,False,other,nan,False,False,False,True,2139.793
-marco.amadori@gmail.com,2025-03-18 10:34:00,2025-03-18 10:53:00,2025-03-18 11:09:39.793,,stationary,stationary,0.5,nan,None,False,other,nan,False,False,False,True,2139.793
-marco.amadori@gmail.com,2025-03-18 10:34:00,2025-03-18 10:53:00,2025-03-18 10:48:38.280,2025-03-18 11:09:39.793,stationary,moving,1.0,nan,walking,False,other,nan,False,False,False,False,878.28
-marco.amadori@gmail.com,2025-03-18 10:34:00,2025-03-18 10:53:00,2025-03-18 09:59:50.748,2025-03-18 10:38:11.999,stationary,moving,1.0,nan,in_vehicle,False,other,nan,False,False,False,False,-2049.252
-marco.amadori@gmail.com,2025-03-18 10:53:00,2025-03-18 11:07:00,2025-03-18 11:09:39.793,,moving,stationary,0.5,in_vehicle,None,False,nan,nan,True,False,False,False,999.793
-marco.amadori@gmail.com,2025-03-18 10:53:00,2025-03-18 11:07:00,2025-03-18 11:09:39.793,,moving,stationary,0.5,in_vehicle,None,False,nan,nan,True,False,False,False,999.793
+marco.amadori@gmail.com,2025-03-18 10:34:00,2025-03-18 10:53:00,2025-03-18 11:09:39.793,,stationary,stationary,0.5,,,False,other,nan,False,False,False,True,2139.793
+marco.amadori@gmail.com,2025-03-18 10:34:00,2025-03-18 10:53:00,2025-03-18 11:09:39.793,,stationary,stationary,0.5,,,False,other,nan,False,False,False,True,2139.793
+marco.amadori@gmail.com,2025-03-18 10:34:00,2025-03-18 10:53:00,2025-03-18 10:48:38.280,2025-03-18 11:09:39.793,stationary,moving,1.0,,walking,False,other,nan,False,False,False,False,878.28
+marco.amadori@gmail.com,2025-03-18 10:34:00,2025-03-18 10:53:00,2025-03-18 09:59:50.748,2025-03-18 10:38:11.999,stationary,moving,1.0,,in_vehicle,False,other,nan,False,False,False,False,-2049.252
+marco.amadori@gmail.com,2025-03-18 10:53:00,2025-03-18 11:07:00,2025-03-18 11:09:39.793,,moving,stationary,0.5,in_vehicle,,False,nan,nan,True,False,False,False,999.793
+marco.amadori@gmail.com,2025-03-18 10:53:00,2025-03-18 11:07:00,2025-03-18 11:09:39.793,,moving,stationary,0.5,in_vehicle,,False,nan,nan,True,False,False,False,999.793
 marco.amadori@gmail.com,2025-03-18 10:53:00,2025-03-18 11:07:00,2025-03-18 10:48:38.280,2025-03-18 11:09:39.793,moving,moving,1.0,in_vehicle,walking,False,nan,nan,True,False,False,True,-261.72
-marco.amadori@gmail.com,2025-03-18 11:07:00,2025-03-18 16:57:00,2025-03-18 11:09:39.793,,stationary,stationary,0.5,nan,None,False,work,nan,False,True,False,True,159.793
-marco.amadori@gmail.com,2025-03-18 11:07:00,2025-03-18 16:57:00,2025-03-18 11:09:39.793,,stationary,stationary,0.5,nan,None,False,work,nan,False,True,False,True,159.793
-marco.amadori@gmail.com,2025-03-18 17:29:00,2025-03-19 08:08:00,2025-03-19 08:22:32.999,,stationary,stationary,0.5,nan,None,False,home,nan,False,True,False,True,53612.999
-marco.amadori@gmail.com,2025-03-18 17:29:00,2025-03-19 08:08:00,2025-03-19 08:22:32.999,,stationary,stationary,0.5,nan,None,False,home,nan,False,True,False,True,53612.999
-marco.amadori@gmail.com,2025-03-19 08:08:00,2025-03-19 08:31:00,2025-03-19 08:22:32.999,,moving,stationary,0.5,walking,None,False,nan,nan,True,False,False,False,872.999
-marco.amadori@gmail.com,2025-03-19 08:08:00,2025-03-19 08:31:00,2025-03-19 08:22:32.999,,moving,stationary,0.5,walking,None,False,nan,nan,True,False,False,False,872.999
-marco.amadori@gmail.com,2025-03-19 08:31:00,2025-03-19 08:42:00,2025-03-19 08:22:32.999,,stationary,stationary,0.5,nan,None,False,other,nan,False,False,False,True,-507.001
-marco.amadori@gmail.com,2025-03-19 08:31:00,2025-03-19 08:42:00,2025-03-19 08:22:32.999,,stationary,stationary,0.5,nan,None,False,other,nan,False,False,False,True,-507.001
-marco.amadori@gmail.com,2025-03-19 08:42:00,2025-03-19 09:07:00,2025-03-19 09:03:25.998,2025-03-19 17:28:59.617,moving,stationary,0.742668,walking,None,False,nan,nan,True,False,False,False,1285.998
-marco.amadori@gmail.com,2025-03-19 08:42:00,2025-03-19 09:07:00,2025-03-19 08:22:32.999,,moving,stationary,0.5,walking,None,False,nan,nan,True,False,False,False,-1167.001
-marco.amadori@gmail.com,2025-03-19 08:42:00,2025-03-19 09:07:00,2025-03-19 08:22:32.999,,moving,stationary,0.5,walking,None,False,nan,nan,True,False,False,False,-1167.001
-marco.amadori@gmail.com,2025-03-19 09:07:00,2025-03-19 17:15:00,2025-03-19 09:03:25.998,2025-03-19 17:28:59.617,stationary,stationary,1.0,nan,None,False,home,nan,False,True,False,True,-214.002
-marco.amadori@gmail.com,2025-03-19 17:15:00,2025-03-19 17:40:00,2025-03-19 17:51:54.999,2025-03-19 17:56:36.399,moving,stationary,0.123334,in_vehicle,None,False,nan,nan,True,False,False,False,2214.999
+marco.amadori@gmail.com,2025-03-18 11:07:00,2025-03-18 16:57:00,2025-03-18 11:09:39.793,,stationary,stationary,0.5,,,False,work,nan,False,True,False,True,159.793
+marco.amadori@gmail.com,2025-03-18 11:07:00,2025-03-18 16:57:00,2025-03-18 11:09:39.793,,stationary,stationary,0.5,,,False,work,nan,False,True,False,True,159.793
+marco.amadori@gmail.com,2025-03-18 17:29:00,2025-03-19 08:08:00,2025-03-19 08:22:32.999,,stationary,stationary,0.5,,,False,home,nan,False,True,False,True,53612.999
+marco.amadori@gmail.com,2025-03-18 17:29:00,2025-03-19 08:08:00,2025-03-19 08:22:32.999,,stationary,stationary,0.5,,,False,home,nan,False,True,False,True,53612.999
+marco.amadori@gmail.com,2025-03-19 08:08:00,2025-03-19 08:31:00,2025-03-19 08:22:32.999,,moving,stationary,0.5,walking,,False,nan,nan,True,False,False,False,872.999
+marco.amadori@gmail.com,2025-03-19 08:08:00,2025-03-19 08:31:00,2025-03-19 08:22:32.999,,moving,stationary,0.5,walking,,False,nan,nan,True,False,False,False,872.999
+marco.amadori@gmail.com,2025-03-19 08:31:00,2025-03-19 08:42:00,2025-03-19 08:22:32.999,,stationary,stationary,0.5,,,False,other,nan,False,False,False,True,-507.001
+marco.amadori@gmail.com,2025-03-19 08:31:00,2025-03-19 08:42:00,2025-03-19 08:22:32.999,,stationary,stationary,0.5,,,False,other,nan,False,False,False,True,-507.001
+marco.amadori@gmail.com,2025-03-19 08:42:00,2025-03-19 09:07:00,2025-03-19 09:03:25.998,2025-03-19 17:28:59.617,moving,stationary,0.742668,walking,,False,nan,nan,True,False,False,False,1285.998
+marco.amadori@gmail.com,2025-03-19 08:42:00,2025-03-19 09:07:00,2025-03-19 08:22:32.999,,moving,stationary,0.5,walking,,False,nan,nan,True,False,False,False,-1167.001
+marco.amadori@gmail.com,2025-03-19 08:42:00,2025-03-19 09:07:00,2025-03-19 08:22:32.999,,moving,stationary,0.5,walking,,False,nan,nan,True,False,False,False,-1167.001
+marco.amadori@gmail.com,2025-03-19 09:07:00,2025-03-19 17:15:00,2025-03-19 09:03:25.998,2025-03-19 17:28:59.617,stationary,stationary,1.0,,,False,home,nan,False,True,False,True,-214.002
+marco.amadori@gmail.com,2025-03-19 17:15:00,2025-03-19 17:40:00,2025-03-19 17:51:54.999,2025-03-19 17:56:36.399,moving,stationary,0.123334,in_vehicle,,False,nan,nan,True,False,False,False,2214.999
 marco.amadori@gmail.com,2025-03-19 17:15:00,2025-03-19 17:40:00,2025-03-19 17:46:46.999,2025-03-19 17:51:54.999,moving,moving,0.3286673333333333,in_vehicle,walking,False,nan,nan,True,False,False,True,1906.999
-marco.amadori@gmail.com,2025-03-19 17:15:00,2025-03-19 17:40:00,2025-03-19 17:41:07.290,2025-03-19 17:46:40.999,moving,stationary,0.5551400000000001,in_vehicle,None,False,nan,nan,True,False,False,False,1567.29
+marco.amadori@gmail.com,2025-03-19 17:15:00,2025-03-19 17:40:00,2025-03-19 17:41:07.290,2025-03-19 17:46:40.999,moving,stationary,0.5551400000000001,in_vehicle,,False,nan,nan,True,False,False,False,1567.29
 marco.amadori@gmail.com,2025-03-19 17:15:00,2025-03-19 17:40:00,2025-03-19 17:28:59.617,2025-03-19 17:41:07.290,moving,moving,1.0,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,839.617
-marco.amadori@gmail.com,2025-03-19 17:15:00,2025-03-19 17:40:00,2025-03-19 09:03:25.998,2025-03-19 17:28:59.617,moving,stationary,1.0,in_vehicle,None,False,nan,nan,True,False,False,False,-29494.002
-marco.amadori@gmail.com,2025-03-19 17:40:00,2025-03-19 18:23:00,2025-03-19 18:23:56.019,,moving,stationary,0.5,walking,None,False,nan,nan,True,False,False,False,2636.019
+marco.amadori@gmail.com,2025-03-19 17:15:00,2025-03-19 17:40:00,2025-03-19 09:03:25.998,2025-03-19 17:28:59.617,moving,stationary,1.0,in_vehicle,,False,nan,nan,True,False,False,False,-29494.002
+marco.amadori@gmail.com,2025-03-19 17:40:00,2025-03-19 18:23:00,2025-03-19 18:23:56.019,,moving,stationary,0.5,walking,,False,nan,nan,True,False,False,False,2636.019
 marco.amadori@gmail.com,2025-03-19 17:40:00,2025-03-19 18:23:00,2025-03-19 17:56:36.399,2025-03-19 18:23:56.019,moving,moving,0.9626360465116279,walking,walking,True,nan,nan,True,False,False,True,996.399
-marco.amadori@gmail.com,2025-03-19 17:40:00,2025-03-19 18:23:00,2025-03-19 17:51:54.999,2025-03-19 17:56:36.399,moving,stationary,0.7350383720930233,walking,None,False,nan,nan,True,False,False,False,714.999
+marco.amadori@gmail.com,2025-03-19 17:40:00,2025-03-19 18:23:00,2025-03-19 17:51:54.999,2025-03-19 17:56:36.399,moving,stationary,0.7350383720930233,walking,,False,nan,nan,True,False,False,False,714.999
 marco.amadori@gmail.com,2025-03-19 17:40:00,2025-03-19 18:23:00,2025-03-19 17:46:46.999,2025-03-19 17:51:54.999,moving,moving,0.6259686046511628,walking,walking,True,nan,nan,True,False,False,True,406.999
-marco.amadori@gmail.com,2025-03-19 17:40:00,2025-03-19 18:23:00,2025-03-19 17:41:07.290,2025-03-19 17:46:40.999,moving,stationary,0.5042631782945737,walking,None,False,nan,nan,True,False,False,False,67.29
+marco.amadori@gmail.com,2025-03-19 17:40:00,2025-03-19 18:23:00,2025-03-19 17:41:07.290,2025-03-19 17:46:40.999,moving,stationary,0.5042631782945737,walking,,False,nan,nan,True,False,False,False,67.29
 marco.amadori@gmail.com,2025-03-19 17:40:00,2025-03-19 18:23:00,2025-03-19 17:28:59.617,2025-03-19 17:41:07.290,moving,moving,0.3749186046511628,walking,in_vehicle,False,nan,nan,True,False,False,True,-660.383
-marco.amadori@gmail.com,2025-03-19 18:23:00,2025-03-20 07:34:00,2025-03-19 18:23:56.019,,stationary,stationary,0.5,nan,None,False,home,nan,False,True,False,True,56.019
-marco.amadori@gmail.com,2025-03-20 07:50:00,2025-03-20 08:38:00,2025-03-20 08:44:02.999,2025-03-20 10:03:50.999,stationary,moving,0.18645868055555553,nan,in_vehicle,False,work,nan,False,True,False,False,3242.999
-marco.amadori@gmail.com,2025-03-20 08:38:00,2025-03-20 09:59:00,2025-03-20 10:03:50.999,,moving,stationary,0.5,in_vehicle,None,False,nan,nan,True,False,False,False,5150.999
+marco.amadori@gmail.com,2025-03-19 18:23:00,2025-03-20 07:34:00,2025-03-19 18:23:56.019,,stationary,stationary,0.5,,,False,home,nan,False,True,False,True,56.019
+marco.amadori@gmail.com,2025-03-20 07:50:00,2025-03-20 08:38:00,2025-03-20 08:44:02.999,2025-03-20 10:03:50.999,stationary,moving,0.18645868055555553,,in_vehicle,False,work,nan,False,True,False,False,3242.999
+marco.amadori@gmail.com,2025-03-20 08:38:00,2025-03-20 09:59:00,2025-03-20 10:03:50.999,,moving,stationary,0.5,in_vehicle,,False,nan,nan,True,False,False,False,5150.999
 marco.amadori@gmail.com,2025-03-20 08:38:00,2025-03-20 09:59:00,2025-03-20 08:44:02.999,2025-03-20 10:03:50.999,moving,moving,1.0,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,362.999
 marco.amadori@gmail.com,2025-03-20 09:59:00,2025-03-20 11:49:00,2025-03-20 11:52:57.999,2025-03-20 12:32:15.019,moving,moving,0.10030318181818182,walking,in_vehicle,False,nan,nan,True,False,False,True,6837.999
-marco.amadori@gmail.com,2025-03-20 09:59:00,2025-03-20 11:49:00,2025-03-20 10:03:50.999,,moving,stationary,0.5,walking,None,False,nan,nan,True,False,False,False,290.999
+marco.amadori@gmail.com,2025-03-20 09:59:00,2025-03-20 11:49:00,2025-03-20 10:03:50.999,,moving,stationary,0.5,walking,,False,nan,nan,True,False,False,False,290.999
 marco.amadori@gmail.com,2025-03-20 09:59:00,2025-03-20 11:49:00,2025-03-20 08:44:02.999,2025-03-20 10:03:50.999,moving,moving,0.18045439393939394,walking,in_vehicle,False,nan,nan,True,False,False,True,-4497.001
-marco.amadori@gmail.com,2025-03-20 11:49:00,2025-03-20 12:22:00,2025-03-20 12:32:15.019,2025-03-20 14:14:11.487,moving,stationary,0.14392979797979796,in_vehicle,None,False,nan,nan,True,False,False,False,2595.019
+marco.amadori@gmail.com,2025-03-20 11:49:00,2025-03-20 12:22:00,2025-03-20 12:32:15.019,2025-03-20 14:14:11.487,moving,stationary,0.14392979797979796,in_vehicle,,False,nan,nan,True,False,False,False,2595.019
 marco.amadori@gmail.com,2025-03-20 11:49:00,2025-03-20 12:22:00,2025-03-20 11:52:57.999,2025-03-20 12:32:15.019,moving,moving,1.0,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,237.999
-marco.amadori@gmail.com,2025-03-20 12:22:00,2025-03-20 14:12:00,2025-03-20 12:32:15.019,2025-03-20 14:14:11.487,stationary,stationary,1.0,nan,None,False,work,nan,False,True,False,True,615.019
-marco.amadori@gmail.com,2025-03-20 12:22:00,2025-03-20 14:12:00,2025-03-20 11:52:57.999,2025-03-20 12:32:15.019,stationary,moving,0.22954833333333333,nan,in_vehicle,False,work,nan,False,True,False,False,-1742.001
-marco.amadori@gmail.com,2025-03-20 14:12:00,2025-03-20 14:55:00,2025-03-20 12:32:15.019,2025-03-20 14:14:11.487,moving,stationary,0.3998011627906977,on_bicycle,None,False,nan,nan,True,False,False,False,-5984.981
-marco.amadori@gmail.com,2025-03-20 17:51:00,2025-03-20 18:05:00,2025-03-20 18:06:45.656,2025-03-20 18:07:29.011,moving,stationary,0.9456476190476191,on_bicycle,None,False,nan,nan,True,False,False,False,945.656
-marco.amadori@gmail.com,2025-03-21 07:33:00,2025-03-21 07:49:00,2025-03-21 07:51:13.596,2025-03-21 19:41:43.845,moving,stationary,0.7983375,in_vehicle,None,False,nan,nan,True,False,False,False,1093.596
+marco.amadori@gmail.com,2025-03-20 12:22:00,2025-03-20 14:12:00,2025-03-20 12:32:15.019,2025-03-20 14:14:11.487,stationary,stationary,1.0,,,False,work,nan,False,True,False,True,615.019
+marco.amadori@gmail.com,2025-03-20 12:22:00,2025-03-20 14:12:00,2025-03-20 11:52:57.999,2025-03-20 12:32:15.019,stationary,moving,0.22954833333333333,,in_vehicle,False,work,nan,False,True,False,False,-1742.001
+marco.amadori@gmail.com,2025-03-20 14:12:00,2025-03-20 14:55:00,2025-03-20 12:32:15.019,2025-03-20 14:14:11.487,moving,stationary,0.3998011627906977,cycle+walking,,False,nan,nan,True,False,False,False,-5984.981
+marco.amadori@gmail.com,2025-03-20 17:51:00,2025-03-20 18:05:00,2025-03-20 18:06:45.656,2025-03-20 18:07:29.011,moving,stationary,0.9456476190476191,on_bicycle,,False,nan,nan,True,False,False,False,945.656
+marco.amadori@gmail.com,2025-03-21 07:33:00,2025-03-21 07:49:00,2025-03-21 07:51:13.596,2025-03-21 19:41:43.845,moving,stationary,0.7983375,in_vehicle,,False,nan,nan,True,False,False,False,1093.596
 marco.amadori@gmail.com,2025-03-21 07:33:00,2025-03-21 07:49:00,2025-03-21 07:35:29.650,2025-03-21 07:51:13.596,moving,moving,1.0,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,149.65
-marco.amadori@gmail.com,2025-03-21 07:49:00,2025-03-21 19:41:00,2025-03-21 07:51:13.596,2025-03-21 19:41:43.845,stationary,stationary,1.0,nan,None,False,home,nan,False,True,False,True,133.596
+marco.amadori@gmail.com,2025-03-21 07:49:00,2025-03-21 19:41:00,2025-03-21 07:51:13.596,2025-03-21 19:41:43.845,stationary,stationary,1.0,,,False,home,nan,False,True,False,True,133.596
 marco.amadori@gmail.com,2025-03-21 19:41:00,2025-03-21 19:57:00,2025-03-21 19:41:43.845,2025-03-21 19:58:37.727,moving,moving,1.0,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,43.845
-marco.amadori@gmail.com,2025-03-21 19:41:00,2025-03-21 19:57:00,2025-03-21 07:51:13.596,2025-03-21 19:41:43.845,moving,stationary,0.983171875,in_vehicle,None,False,nan,nan,True,False,False,False,-42586.404
-marco.amadori@gmail.com,2025-03-21 19:57:00,2025-03-21 23:50:00,2025-03-22 00:04:09.498,,stationary,stationary,0.5,nan,None,False,other,nan,False,False,False,True,14829.498
-marco.amadori@gmail.com,2025-03-21 00:02:00,2025-03-22 09:21:00,2025-03-21 07:51:13.596,2025-03-21 19:41:43.845,stationary,stationary,0.37043729364682343,nan,None,False,home,nan,False,True,False,True,28153.596
-marco.amadori@gmail.com,2025-03-22 09:21:00,2025-03-22 10:17:00,2025-03-22 10:16:51.021,,moving,stationary,0.5,walking,None,False,nan,nan,True,False,False,False,3351.021
-marco.amadori@gmail.com,2025-03-22 10:17:00,2025-03-22 10:29:00,2025-03-22 10:16:51.021,,stationary,stationary,0.5,nan,None,False,other,nan,False,False,False,True,-8.979
-marco.amadori@gmail.com,2025-03-22 10:29:00,2025-03-22 10:34:00,2025-03-22 10:16:51.021,,moving,stationary,0.5,walking,None,False,nan,nan,True,False,False,False,-728.979
-marco.amadori@gmail.com,2025-03-22 10:34:00,2025-03-22 10:54:00,2025-03-22 11:04:35.998,2025-03-22 11:23:46.999,stationary,moving,0.22000166666666668,nan,unknown,False,other,nan,False,False,False,False,1835.998
-marco.amadori@gmail.com,2025-03-22 10:34:00,2025-03-22 10:54:00,2025-03-22 10:16:51.021,,stationary,stationary,0.5,nan,None,False,other,nan,False,False,False,True,-1028.979
-marco.amadori@gmail.com,2025-03-22 10:54:00,2025-03-22 12:01:00,2025-03-22 12:02:05.439,2025-03-23 10:56:37.797,moving,stationary,0.20760223880597015,walking,None,False,nan,nan,True,False,False,False,4085.439
+marco.amadori@gmail.com,2025-03-21 19:41:00,2025-03-21 19:57:00,2025-03-21 07:51:13.596,2025-03-21 19:41:43.845,moving,stationary,0.983171875,in_vehicle,,False,nan,nan,True,False,False,False,-42586.404
+marco.amadori@gmail.com,2025-03-21 19:57:00,2025-03-21 23:50:00,2025-03-22 00:04:09.498,,stationary,stationary,0.5,,,False,other,nan,False,False,False,True,14829.498
+marco.amadori@gmail.com,2025-03-21 00:02:00,2025-03-22 09:21:00,2025-03-21 07:51:13.596,2025-03-21 19:41:43.845,stationary,stationary,0.37043729364682343,,,False,home,nan,False,True,False,True,28153.596
+marco.amadori@gmail.com,2025-03-22 09:21:00,2025-03-22 10:17:00,2025-03-22 10:16:51.021,,moving,stationary,0.5,walking,,False,nan,nan,True,False,False,False,3351.021
+marco.amadori@gmail.com,2025-03-22 10:17:00,2025-03-22 10:29:00,2025-03-22 10:16:51.021,,stationary,stationary,0.5,,,False,other,nan,False,False,False,True,-8.979
+marco.amadori@gmail.com,2025-03-22 10:29:00,2025-03-22 10:34:00,2025-03-22 10:16:51.021,,moving,stationary,0.5,walking,,False,nan,nan,True,False,False,False,-728.979
+marco.amadori@gmail.com,2025-03-22 10:34:00,2025-03-22 10:54:00,2025-03-22 11:04:35.998,2025-03-22 11:23:46.999,stationary,moving,0.22000166666666668,,unknown,False,other,nan,False,False,False,False,1835.998
+marco.amadori@gmail.com,2025-03-22 10:34:00,2025-03-22 10:54:00,2025-03-22 10:16:51.021,,stationary,stationary,0.5,,,False,other,nan,False,False,False,True,-1028.979
+marco.amadori@gmail.com,2025-03-22 10:54:00,2025-03-22 12:01:00,2025-03-22 12:02:05.439,2025-03-23 10:56:37.797,moving,stationary,0.20760223880597015,walking,,False,nan,nan,True,False,False,False,4085.439
 marco.amadori@gmail.com,2025-03-22 10:54:00,2025-03-22 12:01:00,2025-03-22 11:23:46.999,2025-03-22 12:02:05.439,moving,moving,0.7793534825870647,walking,walking,True,nan,nan,True,False,False,True,1786.999
 marco.amadori@gmail.com,2025-03-22 10:54:00,2025-03-22 12:01:00,2025-03-22 11:04:35.998,2025-03-22 11:23:46.999,moving,moving,0.668407711442786,walking,unknown,False,nan,nan,True,False,False,True,635.998
-marco.amadori@gmail.com,2025-03-22 12:01:00,2025-03-23 10:55:00,2025-03-23 11:00:16.979,,stationary,moving,0.5,nan,in_vehicle,False,nan,nan,True,False,False,False,82756.979
-marco.amadori@gmail.com,2025-03-22 12:01:00,2025-03-23 10:55:00,2025-03-22 12:02:05.439,2025-03-23 10:56:37.797,stationary,stationary,1.0,nan,None,False,nan,nan,True,False,False,True,65.439
+marco.amadori@gmail.com,2025-03-22 12:01:00,2025-03-23 10:55:00,2025-03-23 11:00:16.979,,stationary,moving,0.5,,in_vehicle,False,nan,nan,True,False,False,False,82756.979
+marco.amadori@gmail.com,2025-03-22 12:01:00,2025-03-23 10:55:00,2025-03-22 12:02:05.439,2025-03-23 10:56:37.797,stationary,stationary,1.0,,,False,nan,nan,True,False,False,True,65.439
 marco.amadori@gmail.com,2025-03-23 10:55:00,2025-03-23 11:06:00,2025-03-23 11:00:16.979,,moving,moving,0.5,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,316.979
-marco.amadori@gmail.com,2025-03-23 10:55:00,2025-03-23 11:06:00,2025-03-23 10:59:46.957,2025-03-23 11:00:16.979,moving,stationary,1.0,in_vehicle,None,False,nan,nan,True,False,False,False,286.957
+marco.amadori@gmail.com,2025-03-23 10:55:00,2025-03-23 11:06:00,2025-03-23 10:59:46.957,2025-03-23 11:00:16.979,moving,stationary,1.0,in_vehicle,,False,nan,nan,True,False,False,False,286.957
 marco.amadori@gmail.com,2025-03-23 10:55:00,2025-03-23 11:06:00,2025-03-23 10:56:37.797,2025-03-23 10:59:46.957,moving,moving,1.0,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,97.797
-marco.amadori@gmail.com,2025-03-23 10:55:00,2025-03-23 11:06:00,2025-03-22 12:02:05.439,2025-03-23 10:56:37.797,moving,stationary,1.0,in_vehicle,None,False,nan,nan,True,False,False,False,-82374.561
-marco.amadori@gmail.com,2025-03-23 11:06:00,2025-03-23 11:45:00,2025-03-23 11:59:31.035,,stationary,stationary,0.5,nan,None,False,shopping mall,nan,False,False,False,True,3211.035
-marco.amadori@gmail.com,2025-03-23 11:06:00,2025-03-23 11:45:00,2025-03-23 11:44:58.162,2025-03-23 11:58:52.027,stationary,moving,0.38540085470085467,nan,in_vehicle,False,shopping mall,nan,False,False,False,False,2338.162
-marco.amadori@gmail.com,2025-03-23 11:06:00,2025-03-23 11:45:00,2025-03-23 11:00:16.979,,stationary,moving,0.5,nan,in_vehicle,False,shopping mall,nan,False,False,False,False,-343.021
-marco.amadori@gmail.com,2025-03-23 11:06:00,2025-03-23 11:45:00,2025-03-23 10:59:46.957,2025-03-23 11:00:16.979,stationary,stationary,0.2380252136752137,nan,None,False,shopping mall,nan,False,False,False,True,-373.043
-marco.amadori@gmail.com,2025-03-23 11:06:00,2025-03-23 11:45:00,2025-03-23 10:56:37.797,2025-03-23 10:59:46.957,stationary,moving,0.22519529914529915,nan,in_vehicle,False,shopping mall,nan,False,False,False,False,-562.203
-marco.amadori@gmail.com,2025-03-23 11:06:00,2025-03-23 11:45:00,2025-03-22 12:02:05.439,2025-03-23 10:56:37.797,stationary,stationary,0.14435769230769233,nan,None,False,shopping mall,nan,False,False,False,True,-83034.561
-marco.amadori@gmail.com,2025-03-23 11:45:00,2025-03-23 11:58:00,2025-03-23 11:59:31.035,,moving,stationary,0.5,in_vehicle,None,False,nan,nan,True,False,False,False,871.035
+marco.amadori@gmail.com,2025-03-23 10:55:00,2025-03-23 11:06:00,2025-03-22 12:02:05.439,2025-03-23 10:56:37.797,moving,stationary,1.0,in_vehicle,,False,nan,nan,True,False,False,False,-82374.561
+marco.amadori@gmail.com,2025-03-23 11:06:00,2025-03-23 11:45:00,2025-03-23 11:59:31.035,,stationary,stationary,0.5,,,False,shopping mall,nan,False,False,False,True,3211.035
+marco.amadori@gmail.com,2025-03-23 11:06:00,2025-03-23 11:45:00,2025-03-23 11:44:58.162,2025-03-23 11:58:52.027,stationary,moving,0.38540085470085467,,in_vehicle,False,shopping mall,nan,False,False,False,False,2338.162
+marco.amadori@gmail.com,2025-03-23 11:06:00,2025-03-23 11:45:00,2025-03-23 11:00:16.979,,stationary,moving,0.5,,in_vehicle,False,shopping mall,nan,False,False,False,False,-343.021
+marco.amadori@gmail.com,2025-03-23 11:06:00,2025-03-23 11:45:00,2025-03-23 10:59:46.957,2025-03-23 11:00:16.979,stationary,stationary,0.2380252136752137,,,False,shopping mall,nan,False,False,False,True,-373.043
+marco.amadori@gmail.com,2025-03-23 11:06:00,2025-03-23 11:45:00,2025-03-23 10:56:37.797,2025-03-23 10:59:46.957,stationary,moving,0.22519529914529915,,in_vehicle,False,shopping mall,nan,False,False,False,False,-562.203
+marco.amadori@gmail.com,2025-03-23 11:06:00,2025-03-23 11:45:00,2025-03-22 12:02:05.439,2025-03-23 10:56:37.797,stationary,stationary,0.14435769230769233,,,False,shopping mall,nan,False,False,False,True,-83034.561
+marco.amadori@gmail.com,2025-03-23 11:45:00,2025-03-23 11:58:00,2025-03-23 11:59:31.035,,moving,stationary,0.5,in_vehicle,,False,nan,nan,True,False,False,False,871.035
 marco.amadori@gmail.com,2025-03-23 11:45:00,2025-03-23 11:58:00,2025-03-23 11:44:58.162,2025-03-23 11:58:52.027,moving,moving,1.0,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,-1.838
-marco.amadori@gmail.com,2025-03-23 11:58:00,2025-03-23 12:13:00,2025-03-23 11:59:31.035,,stationary,stationary,0.5,nan,None,False,other,nan,False,False,False,True,91.035
-marco.amadori@gmail.com,2025-03-23 11:58:00,2025-03-23 12:13:00,2025-03-23 11:44:58.162,2025-03-23 11:58:52.027,stationary,moving,1.0,nan,in_vehicle,False,other,nan,False,False,False,False,-781.838
-marco.amadori@gmail.com,2025-03-23 12:13:00,2025-03-23 12:27:00,2025-03-23 12:27:35.938,2025-03-23 16:42:31.999,moving,stationary,1.0,in_vehicle,None,False,nan,nan,True,False,False,False,875.938
-marco.amadori@gmail.com,2025-03-23 12:13:00,2025-03-23 12:27:00,2025-03-23 11:59:31.035,,moving,stationary,0.5,in_vehicle,None,False,nan,nan,True,False,False,False,-808.965
-marco.amadori@gmail.com,2025-03-23 12:27:00,2025-03-23 16:40:00,2025-03-23 12:27:35.938,2025-03-23 16:42:31.999,stationary,stationary,1.0,nan,None,False,home,nan,False,True,False,True,35.938
-marco.amadori@gmail.com,2025-03-23 12:27:00,2025-03-23 16:40:00,2025-03-23 11:59:31.035,,stationary,stationary,0.5,nan,None,False,home,nan,False,True,False,True,-1648.965
-marco.amadori@gmail.com,2025-03-23 16:40:00,2025-03-23 17:28:00,2025-03-23 17:29:11.498,,moving,stationary,0.5,walking,None,False,nan,nan,True,False,False,False,2951.498
-marco.amadori@gmail.com,2025-03-23 16:40:00,2025-03-23 17:28:00,2025-03-23 12:27:35.938,2025-03-23 16:42:31.999,moving,stationary,0.36527743055555556,walking,None,False,nan,nan,True,False,False,False,-15144.062
-marco.amadori@gmail.com,2025-03-23 17:28:00,2025-03-24 07:26:00,2025-03-24 07:31:01.038,,stationary,moving,0.5,nan,walking,False,home,nan,False,True,False,False,50581.038
-marco.amadori@gmail.com,2025-03-23 17:28:00,2025-03-24 07:26:00,2025-03-23 17:29:11.498,,stationary,stationary,0.5,nan,None,False,home,nan,False,True,False,True,71.498
+marco.amadori@gmail.com,2025-03-23 11:58:00,2025-03-23 12:13:00,2025-03-23 11:59:31.035,,stationary,stationary,0.5,,,False,other,nan,False,False,False,True,91.035
+marco.amadori@gmail.com,2025-03-23 11:58:00,2025-03-23 12:13:00,2025-03-23 11:44:58.162,2025-03-23 11:58:52.027,stationary,moving,1.0,,in_vehicle,False,other,nan,False,False,False,False,-781.838
+marco.amadori@gmail.com,2025-03-23 12:13:00,2025-03-23 12:27:00,2025-03-23 12:27:35.938,2025-03-23 16:42:31.999,moving,stationary,1.0,in_vehicle,,False,nan,nan,True,False,False,False,875.938
+marco.amadori@gmail.com,2025-03-23 12:13:00,2025-03-23 12:27:00,2025-03-23 11:59:31.035,,moving,stationary,0.5,in_vehicle,,False,nan,nan,True,False,False,False,-808.965
+marco.amadori@gmail.com,2025-03-23 12:27:00,2025-03-23 16:40:00,2025-03-23 12:27:35.938,2025-03-23 16:42:31.999,stationary,stationary,1.0,,,False,home,nan,False,True,False,True,35.938
+marco.amadori@gmail.com,2025-03-23 12:27:00,2025-03-23 16:40:00,2025-03-23 11:59:31.035,,stationary,stationary,0.5,,,False,home,nan,False,True,False,True,-1648.965
+marco.amadori@gmail.com,2025-03-23 16:40:00,2025-03-23 17:28:00,2025-03-23 17:29:11.498,,moving,stationary,0.5,walking,,False,nan,nan,True,False,False,False,2951.498
+marco.amadori@gmail.com,2025-03-23 16:40:00,2025-03-23 17:28:00,2025-03-23 12:27:35.938,2025-03-23 16:42:31.999,moving,stationary,0.36527743055555556,walking,,False,nan,nan,True,False,False,False,-15144.062
+marco.amadori@gmail.com,2025-03-23 17:28:00,2025-03-24 07:26:00,2025-03-24 07:31:01.038,,stationary,moving,0.5,,walking,False,home,nan,False,True,False,False,50581.038
+marco.amadori@gmail.com,2025-03-23 17:28:00,2025-03-24 07:26:00,2025-03-23 17:29:11.498,,stationary,stationary,0.5,,,False,home,nan,False,True,False,True,71.498
 marco.amadori@gmail.com,2025-03-24 07:26:00,2025-03-24 07:42:00,2025-03-24 07:31:01.038,,moving,moving,0.5,on_bicycle,walking,False,nan,nan,True,False,False,True,301.038
 marco.amadori@gmail.com,2025-03-24 07:42:00,2025-03-24 08:03:00,2025-03-24 08:18:42.998,,moving,moving,0.5,walking,in_vehicle,False,nan,nan,True,False,False,True,2202.998
 marco.amadori@gmail.com,2025-03-24 07:42:00,2025-03-24 08:03:00,2025-03-24 07:31:01.038,,moving,moving,0.5,walking,walking,True,nan,nan,True,False,False,True,-658.962
-marco.amadori@gmail.com,2025-03-24 08:03:00,2025-03-24 08:14:00,2025-03-24 08:18:42.998,,stationary,moving,0.5,nan,in_vehicle,False,other,nan,False,False,False,False,942.998
+marco.amadori@gmail.com,2025-03-24 08:03:00,2025-03-24 08:14:00,2025-03-24 08:18:42.998,,stationary,moving,0.5,,in_vehicle,False,other,nan,False,False,False,False,942.998
 marco.amadori@gmail.com,2025-03-24 08:14:00,2025-03-24 09:00:00,2025-03-24 08:18:42.998,,moving,moving,0.5,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,282.998
-marco.amadori@gmail.com,2025-03-24 09:00:00,2025-03-24 09:26:00,2025-03-24 09:26:34.029,2025-03-24 10:00:45.999,stationary,moving,0.5551096153846153,nan,in_vehicle,False,other,nan,False,False,False,False,1594.029
+marco.amadori@gmail.com,2025-03-24 09:00:00,2025-03-24 09:26:00,2025-03-24 09:26:34.029,2025-03-24 10:00:45.999,stationary,moving,0.5551096153846153,,in_vehicle,False,other,nan,False,False,False,False,1594.029
 marco.amadori@gmail.com,2025-03-24 09:26:00,2025-03-24 09:37:00,2025-03-24 09:26:34.029,2025-03-24 10:00:45.999,moving,moving,1.0,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,34.029
-marco.amadori@gmail.com,2025-03-24 09:37:00,2025-03-24 09:55:00,2025-03-24 10:00:55.998,2025-03-24 10:13:34.999,stationary,stationary,0.5037055555555555,nan,None,False,other,nan,False,False,False,True,1435.998
-marco.amadori@gmail.com,2025-03-24 09:37:00,2025-03-24 09:55:00,2025-03-24 09:26:34.029,2025-03-24 10:00:45.999,stationary,moving,1.0,nan,in_vehicle,False,other,nan,False,False,False,False,-625.971
+marco.amadori@gmail.com,2025-03-24 09:37:00,2025-03-24 09:55:00,2025-03-24 10:00:55.998,2025-03-24 10:13:34.999,stationary,stationary,0.5037055555555555,,,False,other,nan,False,False,False,True,1435.998
+marco.amadori@gmail.com,2025-03-24 09:37:00,2025-03-24 09:55:00,2025-03-24 09:26:34.029,2025-03-24 10:00:45.999,stationary,moving,1.0,,in_vehicle,False,other,nan,False,False,False,False,-625.971
 marco.amadori@gmail.com,2025-03-24 09:55:00,2025-03-24 10:00:00,2025-03-24 10:13:35.999,2025-03-24 10:42:32.444,moving,moving,0.2800033333333333,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,1115.999
-marco.amadori@gmail.com,2025-03-24 09:55:00,2025-03-24 10:00:00,2025-03-24 10:00:55.998,2025-03-24 10:13:34.999,moving,stationary,1.0,in_vehicle,None,False,nan,nan,True,False,False,False,355.998
+marco.amadori@gmail.com,2025-03-24 09:55:00,2025-03-24 10:00:00,2025-03-24 10:00:55.998,2025-03-24 10:13:34.999,moving,stationary,1.0,in_vehicle,,False,nan,nan,True,False,False,False,355.998
 marco.amadori@gmail.com,2025-03-24 09:55:00,2025-03-24 10:00:00,2025-03-24 09:26:34.029,2025-03-24 10:00:45.999,moving,moving,1.0,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,-1705.971
-marco.amadori@gmail.com,2025-03-24 10:00:00,2025-03-24 10:13:00,2025-03-24 10:13:35.999,2025-03-24 10:42:32.444,stationary,moving,1.0,nan,in_vehicle,False,other,nan,False,False,False,False,815.999
-marco.amadori@gmail.com,2025-03-24 10:00:00,2025-03-24 10:13:00,2025-03-24 10:00:55.998,2025-03-24 10:13:34.999,stationary,stationary,1.0,nan,None,False,other,nan,False,False,False,True,55.998
-marco.amadori@gmail.com,2025-03-24 10:00:00,2025-03-24 10:13:00,2025-03-24 09:26:34.029,2025-03-24 10:00:45.999,stationary,moving,1.0,nan,in_vehicle,False,other,nan,False,False,False,False,-2005.971
-marco.amadori@gmail.com,2025-03-24 10:13:00,2025-03-24 10:34:00,2025-03-24 10:42:32.444,2025-03-24 16:05:40.001,moving,stationary,0.30758412698412696,in_vehicle,None,False,nan,nan,True,False,False,False,1772.444
+marco.amadori@gmail.com,2025-03-24 10:00:00,2025-03-24 10:13:00,2025-03-24 10:13:35.999,2025-03-24 10:42:32.444,stationary,moving,1.0,,in_vehicle,False,other,nan,False,False,False,False,815.999
+marco.amadori@gmail.com,2025-03-24 10:00:00,2025-03-24 10:13:00,2025-03-24 10:00:55.998,2025-03-24 10:13:34.999,stationary,stationary,1.0,,,False,other,nan,False,False,False,True,55.998
+marco.amadori@gmail.com,2025-03-24 10:00:00,2025-03-24 10:13:00,2025-03-24 09:26:34.029,2025-03-24 10:00:45.999,stationary,moving,1.0,,in_vehicle,False,other,nan,False,False,False,False,-2005.971
+marco.amadori@gmail.com,2025-03-24 10:13:00,2025-03-24 10:34:00,2025-03-24 10:42:32.444,2025-03-24 16:05:40.001,moving,stationary,0.30758412698412696,in_vehicle,,False,nan,nan,True,False,False,False,1772.444
 marco.amadori@gmail.com,2025-03-24 10:13:00,2025-03-24 10:34:00,2025-03-24 10:13:35.999,2025-03-24 10:42:32.444,moving,moving,1.0,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,35.999
-marco.amadori@gmail.com,2025-03-24 10:13:00,2025-03-24 10:34:00,2025-03-24 10:00:55.998,2025-03-24 10:13:34.999,moving,stationary,0.7420626984126985,in_vehicle,None,False,nan,nan,True,False,False,False,-724.002
+marco.amadori@gmail.com,2025-03-24 10:13:00,2025-03-24 10:34:00,2025-03-24 10:00:55.998,2025-03-24 10:13:34.999,moving,stationary,0.7420626984126985,in_vehicle,,False,nan,nan,True,False,False,False,-724.002
 marco.amadori@gmail.com,2025-03-24 10:13:00,2025-03-24 10:34:00,2025-03-24 09:26:34.029,2025-03-24 10:00:45.999,moving,moving,0.13174523809523808,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,-2785.971
-marco.amadori@gmail.com,2025-03-24 10:34:00,2025-03-24 10:40:00,2025-03-24 10:42:32.444,2025-03-24 16:05:40.001,moving,stationary,1.0,walking,None,False,nan,nan,True,False,False,False,512.444
+marco.amadori@gmail.com,2025-03-24 10:34:00,2025-03-24 10:40:00,2025-03-24 10:42:32.444,2025-03-24 16:05:40.001,moving,stationary,1.0,walking,,False,nan,nan,True,False,False,False,512.444
 marco.amadori@gmail.com,2025-03-24 10:34:00,2025-03-24 10:40:00,2025-03-24 10:13:35.999,2025-03-24 10:42:32.444,moving,moving,1.0,walking,in_vehicle,False,nan,nan,True,False,False,True,-1224.001
-marco.amadori@gmail.com,2025-03-24 10:40:00,2025-03-24 16:03:00,2025-03-24 10:42:32.444,2025-03-24 16:05:40.001,stationary,stationary,1.0,nan,None,False,work,nan,False,True,False,True,152.444
-marco.amadori@gmail.com,2025-03-24 16:03:00,2025-03-24 16:16:00,2025-03-24 16:15:57.999,2025-03-25 06:38:52.004,moving,stationary,1.0,on_bicycle,None,False,nan,nan,True,False,False,False,777.999
+marco.amadori@gmail.com,2025-03-24 10:40:00,2025-03-24 16:03:00,2025-03-24 10:42:32.444,2025-03-24 16:05:40.001,stationary,stationary,1.0,,,False,work,nan,False,True,False,True,152.444
+marco.amadori@gmail.com,2025-03-24 16:03:00,2025-03-24 16:16:00,2025-03-24 16:15:57.999,2025-03-25 06:38:52.004,moving,stationary,1.0,on_bicycle,,False,nan,nan,True,False,False,False,777.999
 marco.amadori@gmail.com,2025-03-24 16:03:00,2025-03-24 16:16:00,2025-03-24 16:05:40.001,2025-03-24 16:15:57.999,moving,moving,1.0,on_bicycle,on_bicycle,True,nan,nan,True,False,False,True,160.001
-marco.amadori@gmail.com,2025-03-24 16:03:00,2025-03-24 16:16:00,2025-03-24 10:42:32.444,2025-03-24 16:05:40.001,moving,stationary,1.0,on_bicycle,None,False,nan,nan,True,False,False,False,-19227.556
-marco.amadori@gmail.com,2025-03-24 16:16:00,2025-03-25 07:43:00,2025-03-25 07:47:21.005,,stationary,moving,0.5,nan,on_bicycle,False,home,nan,False,True,False,False,55881.005
-marco.amadori@gmail.com,2025-03-24 16:16:00,2025-03-25 07:43:00,2025-03-24 16:15:57.999,2025-03-25 06:38:52.004,stationary,stationary,0.9469975548363898,nan,None,False,home,nan,False,True,False,True,-2.001
+marco.amadori@gmail.com,2025-03-24 16:03:00,2025-03-24 16:16:00,2025-03-24 10:42:32.444,2025-03-24 16:05:40.001,moving,stationary,1.0,on_bicycle,,False,nan,nan,True,False,False,False,-19227.556
+marco.amadori@gmail.com,2025-03-24 16:16:00,2025-03-25 07:43:00,2025-03-25 07:47:21.005,,stationary,moving,0.5,,on_bicycle,False,home,nan,False,True,False,False,55881.005
+marco.amadori@gmail.com,2025-03-24 16:16:00,2025-03-25 07:43:00,2025-03-24 16:15:57.999,2025-03-25 06:38:52.004,stationary,stationary,0.9469975548363898,,,False,home,nan,False,True,False,True,-2.001
 marco.amadori@gmail.com,2025-03-25 07:43:00,2025-03-25 07:58:00,2025-03-25 07:47:21.005,,moving,moving,0.5,on_bicycle,on_bicycle,True,nan,nan,True,False,False,True,261.005
-marco.amadori@gmail.com,2025-03-25 07:43:00,2025-03-25 07:58:00,2025-03-25 06:40:23.846,2025-03-25 07:47:21.005,moving,stationary,1.0,on_bicycle,None,False,nan,nan,True,False,False,False,-3756.154
-marco.amadori@gmail.com,2025-03-25 07:58:00,2025-03-25 17:06:00,2025-03-25 07:47:21.005,,stationary,moving,0.5,nan,on_bicycle,False,work,nan,False,True,False,False,-638.995
-marco.amadori@gmail.com,2025-03-25 17:06:00,2025-03-25 17:18:00,2025-03-25 17:27:55.999,2025-03-26 06:19:47.464,moving,stationary,0.42222361111111106,on_bicycle,None,False,nan,nan,True,False,False,False,1315.999
+marco.amadori@gmail.com,2025-03-25 07:43:00,2025-03-25 07:58:00,2025-03-25 06:40:23.846,2025-03-25 07:47:21.005,moving,stationary,1.0,on_bicycle,,False,nan,nan,True,False,False,False,-3756.154
+marco.amadori@gmail.com,2025-03-25 07:58:00,2025-03-25 17:06:00,2025-03-25 07:47:21.005,,stationary,moving,0.5,,on_bicycle,False,work,nan,False,True,False,False,-638.995
+marco.amadori@gmail.com,2025-03-25 17:06:00,2025-03-25 17:18:00,2025-03-25 17:27:55.999,2025-03-26 06:19:47.464,moving,stationary,0.42222361111111106,on_bicycle,,False,nan,nan,True,False,False,False,1315.999
 marco.amadori@gmail.com,2025-03-25 17:06:00,2025-03-25 17:18:00,2025-03-25 17:08:25.511,2025-03-25 17:27:55.999,moving,moving,1.0,on_bicycle,walking,False,nan,nan,True,False,False,True,145.511
-marco.amadori@gmail.com,2025-03-25 17:18:00,2025-03-25 17:26:00,2025-03-25 17:27:55.999,2025-03-26 06:19:47.464,stationary,stationary,1.0,nan,None,False,other,nan,False,False,False,True,595.999
-marco.amadori@gmail.com,2025-03-25 17:18:00,2025-03-25 17:26:00,2025-03-25 17:08:25.511,2025-03-25 17:27:55.999,stationary,moving,1.0,nan,walking,False,other,nan,False,False,False,False,-574.489
-marco.amadori@gmail.com,2025-03-25 17:26:00,2025-03-25 17:28:00,2025-03-25 17:27:55.999,2025-03-26 06:19:47.464,moving,stationary,1.0,on_bicycle,None,False,nan,nan,True,False,False,False,115.999
+marco.amadori@gmail.com,2025-03-25 17:18:00,2025-03-25 17:26:00,2025-03-25 17:27:55.999,2025-03-26 06:19:47.464,stationary,stationary,1.0,,,False,other,nan,False,False,False,True,595.999
+marco.amadori@gmail.com,2025-03-25 17:18:00,2025-03-25 17:26:00,2025-03-25 17:08:25.511,2025-03-25 17:27:55.999,stationary,moving,1.0,,walking,False,other,nan,False,False,False,False,-574.489
+marco.amadori@gmail.com,2025-03-25 17:26:00,2025-03-25 17:28:00,2025-03-25 17:27:55.999,2025-03-26 06:19:47.464,moving,stationary,1.0,on_bicycle,,False,nan,nan,True,False,False,False,115.999
 marco.amadori@gmail.com,2025-03-25 17:26:00,2025-03-25 17:28:00,2025-03-25 17:08:25.511,2025-03-25 17:27:55.999,moving,moving,1.0,on_bicycle,walking,False,nan,nan,True,False,False,True,-1054.489
-marco.amadori@gmail.com,2025-03-25 17:28:00,2025-03-25 17:36:00,2025-03-25 17:27:55.999,2025-03-26 06:19:47.464,stationary,stationary,1.0,nan,None,False,other,nan,False,False,False,True,-4.001
-marco.amadori@gmail.com,2025-03-25 17:28:00,2025-03-25 17:36:00,2025-03-25 17:08:25.511,2025-03-25 17:27:55.999,stationary,moving,1.0,nan,walking,False,other,nan,False,False,False,False,-1174.489
-marco.amadori@gmail.com,2025-03-25 17:36:00,2025-03-25 17:39:00,2025-03-25 17:27:55.999,2025-03-26 06:19:47.464,moving,stationary,1.0,on_bicycle,None,False,nan,nan,True,False,False,False,-484.001
+marco.amadori@gmail.com,2025-03-25 17:28:00,2025-03-25 17:36:00,2025-03-25 17:27:55.999,2025-03-26 06:19:47.464,stationary,stationary,1.0,,,False,other,nan,False,False,False,True,-4.001
+marco.amadori@gmail.com,2025-03-25 17:28:00,2025-03-25 17:36:00,2025-03-25 17:08:25.511,2025-03-25 17:27:55.999,stationary,moving,1.0,,walking,False,other,nan,False,False,False,False,-1174.489
+marco.amadori@gmail.com,2025-03-25 17:36:00,2025-03-25 17:39:00,2025-03-25 17:27:55.999,2025-03-26 06:19:47.464,moving,stationary,1.0,on_bicycle,,False,nan,nan,True,False,False,False,-484.001
 marco.amadori@gmail.com,2025-03-25 17:36:00,2025-03-25 17:39:00,2025-03-25 17:08:25.511,2025-03-25 17:27:55.999,moving,moving,1.0,on_bicycle,walking,False,nan,nan,True,False,False,True,-1654.489
-marco.amadori@gmail.com,2025-03-25 17:39:00,2025-03-26 06:19:00,2025-03-25 17:27:55.999,2025-03-26 06:19:47.464,stationary,stationary,1.0,nan,None,False,other,nan,False,False,False,True,-664.001
-marco.amadori@gmail.com,2025-03-26 06:19:00,2025-03-26 06:31:00,2025-03-26 06:40:33.806,2025-03-26 07:06:54.999,moving,stationary,0.45304722222222227,in_vehicle,None,False,nan,nan,True,False,False,False,1293.806
+marco.amadori@gmail.com,2025-03-25 17:39:00,2025-03-26 06:19:00,2025-03-25 17:27:55.999,2025-03-26 06:19:47.464,stationary,stationary,1.0,,,False,other,nan,False,False,False,True,-664.001
+marco.amadori@gmail.com,2025-03-26 06:19:00,2025-03-26 06:31:00,2025-03-26 06:40:33.806,2025-03-26 07:06:54.999,moving,stationary,0.45304722222222227,in_vehicle,,False,nan,nan,True,False,False,False,1293.806
 marco.amadori@gmail.com,2025-03-26 06:19:00,2025-03-26 06:31:00,2025-03-26 06:20:20.495,2025-03-26 06:39:59.877,moving,moving,1.0,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,80.495
-marco.amadori@gmail.com,2025-03-26 06:19:00,2025-03-26 06:31:00,2025-03-25 17:27:55.999,2025-03-26 06:19:47.464,moving,stationary,1.0,in_vehicle,None,False,nan,nan,True,False,False,False,-46264.001
-marco.amadori@gmail.com,2025-03-26 06:31:00,2025-03-26 06:35:00,2025-03-26 06:40:33.806,2025-03-26 07:06:54.999,moving,stationary,1.0,walking,None,False,nan,nan,True,False,False,False,573.806
+marco.amadori@gmail.com,2025-03-26 06:19:00,2025-03-26 06:31:00,2025-03-25 17:27:55.999,2025-03-26 06:19:47.464,moving,stationary,1.0,in_vehicle,,False,nan,nan,True,False,False,False,-46264.001
+marco.amadori@gmail.com,2025-03-26 06:31:00,2025-03-26 06:35:00,2025-03-26 06:40:33.806,2025-03-26 07:06:54.999,moving,stationary,1.0,walking,,False,nan,nan,True,False,False,False,573.806
 marco.amadori@gmail.com,2025-03-26 06:31:00,2025-03-26 06:35:00,2025-03-26 06:20:20.495,2025-03-26 06:39:59.877,moving,moving,1.0,walking,in_vehicle,False,nan,nan,True,False,False,True,-639.505
-marco.amadori@gmail.com,2025-03-26 06:31:00,2025-03-26 06:35:00,2025-03-25 17:27:55.999,2025-03-26 06:19:47.464,moving,stationary,0.9477666666666666,walking,None,False,nan,nan,True,False,False,False,-46984.001
-marco.amadori@gmail.com,2025-03-26 06:35:00,2025-03-26 07:06:00,2025-03-26 07:22:33.289,,stationary,stationary,0.5,nan,None,False,other,nan,False,False,False,True,2853.289
-marco.amadori@gmail.com,2025-03-26 06:35:00,2025-03-26 07:06:00,2025-03-26 07:07:01.020,2025-03-26 07:22:33.289,stationary,moving,0.45106451612903226,nan,in_vehicle,False,other,nan,False,False,False,False,1921.02
-marco.amadori@gmail.com,2025-03-26 06:35:00,2025-03-26 07:06:00,2025-03-26 06:40:33.806,2025-03-26 07:06:54.999,stationary,stationary,1.0,nan,None,False,other,nan,False,False,False,True,333.806
-marco.amadori@gmail.com,2025-03-26 06:35:00,2025-03-26 07:06:00,2025-03-26 06:20:20.495,2025-03-26 06:39:59.877,stationary,moving,0.6450951612903225,nan,in_vehicle,False,other,nan,False,False,False,False,-879.505
-marco.amadori@gmail.com,2025-03-26 07:06:00,2025-03-26 07:16:00,2025-03-26 07:22:33.289,,moving,stationary,0.5,in_vehicle,None,False,nan,nan,True,False,False,False,993.289
+marco.amadori@gmail.com,2025-03-26 06:31:00,2025-03-26 06:35:00,2025-03-25 17:27:55.999,2025-03-26 06:19:47.464,moving,stationary,0.9477666666666666,walking,,False,nan,nan,True,False,False,False,-46984.001
+marco.amadori@gmail.com,2025-03-26 06:35:00,2025-03-26 07:06:00,2025-03-26 07:22:33.289,,stationary,stationary,0.5,,,False,other,nan,False,False,False,True,2853.289
+marco.amadori@gmail.com,2025-03-26 06:35:00,2025-03-26 07:06:00,2025-03-26 07:07:01.020,2025-03-26 07:22:33.289,stationary,moving,0.45106451612903226,,in_vehicle,False,other,nan,False,False,False,False,1921.02
+marco.amadori@gmail.com,2025-03-26 06:35:00,2025-03-26 07:06:00,2025-03-26 06:40:33.806,2025-03-26 07:06:54.999,stationary,stationary,1.0,,,False,other,nan,False,False,False,True,333.806
+marco.amadori@gmail.com,2025-03-26 06:35:00,2025-03-26 07:06:00,2025-03-26 06:20:20.495,2025-03-26 06:39:59.877,stationary,moving,0.6450951612903225,,in_vehicle,False,other,nan,False,False,False,False,-879.505
+marco.amadori@gmail.com,2025-03-26 07:06:00,2025-03-26 07:16:00,2025-03-26 07:22:33.289,,moving,stationary,0.5,in_vehicle,,False,nan,nan,True,False,False,False,993.289
 marco.amadori@gmail.com,2025-03-26 07:06:00,2025-03-26 07:16:00,2025-03-26 07:07:01.020,2025-03-26 07:22:33.289,moving,moving,1.0,in_vehicle,in_vehicle,True,nan,nan,True,False,False,True,61.02
-marco.amadori@gmail.com,2025-03-26 07:06:00,2025-03-26 07:16:00,2025-03-26 06:40:33.806,2025-03-26 07:06:54.999,moving,stationary,1.0,in_vehicle,None,False,nan,nan,True,False,False,False,-1526.194
-marco.amadori@gmail.com,2025-03-26 07:16:00,2025-03-27 07:16:00,2025-03-26 07:22:33.289,,stationary,stationary,0.5,nan,None,False,work,nan,False,True,False,True,393.289
+marco.amadori@gmail.com,2025-03-26 07:06:00,2025-03-26 07:16:00,2025-03-26 06:40:33.806,2025-03-26 07:06:54.999,moving,stationary,1.0,in_vehicle,,False,nan,nan,True,False,False,False,-1526.194
+marco.amadori@gmail.com,2025-03-26 07:16:00,2025-03-27 07:16:00,2025-03-26 07:22:33.289,,stationary,stationary,0.5,,,False,work,nan,False,True,False,True,393.289

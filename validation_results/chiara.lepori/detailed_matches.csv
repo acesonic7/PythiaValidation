@@ -1,37 +1,37 @@
 ground_truth_id,email,overlap_percentage,gt_start,gt_end,pred_start,pred_end,gt_segment,pred_segment,gt_purpose,pred_purpose,prediction_id,gt_mode,pred_mode
-7,chiara.lepori@srmbologna.it,0.5474869551282051,2025-03-19 09:00:00,2025-03-19 17:40:00,2025-03-19 13:10:18.407,2025-03-20 08:49:18.922,stationary,stationary,work,nan,02fd7f12-059c-11f0-afe8-3192e1b7b575,nan,None
-8,chiara.lepori@srmbologna.it,1.0,2025-03-19 17:40:00,2025-03-19 17:55:00,2025-03-19 13:10:18.407,2025-03-20 08:49:18.922,moving,stationary,nan,nan,02fd7f12-059c-11f0-afe8-3192e1b7b575,on_bicycle,None
-9,chiara.lepori@srmbologna.it,0.5,2025-03-19 17:55:00,2025-03-20 08:50:00,2025-03-20 08:52:17.943,,stationary,stationary,home,nan,02fd7f14-059c-11f0-afe8-3192e1b7b575,nan,None
-9,chiara.lepori@srmbologna.it,1.0,2025-03-19 17:55:00,2025-03-20 08:50:00,2025-03-19 13:10:18.407,2025-03-20 08:49:18.922,stationary,stationary,home,nan,02fd7f12-059c-11f0-afe8-3192e1b7b575,nan,None
-10,chiara.lepori@srmbologna.it,0.5,2025-03-20 08:50:00,2025-03-20 09:05:00,2025-03-20 08:52:17.943,,moving,stationary,nan,nan,02fd7f14-059c-11f0-afe8-3192e1b7b575,on_bicycle,None
-10,chiara.lepori@srmbologna.it,1.0,2025-03-20 08:50:00,2025-03-20 09:05:00,2025-03-20 08:49:29.895,2025-03-20 08:52:17.943,moving,moving,nan,nan,02fd7f13-059c-11f0-afe8-3192e1b7b575,on_bicycle,walking
-10,chiara.lepori@srmbologna.it,0.9543577777777779,2025-03-20 08:50:00,2025-03-20 09:05:00,2025-03-19 13:10:18.407,2025-03-20 08:49:18.922,moving,stationary,nan,nan,02fd7f12-059c-11f0-afe8-3192e1b7b575,on_bicycle,None
-11,chiara.lepori@srmbologna.it,0.5,2025-03-20 09:05:00,2025-03-20 17:50:00,2025-03-20 08:52:17.943,,stationary,stationary,work,nan,02fd7f14-059c-11f0-afe8-3192e1b7b575,nan,None
-12,chiara.lepori@srmbologna.it,0.9276416666666666,2025-03-20 17:50:00,2025-03-20 18:06:00,2025-03-20 18:06:09.464,2025-03-21 08:56:57.729,moving,stationary,nan,nan,9b6391d0-06b0-11f0-ab99-95f567402117,on_bicycle,None
-12,chiara.lepori@srmbologna.it,1.0,2025-03-20 17:50:00,2025-03-20 18:06:00,2025-03-20 17:58:54.528,2025-03-20 18:06:09.464,moving,moving,nan,nan,717a4c71-05e7-11f0-853f-e508809b3947,on_bicycle,on_bicycle
-13,chiara.lepori@srmbologna.it,1.0,2025-03-20 18:06:00,2025-03-21 08:50:00,2025-03-20 18:06:09.464,2025-03-21 08:56:57.729,stationary,stationary,home,nan,9b6391d0-06b0-11f0-ab99-95f567402117,nan,None
-14,chiara.lepori@srmbologna.it,1.0,2025-03-21 08:50:00,2025-03-21 09:06:00,2025-03-21 08:59:17.646,2025-03-22 12:20:30.315,moving,stationary,nan,nan,abccc400-0710-11f0-ab99-95f567402117,on_bicycle,None
-14,chiara.lepori@srmbologna.it,1.0,2025-03-21 08:50:00,2025-03-21 09:06:00,2025-03-21 08:56:57.729,2025-03-21 08:59:17.646,moving,moving,nan,nan,9b6391d1-06b0-11f0-ab99-95f567402117,on_bicycle,on_bicycle
-14,chiara.lepori@srmbologna.it,1.0,2025-03-21 08:50:00,2025-03-21 09:06:00,2025-03-20 18:06:09.464,2025-03-21 08:56:57.729,moving,stationary,nan,nan,9b6391d0-06b0-11f0-ab99-95f567402117,on_bicycle,None
-15,chiara.lepori@srmbologna.it,1.0,2025-03-21 09:06:00,2025-03-21 17:10:00,2025-03-21 08:59:17.646,2025-03-22 12:20:30.315,stationary,stationary,work,nan,abccc400-0710-11f0-ab99-95f567402117,nan,None
-16,chiara.lepori@srmbologna.it,1.0,2025-03-21 17:10:00,2025-03-21 17:20:00,2025-03-21 08:59:17.646,2025-03-22 12:20:30.315,moving,stationary,nan,nan,abccc400-0710-11f0-ab99-95f567402117,on_bicycle,None
-17,chiara.lepori@srmbologna.it,1.0,2025-03-21 17:20:00,2025-03-21 17:30:00,2025-03-21 08:59:17.646,2025-03-22 12:20:30.315,stationary,stationary,other,nan,abccc400-0710-11f0-ab99-95f567402117,nan,None
-18,chiara.lepori@srmbologna.it,1.0,2025-03-21 17:30:00,2025-03-21 17:38:00,2025-03-21 08:59:17.646,2025-03-22 12:20:30.315,moving,stationary,nan,nan,abccc400-0710-11f0-ab99-95f567402117,on_bicycle,None
-19,chiara.lepori@srmbologna.it,1.0,2025-03-21 17:38:00,2025-03-21 17:43:00,2025-03-21 08:59:17.646,2025-03-22 12:20:30.315,stationary,stationary,other,nan,abccc400-0710-11f0-ab99-95f567402117,nan,None
-20,chiara.lepori@srmbologna.it,1.0,2025-03-21 17:43:00,2025-03-21 17:55:00,2025-03-21 08:59:17.646,2025-03-22 12:20:30.315,moving,stationary,nan,nan,abccc400-0710-11f0-ab99-95f567402117,on_bicycle,None
-21,chiara.lepori@srmbologna.it,0.7105734834437086,2025-03-21 17:55:00,2025-03-24 08:50:00,2025-03-22 12:22:35.106,2025-03-24 17:03:38.543,stationary,stationary,home,nan,3e050680-08cd-11f0-ab99-95f567402117,nan,None
-21,chiara.lepori@srmbologna.it,0.29682258278145696,2025-03-21 17:55:00,2025-03-24 08:50:00,2025-03-21 08:59:17.646,2025-03-22 12:20:30.315,stationary,stationary,home,nan,abccc400-0710-11f0-ab99-95f567402117,nan,None
-23,chiara.lepori@srmbologna.it,1.0,2025-03-24 08:50:00,2025-03-24 09:00:00,2025-03-22 12:22:35.106,2025-03-24 17:03:38.543,moving,stationary,nan,nan,3e050680-08cd-11f0-ab99-95f567402117,on_bicycle,None
-24,chiara.lepori@srmbologna.it,0.5,2025-03-24 09:00:00,2025-03-24 17:00:00,2025-03-24 17:15:36.594,,stationary,stationary,work,nan,3e052d92-08cd-11f0-ab99-95f567402117,nan,None
-24,chiara.lepori@srmbologna.it,1.0,2025-03-24 09:00:00,2025-03-24 17:00:00,2025-03-22 12:22:35.106,2025-03-24 17:03:38.543,stationary,stationary,work,nan,3e050680-08cd-11f0-ab99-95f567402117,nan,None
-25,chiara.lepori@srmbologna.it,0.5,2025-03-24 17:00:00,2025-03-24 17:15:00,2025-03-24 17:15:36.594,,moving,stationary,nan,nan,3e052d92-08cd-11f0-ab99-95f567402117,on_bicycle,None
-25,chiara.lepori@srmbologna.it,1.0,2025-03-24 17:00:00,2025-03-24 17:15:00,2025-03-24 17:13:12.941,2025-03-24 17:15:36.594,moving,moving,nan,nan,3e052d91-08cd-11f0-ab99-95f567402117,on_bicycle,on_bicycle
-25,chiara.lepori@srmbologna.it,1.0,2025-03-24 17:00:00,2025-03-24 17:15:00,2025-03-24 17:03:38.543,2025-03-24 17:13:12.941,moving,moving,nan,nan,3e052d90-08cd-11f0-ab99-95f567402117,on_bicycle,in_vehicle
-25,chiara.lepori@srmbologna.it,1.0,2025-03-24 17:00:00,2025-03-24 17:15:00,2025-03-22 12:22:35.106,2025-03-24 17:03:38.543,moving,stationary,nan,nan,3e050680-08cd-11f0-ab99-95f567402117,on_bicycle,None
-26,chiara.lepori@srmbologna.it,0.5,2025-03-24 17:15:00,2025-03-24 17:35:00,2025-03-24 17:15:36.594,,stationary,stationary,other,nan,3e052d92-08cd-11f0-ab99-95f567402117,nan,None
-26,chiara.lepori@srmbologna.it,0.780495,2025-03-24 17:15:00,2025-03-24 17:35:00,2025-03-24 17:13:12.941,2025-03-24 17:15:36.594,stationary,moving,other,nan,3e052d91-08cd-11f0-ab99-95f567402117,nan,on_bicycle
-26,chiara.lepori@srmbologna.it,0.6607841666666667,2025-03-24 17:15:00,2025-03-24 17:35:00,2025-03-24 17:03:38.543,2025-03-24 17:13:12.941,stationary,moving,other,nan,3e052d90-08cd-11f0-ab99-95f567402117,nan,in_vehicle
-26,chiara.lepori@srmbologna.it,0.18211916666666667,2025-03-24 17:15:00,2025-03-24 17:35:00,2025-03-22 12:22:35.106,2025-03-24 17:03:38.543,stationary,stationary,other,nan,3e050680-08cd-11f0-ab99-95f567402117,nan,None
-27,chiara.lepori@srmbologna.it,0.5,2025-03-24 17:35:00,2025-03-24 17:45:00,2025-03-24 17:15:36.594,,moving,stationary,nan,nan,3e052d92-08cd-11f0-ab99-95f567402117,on_bicycle,None
-28,chiara.lepori@srmbologna.it,0.10474100694444444,2025-03-24 17:45:00,2025-03-25 17:45:00,2025-03-25 12:21:53.375,2025-03-25 14:22:42.998,stationary,stationary,home,nan,47a560f0-09d5-11f0-ab99-95f567402117,nan,None
-28,chiara.lepori@srmbologna.it,0.5,2025-03-24 17:45:00,2025-03-25 17:45:00,2025-03-24 17:15:36.594,,stationary,stationary,home,nan,3e052d92-08cd-11f0-ab99-95f567402117,nan,None
+7,chiara.lepori@srmbologna.it,0.5474869551282051,2025-03-19 09:00:00,2025-03-19 17:40:00,2025-03-19 13:10:18.407,2025-03-20 08:49:18.922,stationary,stationary,work,nan,02fd7f12-059c-11f0-afe8-3192e1b7b575,,
+8,chiara.lepori@srmbologna.it,1.0,2025-03-19 17:40:00,2025-03-19 17:55:00,2025-03-19 13:10:18.407,2025-03-20 08:49:18.922,moving,stationary,nan,nan,02fd7f12-059c-11f0-afe8-3192e1b7b575,motorcycle,
+9,chiara.lepori@srmbologna.it,0.5,2025-03-19 17:55:00,2025-03-20 08:50:00,2025-03-20 08:52:17.943,,stationary,stationary,home,nan,02fd7f14-059c-11f0-afe8-3192e1b7b575,,
+9,chiara.lepori@srmbologna.it,1.0,2025-03-19 17:55:00,2025-03-20 08:50:00,2025-03-19 13:10:18.407,2025-03-20 08:49:18.922,stationary,stationary,home,nan,02fd7f12-059c-11f0-afe8-3192e1b7b575,,
+10,chiara.lepori@srmbologna.it,0.5,2025-03-20 08:50:00,2025-03-20 09:05:00,2025-03-20 08:52:17.943,,moving,stationary,nan,nan,02fd7f14-059c-11f0-afe8-3192e1b7b575,motorcycle,
+10,chiara.lepori@srmbologna.it,1.0,2025-03-20 08:50:00,2025-03-20 09:05:00,2025-03-20 08:49:29.895,2025-03-20 08:52:17.943,moving,moving,nan,nan,02fd7f13-059c-11f0-afe8-3192e1b7b575,motorcycle,walking
+10,chiara.lepori@srmbologna.it,0.9543577777777779,2025-03-20 08:50:00,2025-03-20 09:05:00,2025-03-19 13:10:18.407,2025-03-20 08:49:18.922,moving,stationary,nan,nan,02fd7f12-059c-11f0-afe8-3192e1b7b575,motorcycle,
+11,chiara.lepori@srmbologna.it,0.5,2025-03-20 09:05:00,2025-03-20 17:50:00,2025-03-20 08:52:17.943,,stationary,stationary,work,nan,02fd7f14-059c-11f0-afe8-3192e1b7b575,,
+12,chiara.lepori@srmbologna.it,0.9276416666666666,2025-03-20 17:50:00,2025-03-20 18:06:00,2025-03-20 18:06:09.464,2025-03-21 08:56:57.729,moving,stationary,nan,nan,9b6391d0-06b0-11f0-ab99-95f567402117,motorcycle,
+12,chiara.lepori@srmbologna.it,1.0,2025-03-20 17:50:00,2025-03-20 18:06:00,2025-03-20 17:58:54.528,2025-03-20 18:06:09.464,moving,moving,nan,nan,717a4c71-05e7-11f0-853f-e508809b3947,motorcycle,motorcycle
+13,chiara.lepori@srmbologna.it,1.0,2025-03-20 18:06:00,2025-03-21 08:50:00,2025-03-20 18:06:09.464,2025-03-21 08:56:57.729,stationary,stationary,home,nan,9b6391d0-06b0-11f0-ab99-95f567402117,,
+14,chiara.lepori@srmbologna.it,1.0,2025-03-21 08:50:00,2025-03-21 09:06:00,2025-03-21 08:59:17.646,2025-03-22 12:20:30.315,moving,stationary,nan,nan,abccc400-0710-11f0-ab99-95f567402117,motorcycle,
+14,chiara.lepori@srmbologna.it,1.0,2025-03-21 08:50:00,2025-03-21 09:06:00,2025-03-21 08:56:57.729,2025-03-21 08:59:17.646,moving,moving,nan,nan,9b6391d1-06b0-11f0-ab99-95f567402117,motorcycle,motorcycle
+14,chiara.lepori@srmbologna.it,1.0,2025-03-21 08:50:00,2025-03-21 09:06:00,2025-03-20 18:06:09.464,2025-03-21 08:56:57.729,moving,stationary,nan,nan,9b6391d0-06b0-11f0-ab99-95f567402117,motorcycle,
+15,chiara.lepori@srmbologna.it,1.0,2025-03-21 09:06:00,2025-03-21 17:10:00,2025-03-21 08:59:17.646,2025-03-22 12:20:30.315,stationary,stationary,work,nan,abccc400-0710-11f0-ab99-95f567402117,,
+16,chiara.lepori@srmbologna.it,1.0,2025-03-21 17:10:00,2025-03-21 17:20:00,2025-03-21 08:59:17.646,2025-03-22 12:20:30.315,moving,stationary,nan,nan,abccc400-0710-11f0-ab99-95f567402117,motorcycle,
+17,chiara.lepori@srmbologna.it,1.0,2025-03-21 17:20:00,2025-03-21 17:30:00,2025-03-21 08:59:17.646,2025-03-22 12:20:30.315,stationary,stationary,other,nan,abccc400-0710-11f0-ab99-95f567402117,,
+18,chiara.lepori@srmbologna.it,1.0,2025-03-21 17:30:00,2025-03-21 17:38:00,2025-03-21 08:59:17.646,2025-03-22 12:20:30.315,moving,stationary,nan,nan,abccc400-0710-11f0-ab99-95f567402117,motorcycle,
+19,chiara.lepori@srmbologna.it,1.0,2025-03-21 17:38:00,2025-03-21 17:43:00,2025-03-21 08:59:17.646,2025-03-22 12:20:30.315,stationary,stationary,other,nan,abccc400-0710-11f0-ab99-95f567402117,,
+20,chiara.lepori@srmbologna.it,1.0,2025-03-21 17:43:00,2025-03-21 17:55:00,2025-03-21 08:59:17.646,2025-03-22 12:20:30.315,moving,stationary,nan,nan,abccc400-0710-11f0-ab99-95f567402117,motorcycle,
+21,chiara.lepori@srmbologna.it,0.7105734834437086,2025-03-21 17:55:00,2025-03-24 08:50:00,2025-03-22 12:22:35.106,2025-03-24 17:03:38.543,stationary,stationary,home,nan,3e050680-08cd-11f0-ab99-95f567402117,,
+21,chiara.lepori@srmbologna.it,0.29682258278145696,2025-03-21 17:55:00,2025-03-24 08:50:00,2025-03-21 08:59:17.646,2025-03-22 12:20:30.315,stationary,stationary,home,nan,abccc400-0710-11f0-ab99-95f567402117,,
+23,chiara.lepori@srmbologna.it,1.0,2025-03-24 08:50:00,2025-03-24 09:00:00,2025-03-22 12:22:35.106,2025-03-24 17:03:38.543,moving,stationary,nan,nan,3e050680-08cd-11f0-ab99-95f567402117,motorcycle,
+24,chiara.lepori@srmbologna.it,0.5,2025-03-24 09:00:00,2025-03-24 17:00:00,2025-03-24 17:15:36.594,,stationary,stationary,work,nan,3e052d92-08cd-11f0-ab99-95f567402117,,
+24,chiara.lepori@srmbologna.it,1.0,2025-03-24 09:00:00,2025-03-24 17:00:00,2025-03-22 12:22:35.106,2025-03-24 17:03:38.543,stationary,stationary,work,nan,3e050680-08cd-11f0-ab99-95f567402117,,
+25,chiara.lepori@srmbologna.it,0.5,2025-03-24 17:00:00,2025-03-24 17:15:00,2025-03-24 17:15:36.594,,moving,stationary,nan,nan,3e052d92-08cd-11f0-ab99-95f567402117,motorcycle,
+25,chiara.lepori@srmbologna.it,1.0,2025-03-24 17:00:00,2025-03-24 17:15:00,2025-03-24 17:13:12.941,2025-03-24 17:15:36.594,moving,moving,nan,nan,3e052d91-08cd-11f0-ab99-95f567402117,motorcycle,motorcycle
+25,chiara.lepori@srmbologna.it,1.0,2025-03-24 17:00:00,2025-03-24 17:15:00,2025-03-24 17:03:38.543,2025-03-24 17:13:12.941,moving,moving,nan,nan,3e052d90-08cd-11f0-ab99-95f567402117,motorcycle,in_vehicle
+25,chiara.lepori@srmbologna.it,1.0,2025-03-24 17:00:00,2025-03-24 17:15:00,2025-03-22 12:22:35.106,2025-03-24 17:03:38.543,moving,stationary,nan,nan,3e050680-08cd-11f0-ab99-95f567402117,motorcycle,
+26,chiara.lepori@srmbologna.it,0.5,2025-03-24 17:15:00,2025-03-24 17:35:00,2025-03-24 17:15:36.594,,stationary,stationary,other,nan,3e052d92-08cd-11f0-ab99-95f567402117,,
+26,chiara.lepori@srmbologna.it,0.780495,2025-03-24 17:15:00,2025-03-24 17:35:00,2025-03-24 17:13:12.941,2025-03-24 17:15:36.594,stationary,moving,other,nan,3e052d91-08cd-11f0-ab99-95f567402117,,motorcycle
+26,chiara.lepori@srmbologna.it,0.6607841666666667,2025-03-24 17:15:00,2025-03-24 17:35:00,2025-03-24 17:03:38.543,2025-03-24 17:13:12.941,stationary,moving,other,nan,3e052d90-08cd-11f0-ab99-95f567402117,,in_vehicle
+26,chiara.lepori@srmbologna.it,0.18211916666666667,2025-03-24 17:15:00,2025-03-24 17:35:00,2025-03-22 12:22:35.106,2025-03-24 17:03:38.543,stationary,stationary,other,nan,3e050680-08cd-11f0-ab99-95f567402117,,
+27,chiara.lepori@srmbologna.it,0.5,2025-03-24 17:35:00,2025-03-24 17:45:00,2025-03-24 17:15:36.594,,moving,stationary,nan,nan,3e052d92-08cd-11f0-ab99-95f567402117,motorcycle,
+28,chiara.lepori@srmbologna.it,0.10474100694444444,2025-03-24 17:45:00,2025-03-25 17:45:00,2025-03-25 12:21:53.375,2025-03-25 14:22:42.998,stationary,stationary,home,nan,47a560f0-09d5-11f0-ab99-95f567402117,,
+28,chiara.lepori@srmbologna.it,0.5,2025-03-24 17:45:00,2025-03-25 17:45:00,2025-03-24 17:15:36.594,,stationary,stationary,home,nan,3e052d92-08cd-11f0-ab99-95f567402117,,

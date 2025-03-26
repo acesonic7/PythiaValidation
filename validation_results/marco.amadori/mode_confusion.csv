@@ -1,4 +1,4 @@
-,None,in_vehicle,on_bicycle,unknown,walking
-in_vehicle,36,26,0,0,2
-on_bicycle,16,0,4,0,4
-walking,21,7,0,1,5
+,in_vehicle,on_bicycle,unknown,walking
+in_vehicle,26,0,0,2
+on_bicycle,0,4,0,4
+walking,7,0,1,5

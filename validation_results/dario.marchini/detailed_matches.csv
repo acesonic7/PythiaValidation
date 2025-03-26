@@ -1,189 +1,189 @@
 ground_truth_id,email,overlap_percentage,gt_start,gt_end,pred_start,pred_end,gt_segment,pred_segment,gt_purpose,pred_purpose,prediction_id,gt_mode,pred_mode
-1,dario.marchini@srmbologna.it,1.0,2025-03-11 08:21:00,2025-03-11 08:32:00,2025-03-11 08:29:56.999,2025-03-11 17:00:35.145,moving,stationary,nan,nan,3bf1ccd0-fedb-11ef-8bac-e5815c7b23f2,on_bicycle,None
-1,dario.marchini@srmbologna.it,0.5,2025-03-11 08:21:00,2025-03-11 08:32:00,2025-03-11 08:29:56.999,,moving,stationary,nan,nan,fec1e652-fe4a-11ef-8bac-e5815c7b23f2,on_bicycle,None
+1,dario.marchini@srmbologna.it,1.0,2025-03-11 08:21:00,2025-03-11 08:32:00,2025-03-11 08:29:56.999,2025-03-11 17:00:35.145,moving,stationary,nan,nan,3bf1ccd0-fedb-11ef-8bac-e5815c7b23f2,on_bicycle,
+1,dario.marchini@srmbologna.it,0.5,2025-03-11 08:21:00,2025-03-11 08:32:00,2025-03-11 08:29:56.999,,moving,stationary,nan,nan,fec1e652-fe4a-11ef-8bac-e5815c7b23f2,on_bicycle,
 1,dario.marchini@srmbologna.it,1.0,2025-03-11 08:21:00,2025-03-11 08:32:00,2025-03-11 08:21:55.522,2025-03-11 08:29:56.999,moving,moving,nan,nan,fec1e651-fe4a-11ef-8bac-e5815c7b23f2,on_bicycle,on_bicycle
-2,dario.marchini@srmbologna.it,0.5,2025-03-11 08:32:00,2025-03-11 17:00:00,2025-03-11 17:00:35.145,,stationary,moving,work,nan,3bf1ccd1-fedb-11ef-8bac-e5815c7b23f2,nan,on_bicycle
-2,dario.marchini@srmbologna.it,1.0,2025-03-11 08:32:00,2025-03-11 17:00:00,2025-03-11 08:29:56.999,2025-03-11 17:00:35.145,stationary,stationary,work,nan,3bf1ccd0-fedb-11ef-8bac-e5815c7b23f2,nan,None
-2,dario.marchini@srmbologna.it,0.5,2025-03-11 08:32:00,2025-03-11 17:00:00,2025-03-11 08:29:56.999,,stationary,stationary,work,nan,fec1e652-fe4a-11ef-8bac-e5815c7b23f2,nan,None
+2,dario.marchini@srmbologna.it,0.5,2025-03-11 08:32:00,2025-03-11 17:00:00,2025-03-11 17:00:35.145,,stationary,moving,work,nan,3bf1ccd1-fedb-11ef-8bac-e5815c7b23f2,,on_bicycle
+2,dario.marchini@srmbologna.it,1.0,2025-03-11 08:32:00,2025-03-11 17:00:00,2025-03-11 08:29:56.999,2025-03-11 17:00:35.145,stationary,stationary,work,nan,3bf1ccd0-fedb-11ef-8bac-e5815c7b23f2,,
+2,dario.marchini@srmbologna.it,0.5,2025-03-11 08:32:00,2025-03-11 17:00:00,2025-03-11 08:29:56.999,,stationary,stationary,work,nan,fec1e652-fe4a-11ef-8bac-e5815c7b23f2,,
 3,dario.marchini@srmbologna.it,0.5,2025-03-11 17:00:00,2025-03-11 17:12:00,2025-03-11 17:38:52.433,,moving,moving,nan,nan,3bf1ccd3-fedb-11ef-8bac-e5815c7b23f2,on_bicycle,walking
 3,dario.marchini@srmbologna.it,0.5,2025-03-11 17:00:00,2025-03-11 17:12:00,2025-03-11 17:00:35.145,,moving,moving,nan,nan,3bf1ccd1-fedb-11ef-8bac-e5815c7b23f2,on_bicycle,on_bicycle
-3,dario.marchini@srmbologna.it,1.0,2025-03-11 17:00:00,2025-03-11 17:12:00,2025-03-11 08:29:56.999,2025-03-11 17:00:35.145,moving,stationary,nan,nan,3bf1ccd0-fedb-11ef-8bac-e5815c7b23f2,on_bicycle,None
-4,dario.marchini@srmbologna.it,0.5,2025-03-11 17:12:00,2025-03-11 17:34:00,2025-03-11 17:38:52.433,,stationary,moving,other (supermarket),nan,3bf1ccd3-fedb-11ef-8bac-e5815c7b23f2,nan,walking
-4,dario.marchini@srmbologna.it,0.5,2025-03-11 17:12:00,2025-03-11 17:34:00,2025-03-11 17:00:35.145,,stationary,moving,other (supermarket),nan,3bf1ccd1-fedb-11ef-8bac-e5815c7b23f2,nan,on_bicycle
-4,dario.marchini@srmbologna.it,0.16298863636363636,2025-03-11 17:12:00,2025-03-11 17:34:00,2025-03-11 08:29:56.999,2025-03-11 17:00:35.145,stationary,stationary,other (supermarket),nan,3bf1ccd0-fedb-11ef-8bac-e5815c7b23f2,nan,None
+3,dario.marchini@srmbologna.it,1.0,2025-03-11 17:00:00,2025-03-11 17:12:00,2025-03-11 08:29:56.999,2025-03-11 17:00:35.145,moving,stationary,nan,nan,3bf1ccd0-fedb-11ef-8bac-e5815c7b23f2,on_bicycle,
+4,dario.marchini@srmbologna.it,0.5,2025-03-11 17:12:00,2025-03-11 17:34:00,2025-03-11 17:38:52.433,,stationary,moving,other (supermarket),nan,3bf1ccd3-fedb-11ef-8bac-e5815c7b23f2,,walking
+4,dario.marchini@srmbologna.it,0.5,2025-03-11 17:12:00,2025-03-11 17:34:00,2025-03-11 17:00:35.145,,stationary,moving,other (supermarket),nan,3bf1ccd1-fedb-11ef-8bac-e5815c7b23f2,,on_bicycle
+4,dario.marchini@srmbologna.it,0.16298863636363636,2025-03-11 17:12:00,2025-03-11 17:34:00,2025-03-11 08:29:56.999,2025-03-11 17:00:35.145,stationary,stationary,other (supermarket),nan,3bf1ccd0-fedb-11ef-8bac-e5815c7b23f2,,
 5,dario.marchini@srmbologna.it,0.5,2025-03-11 17:34:00,2025-03-11 17:55:00,2025-03-11 17:38:52.433,,moving,moving,nan,nan,3bf1ccd3-fedb-11ef-8bac-e5815c7b23f2,walking,walking
-6,dario.marchini@srmbologna.it,0.5,2025-03-11 17:55:00,2025-03-12 08:21:00,2025-03-12 08:31:36.999,,stationary,stationary,home,nan,a49e95e2-ff14-11ef-8bac-e5815c7b23f2,nan,None
-6,dario.marchini@srmbologna.it,0.5,2025-03-11 17:55:00,2025-03-12 08:21:00,2025-03-12 08:29:25.280,,stationary,stationary,home,nan,d05fb752-ff13-11ef-8bac-e5815c7b23f2,nan,None
-6,dario.marchini@srmbologna.it,0.5,2025-03-11 17:55:00,2025-03-12 08:21:00,2025-03-12 08:29:25.280,,stationary,stationary,home,nan,a49e95e0-ff14-11ef-8bac-e5815c7b23f2,nan,None
-6,dario.marchini@srmbologna.it,0.5,2025-03-11 17:55:00,2025-03-12 08:21:00,2025-03-11 17:38:52.433,,stationary,moving,home,nan,3bf1ccd3-fedb-11ef-8bac-e5815c7b23f2,nan,walking
-7,dario.marchini@srmbologna.it,1.0,2025-03-12 08:21:00,2025-03-12 08:35:00,2025-03-12 08:31:36.999,2025-03-12 14:42:14.009,moving,stationary,nan,nan,3c27ee00-ff49-11ef-8bac-e5815c7b23f2,on_bicycle,None
-7,dario.marchini@srmbologna.it,0.5,2025-03-12 08:21:00,2025-03-12 08:35:00,2025-03-12 08:31:36.999,,moving,stationary,nan,nan,a49e95e2-ff14-11ef-8bac-e5815c7b23f2,on_bicycle,None
-7,dario.marchini@srmbologna.it,0.5,2025-03-12 08:21:00,2025-03-12 08:35:00,2025-03-12 08:29:25.280,,moving,stationary,nan,nan,d05fb752-ff13-11ef-8bac-e5815c7b23f2,on_bicycle,None
-7,dario.marchini@srmbologna.it,0.5,2025-03-12 08:21:00,2025-03-12 08:35:00,2025-03-12 08:29:25.280,,moving,stationary,nan,nan,a49e95e0-ff14-11ef-8bac-e5815c7b23f2,on_bicycle,None
+6,dario.marchini@srmbologna.it,0.5,2025-03-11 17:55:00,2025-03-12 08:21:00,2025-03-12 08:31:36.999,,stationary,stationary,home,nan,a49e95e2-ff14-11ef-8bac-e5815c7b23f2,,
+6,dario.marchini@srmbologna.it,0.5,2025-03-11 17:55:00,2025-03-12 08:21:00,2025-03-12 08:29:25.280,,stationary,stationary,home,nan,d05fb752-ff13-11ef-8bac-e5815c7b23f2,,
+6,dario.marchini@srmbologna.it,0.5,2025-03-11 17:55:00,2025-03-12 08:21:00,2025-03-12 08:29:25.280,,stationary,stationary,home,nan,a49e95e0-ff14-11ef-8bac-e5815c7b23f2,,
+6,dario.marchini@srmbologna.it,0.5,2025-03-11 17:55:00,2025-03-12 08:21:00,2025-03-11 17:38:52.433,,stationary,moving,home,nan,3bf1ccd3-fedb-11ef-8bac-e5815c7b23f2,,walking
+7,dario.marchini@srmbologna.it,1.0,2025-03-12 08:21:00,2025-03-12 08:35:00,2025-03-12 08:31:36.999,2025-03-12 14:42:14.009,moving,stationary,nan,nan,3c27ee00-ff49-11ef-8bac-e5815c7b23f2,on_bicycle,
+7,dario.marchini@srmbologna.it,0.5,2025-03-12 08:21:00,2025-03-12 08:35:00,2025-03-12 08:31:36.999,,moving,stationary,nan,nan,a49e95e2-ff14-11ef-8bac-e5815c7b23f2,on_bicycle,
+7,dario.marchini@srmbologna.it,0.5,2025-03-12 08:21:00,2025-03-12 08:35:00,2025-03-12 08:29:25.280,,moving,stationary,nan,nan,d05fb752-ff13-11ef-8bac-e5815c7b23f2,on_bicycle,
+7,dario.marchini@srmbologna.it,0.5,2025-03-12 08:21:00,2025-03-12 08:35:00,2025-03-12 08:29:25.280,,moving,stationary,nan,nan,a49e95e0-ff14-11ef-8bac-e5815c7b23f2,on_bicycle,
 7,dario.marchini@srmbologna.it,1.0,2025-03-12 08:21:00,2025-03-12 08:35:00,2025-03-12 08:21:33.153,2025-03-12 08:29:25.280,moving,moving,nan,nan,d05fb751-ff13-11ef-8bac-e5815c7b23f2,on_bicycle,on_bicycle
-8,dario.marchini@srmbologna.it,0.5,2025-03-12 08:35:00,2025-03-12 14:39:00,2025-03-12 14:48:50.999,,stationary,stationary,work,nan,3c27ee02-ff49-11ef-8bac-e5815c7b23f2,nan,None
-8,dario.marchini@srmbologna.it,0.5,2025-03-12 08:35:00,2025-03-12 14:39:00,2025-03-12 14:48:50.999,,stationary,stationary,work,nan,b5815650-ff9f-11ef-8bac-e5815c7b23f2,nan,None
-8,dario.marchini@srmbologna.it,1.0,2025-03-12 08:35:00,2025-03-12 14:39:00,2025-03-12 08:31:36.999,2025-03-12 14:42:14.009,stationary,stationary,work,nan,3c27ee00-ff49-11ef-8bac-e5815c7b23f2,nan,None
-8,dario.marchini@srmbologna.it,0.5,2025-03-12 08:35:00,2025-03-12 14:39:00,2025-03-12 08:31:36.999,,stationary,stationary,work,nan,a49e95e2-ff14-11ef-8bac-e5815c7b23f2,nan,None
-8,dario.marchini@srmbologna.it,0.5,2025-03-12 08:35:00,2025-03-12 14:39:00,2025-03-12 08:29:25.280,,stationary,stationary,work,nan,d05fb752-ff13-11ef-8bac-e5815c7b23f2,nan,None
-8,dario.marchini@srmbologna.it,0.5,2025-03-12 08:35:00,2025-03-12 14:39:00,2025-03-12 08:29:25.280,,stationary,stationary,work,nan,a49e95e0-ff14-11ef-8bac-e5815c7b23f2,nan,None
-9,dario.marchini@srmbologna.it,0.5,2025-03-12 14:39:00,2025-03-12 14:52:00,2025-03-12 14:48:50.999,,moving,stationary,nan,nan,3c27ee02-ff49-11ef-8bac-e5815c7b23f2,on_bicycle,None
-9,dario.marchini@srmbologna.it,0.5,2025-03-12 14:39:00,2025-03-12 14:52:00,2025-03-12 14:48:50.999,,moving,stationary,nan,nan,b5815650-ff9f-11ef-8bac-e5815c7b23f2,on_bicycle,None
+8,dario.marchini@srmbologna.it,0.5,2025-03-12 08:35:00,2025-03-12 14:39:00,2025-03-12 14:48:50.999,,stationary,stationary,work,nan,3c27ee02-ff49-11ef-8bac-e5815c7b23f2,,
+8,dario.marchini@srmbologna.it,0.5,2025-03-12 08:35:00,2025-03-12 14:39:00,2025-03-12 14:48:50.999,,stationary,stationary,work,nan,b5815650-ff9f-11ef-8bac-e5815c7b23f2,,
+8,dario.marchini@srmbologna.it,1.0,2025-03-12 08:35:00,2025-03-12 14:39:00,2025-03-12 08:31:36.999,2025-03-12 14:42:14.009,stationary,stationary,work,nan,3c27ee00-ff49-11ef-8bac-e5815c7b23f2,,
+8,dario.marchini@srmbologna.it,0.5,2025-03-12 08:35:00,2025-03-12 14:39:00,2025-03-12 08:31:36.999,,stationary,stationary,work,nan,a49e95e2-ff14-11ef-8bac-e5815c7b23f2,,
+8,dario.marchini@srmbologna.it,0.5,2025-03-12 08:35:00,2025-03-12 14:39:00,2025-03-12 08:29:25.280,,stationary,stationary,work,nan,d05fb752-ff13-11ef-8bac-e5815c7b23f2,,
+8,dario.marchini@srmbologna.it,0.5,2025-03-12 08:35:00,2025-03-12 14:39:00,2025-03-12 08:29:25.280,,stationary,stationary,work,nan,a49e95e0-ff14-11ef-8bac-e5815c7b23f2,,
+9,dario.marchini@srmbologna.it,0.5,2025-03-12 14:39:00,2025-03-12 14:52:00,2025-03-12 14:48:50.999,,moving,stationary,nan,nan,3c27ee02-ff49-11ef-8bac-e5815c7b23f2,on_bicycle,
+9,dario.marchini@srmbologna.it,0.5,2025-03-12 14:39:00,2025-03-12 14:52:00,2025-03-12 14:48:50.999,,moving,stationary,nan,nan,b5815650-ff9f-11ef-8bac-e5815c7b23f2,on_bicycle,
 9,dario.marchini@srmbologna.it,1.0,2025-03-12 14:39:00,2025-03-12 14:52:00,2025-03-12 14:42:14.009,2025-03-12 14:48:50.999,moving,moving,nan,nan,3c27ee01-ff49-11ef-8bac-e5815c7b23f2,on_bicycle,on_bicycle
-9,dario.marchini@srmbologna.it,1.0,2025-03-12 14:39:00,2025-03-12 14:52:00,2025-03-12 08:31:36.999,2025-03-12 14:42:14.009,moving,stationary,nan,nan,3c27ee00-ff49-11ef-8bac-e5815c7b23f2,on_bicycle,None
-10,dario.marchini@srmbologna.it,0.5,2025-03-12 14:52:00,2025-03-12 17:18:00,2025-03-12 17:27:31.999,,stationary,stationary,work,nan,b5815652-ff9f-11ef-8bac-e5815c7b23f2,nan,None
-10,dario.marchini@srmbologna.it,0.5,2025-03-12 14:52:00,2025-03-12 17:18:00,2025-03-12 14:48:50.999,,stationary,stationary,work,nan,3c27ee02-ff49-11ef-8bac-e5815c7b23f2,nan,None
-10,dario.marchini@srmbologna.it,0.5,2025-03-12 14:52:00,2025-03-12 17:18:00,2025-03-12 14:48:50.999,,stationary,stationary,work,nan,b5815650-ff9f-11ef-8bac-e5815c7b23f2,nan,None
-11,dario.marchini@srmbologna.it,0.5,2025-03-12 17:18:00,2025-03-12 17:28:00,2025-03-12 17:27:31.999,,moving,stationary,nan,nan,b5815652-ff9f-11ef-8bac-e5815c7b23f2,on_bicycle,None
-12,dario.marchini@srmbologna.it,0.5,2025-03-12 17:28:00,2025-03-13 08:21:00,2025-03-13 08:34:31.016,,stationary,stationary,home,nan,b6c45472-ffdd-11ef-8bac-e5815c7b23f2,nan,None
-12,dario.marchini@srmbologna.it,0.5,2025-03-12 17:28:00,2025-03-13 08:21:00,2025-03-12 17:27:31.999,,stationary,stationary,home,nan,b5815652-ff9f-11ef-8bac-e5815c7b23f2,nan,None
-13,dario.marchini@srmbologna.it,0.5,2025-03-13 08:21:00,2025-03-13 08:35:00,2025-03-13 08:34:31.016,,moving,stationary,nan,nan,b6c45472-ffdd-11ef-8bac-e5815c7b23f2,on_bicycle,None
+9,dario.marchini@srmbologna.it,1.0,2025-03-12 14:39:00,2025-03-12 14:52:00,2025-03-12 08:31:36.999,2025-03-12 14:42:14.009,moving,stationary,nan,nan,3c27ee00-ff49-11ef-8bac-e5815c7b23f2,on_bicycle,
+10,dario.marchini@srmbologna.it,0.5,2025-03-12 14:52:00,2025-03-12 17:18:00,2025-03-12 17:27:31.999,,stationary,stationary,work,nan,b5815652-ff9f-11ef-8bac-e5815c7b23f2,,
+10,dario.marchini@srmbologna.it,0.5,2025-03-12 14:52:00,2025-03-12 17:18:00,2025-03-12 14:48:50.999,,stationary,stationary,work,nan,3c27ee02-ff49-11ef-8bac-e5815c7b23f2,,
+10,dario.marchini@srmbologna.it,0.5,2025-03-12 14:52:00,2025-03-12 17:18:00,2025-03-12 14:48:50.999,,stationary,stationary,work,nan,b5815650-ff9f-11ef-8bac-e5815c7b23f2,,
+11,dario.marchini@srmbologna.it,0.5,2025-03-12 17:18:00,2025-03-12 17:28:00,2025-03-12 17:27:31.999,,moving,stationary,nan,nan,b5815652-ff9f-11ef-8bac-e5815c7b23f2,on_bicycle,
+12,dario.marchini@srmbologna.it,0.5,2025-03-12 17:28:00,2025-03-13 08:21:00,2025-03-13 08:34:31.016,,stationary,stationary,home,nan,b6c45472-ffdd-11ef-8bac-e5815c7b23f2,,
+12,dario.marchini@srmbologna.it,0.5,2025-03-12 17:28:00,2025-03-13 08:21:00,2025-03-12 17:27:31.999,,stationary,stationary,home,nan,b5815652-ff9f-11ef-8bac-e5815c7b23f2,,
+13,dario.marchini@srmbologna.it,0.5,2025-03-13 08:21:00,2025-03-13 08:35:00,2025-03-13 08:34:31.016,,moving,stationary,nan,nan,b6c45472-ffdd-11ef-8bac-e5815c7b23f2,on_bicycle,
 13,dario.marchini@srmbologna.it,1.0,2025-03-13 08:21:00,2025-03-13 08:35:00,2025-03-13 08:22:04.981,2025-03-13 08:34:31.016,moving,moving,nan,nan,b6c45471-ffdd-11ef-8bac-e5815c7b23f2,on_bicycle,on_bicycle
-14,dario.marchini@srmbologna.it,0.5,2025-03-13 08:35:00,2025-03-13 17:09:00,2025-03-13 08:34:31.016,,stationary,stationary,work,nan,b6c45472-ffdd-11ef-8bac-e5815c7b23f2,nan,None
-15,dario.marchini@srmbologna.it,0.17792583333333334,2025-03-13 17:09:00,2025-03-13 17:29:00,2025-03-13 17:40:26.489,2025-03-13 17:57:48.842,moving,stationary,nan,nan,82a86e14-002d-11f0-9083-9f3bcddaa4d7,on_bicycle,None
+14,dario.marchini@srmbologna.it,0.5,2025-03-13 08:35:00,2025-03-13 17:09:00,2025-03-13 08:34:31.016,,stationary,stationary,work,nan,b6c45472-ffdd-11ef-8bac-e5815c7b23f2,,
+15,dario.marchini@srmbologna.it,0.17792583333333334,2025-03-13 17:09:00,2025-03-13 17:29:00,2025-03-13 17:40:26.489,2025-03-13 17:57:48.842,moving,stationary,nan,nan,82a86e14-002d-11f0-9083-9f3bcddaa4d7,on_bicycle,
 15,dario.marchini@srmbologna.it,0.4808341666666667,2025-03-13 17:09:00,2025-03-13 17:29:00,2025-03-13 17:34:22.999,2025-03-13 17:40:26.489,moving,moving,nan,nan,82a86e13-002d-11f0-9083-9f3bcddaa4d7,on_bicycle,walking
-15,dario.marchini@srmbologna.it,0.7499816666666667,2025-03-13 17:09:00,2025-03-13 17:29:00,2025-03-13 17:29:00.022,2025-03-13 17:34:22.999,moving,stationary,nan,nan,82a86e12-002d-11f0-9083-9f3bcddaa4d7,on_bicycle,None
+15,dario.marchini@srmbologna.it,0.7499816666666667,2025-03-13 17:09:00,2025-03-13 17:29:00,2025-03-13 17:29:00.022,2025-03-13 17:34:22.999,moving,stationary,nan,nan,82a86e12-002d-11f0-9083-9f3bcddaa4d7,on_bicycle,
 15,dario.marchini@srmbologna.it,1.0,2025-03-13 17:09:00,2025-03-13 17:29:00,2025-03-13 17:11:50.433,2025-03-13 17:29:00.022,moving,moving,nan,nan,82a86e11-002d-11f0-9083-9f3bcddaa4d7,on_bicycle,on_bicycle
-16,dario.marchini@srmbologna.it,0.2326929487179487,2025-03-13 17:29:00,2025-03-13 17:55:00,2025-03-13 18:03:56.999,2025-03-17 08:18:26.951,stationary,stationary,other (supermarket),nan,32963c90-0302-11f0-a234-15a3d785bcb0,nan,None
-16,dario.marchini@srmbologna.it,0.5,2025-03-13 17:29:00,2025-03-13 17:55:00,2025-03-13 18:03:56.999,,stationary,stationary,other (supermarket),nan,82a86e16-002d-11f0-9083-9f3bcddaa4d7,nan,None
-16,dario.marchini@srmbologna.it,0.46869102564102566,2025-03-13 17:29:00,2025-03-13 17:55:00,2025-03-13 17:57:48.842,2025-03-13 18:03:56.999,stationary,moving,other (supermarket),nan,82a86e15-002d-11f0-9083-9f3bcddaa4d7,nan,on_bicycle
-16,dario.marchini@srmbologna.it,1.0,2025-03-13 17:29:00,2025-03-13 17:55:00,2025-03-13 17:40:26.489,2025-03-13 17:57:48.842,stationary,stationary,other (supermarket),nan,82a86e14-002d-11f0-9083-9f3bcddaa4d7,nan,None
-16,dario.marchini@srmbologna.it,1.0,2025-03-13 17:29:00,2025-03-13 17:55:00,2025-03-13 17:34:22.999,2025-03-13 17:40:26.489,stationary,moving,other (supermarket),nan,82a86e13-002d-11f0-9083-9f3bcddaa4d7,nan,walking
-16,dario.marchini@srmbologna.it,0.783973717948718,2025-03-13 17:29:00,2025-03-13 17:55:00,2025-03-13 17:29:00.022,2025-03-13 17:34:22.999,stationary,stationary,other (supermarket),nan,82a86e12-002d-11f0-9083-9f3bcddaa4d7,nan,None
-16,dario.marchini@srmbologna.it,0.5769371794871795,2025-03-13 17:29:00,2025-03-13 17:55:00,2025-03-13 17:11:50.433,2025-03-13 17:29:00.022,stationary,moving,other (supermarket),nan,82a86e11-002d-11f0-9083-9f3bcddaa4d7,nan,on_bicycle
-17,dario.marchini@srmbologna.it,1.0,2025-03-13 17:55:00,2025-03-13 18:03:00,2025-03-13 18:03:56.999,2025-03-17 08:18:26.951,moving,stationary,nan,nan,32963c90-0302-11f0-a234-15a3d785bcb0,on_bicycle,None
-17,dario.marchini@srmbologna.it,0.5,2025-03-13 17:55:00,2025-03-13 18:03:00,2025-03-13 18:03:56.999,,moving,stationary,nan,nan,82a86e16-002d-11f0-9083-9f3bcddaa4d7,on_bicycle,None
+16,dario.marchini@srmbologna.it,0.2326929487179487,2025-03-13 17:29:00,2025-03-13 17:55:00,2025-03-13 18:03:56.999,2025-03-17 08:18:26.951,stationary,stationary,other (supermarket),nan,32963c90-0302-11f0-a234-15a3d785bcb0,,
+16,dario.marchini@srmbologna.it,0.5,2025-03-13 17:29:00,2025-03-13 17:55:00,2025-03-13 18:03:56.999,,stationary,stationary,other (supermarket),nan,82a86e16-002d-11f0-9083-9f3bcddaa4d7,,
+16,dario.marchini@srmbologna.it,0.46869102564102566,2025-03-13 17:29:00,2025-03-13 17:55:00,2025-03-13 17:57:48.842,2025-03-13 18:03:56.999,stationary,moving,other (supermarket),nan,82a86e15-002d-11f0-9083-9f3bcddaa4d7,,on_bicycle
+16,dario.marchini@srmbologna.it,1.0,2025-03-13 17:29:00,2025-03-13 17:55:00,2025-03-13 17:40:26.489,2025-03-13 17:57:48.842,stationary,stationary,other (supermarket),nan,82a86e14-002d-11f0-9083-9f3bcddaa4d7,,
+16,dario.marchini@srmbologna.it,1.0,2025-03-13 17:29:00,2025-03-13 17:55:00,2025-03-13 17:34:22.999,2025-03-13 17:40:26.489,stationary,moving,other (supermarket),nan,82a86e13-002d-11f0-9083-9f3bcddaa4d7,,walking
+16,dario.marchini@srmbologna.it,0.783973717948718,2025-03-13 17:29:00,2025-03-13 17:55:00,2025-03-13 17:29:00.022,2025-03-13 17:34:22.999,stationary,stationary,other (supermarket),nan,82a86e12-002d-11f0-9083-9f3bcddaa4d7,,
+16,dario.marchini@srmbologna.it,0.5769371794871795,2025-03-13 17:29:00,2025-03-13 17:55:00,2025-03-13 17:11:50.433,2025-03-13 17:29:00.022,stationary,moving,other (supermarket),nan,82a86e11-002d-11f0-9083-9f3bcddaa4d7,,on_bicycle
+17,dario.marchini@srmbologna.it,1.0,2025-03-13 17:55:00,2025-03-13 18:03:00,2025-03-13 18:03:56.999,2025-03-17 08:18:26.951,moving,stationary,nan,nan,32963c90-0302-11f0-a234-15a3d785bcb0,on_bicycle,
+17,dario.marchini@srmbologna.it,0.5,2025-03-13 17:55:00,2025-03-13 18:03:00,2025-03-13 18:03:56.999,,moving,stationary,nan,nan,82a86e16-002d-11f0-9083-9f3bcddaa4d7,on_bicycle,
 17,dario.marchini@srmbologna.it,1.0,2025-03-13 17:55:00,2025-03-13 18:03:00,2025-03-13 17:57:48.842,2025-03-13 18:03:56.999,moving,moving,nan,nan,82a86e15-002d-11f0-9083-9f3bcddaa4d7,on_bicycle,on_bicycle
-17,dario.marchini@srmbologna.it,1.0,2025-03-13 17:55:00,2025-03-13 18:03:00,2025-03-13 17:40:26.489,2025-03-13 17:57:48.842,moving,stationary,nan,nan,82a86e14-002d-11f0-9083-9f3bcddaa4d7,on_bicycle,None
-18,dario.marchini@srmbologna.it,0.5,2025-03-13 18:03:00,2025-03-17 08:18:00,2025-03-17 08:33:10.999,,stationary,stationary,home,nan,329663a0-0302-11f0-a234-15a3d785bcb0,nan,None
-18,dario.marchini@srmbologna.it,1.0,2025-03-13 18:03:00,2025-03-17 08:18:00,2025-03-13 18:03:56.999,2025-03-17 08:18:26.951,stationary,stationary,home,nan,32963c90-0302-11f0-a234-15a3d785bcb0,nan,None
-18,dario.marchini@srmbologna.it,0.5,2025-03-13 18:03:00,2025-03-17 08:18:00,2025-03-13 18:03:56.999,,stationary,stationary,home,nan,82a86e16-002d-11f0-9083-9f3bcddaa4d7,nan,None
-19,dario.marchini@srmbologna.it,0.5,2025-03-17 08:18:00,2025-03-17 08:33:00,2025-03-17 08:33:10.999,,moving,stationary,nan,nan,329663a0-0302-11f0-a234-15a3d785bcb0,on_bicycle,None
-19,dario.marchini@srmbologna.it,0.9877788888888889,2025-03-17 08:18:00,2025-03-17 08:33:00,2025-03-17 08:33:10.999,2025-03-17 17:20:52.132,moving,stationary,nan,nan,e7760810-034e-11f0-ba9a-d57aeb76f198,on_bicycle,None
+17,dario.marchini@srmbologna.it,1.0,2025-03-13 17:55:00,2025-03-13 18:03:00,2025-03-13 17:40:26.489,2025-03-13 17:57:48.842,moving,stationary,nan,nan,82a86e14-002d-11f0-9083-9f3bcddaa4d7,on_bicycle,
+18,dario.marchini@srmbologna.it,0.5,2025-03-13 18:03:00,2025-03-17 08:18:00,2025-03-17 08:33:10.999,,stationary,stationary,home,nan,329663a0-0302-11f0-a234-15a3d785bcb0,,
+18,dario.marchini@srmbologna.it,1.0,2025-03-13 18:03:00,2025-03-17 08:18:00,2025-03-13 18:03:56.999,2025-03-17 08:18:26.951,stationary,stationary,home,nan,32963c90-0302-11f0-a234-15a3d785bcb0,,
+18,dario.marchini@srmbologna.it,0.5,2025-03-13 18:03:00,2025-03-17 08:18:00,2025-03-13 18:03:56.999,,stationary,stationary,home,nan,82a86e16-002d-11f0-9083-9f3bcddaa4d7,,
+19,dario.marchini@srmbologna.it,0.5,2025-03-17 08:18:00,2025-03-17 08:33:00,2025-03-17 08:33:10.999,,moving,stationary,nan,nan,329663a0-0302-11f0-a234-15a3d785bcb0,on_bicycle,
+19,dario.marchini@srmbologna.it,0.9877788888888889,2025-03-17 08:18:00,2025-03-17 08:33:00,2025-03-17 08:33:10.999,2025-03-17 17:20:52.132,moving,stationary,nan,nan,e7760810-034e-11f0-ba9a-d57aeb76f198,on_bicycle,
 19,dario.marchini@srmbologna.it,1.0,2025-03-17 08:18:00,2025-03-17 08:33:00,2025-03-17 08:18:26.951,2025-03-17 08:33:10.999,moving,moving,nan,nan,32963c91-0302-11f0-a234-15a3d785bcb0,on_bicycle,on_bicycle
-19,dario.marchini@srmbologna.it,1.0,2025-03-17 08:18:00,2025-03-17 08:33:00,2025-03-13 18:03:56.999,2025-03-17 08:18:26.951,moving,stationary,nan,nan,32963c90-0302-11f0-a234-15a3d785bcb0,on_bicycle,None
-20,dario.marchini@srmbologna.it,0.5,2025-03-17 08:33:00,2025-03-17 17:20:00,2025-03-17 17:42:19.999,,stationary,stationary,work,nan,e7760812-034e-11f0-ba9a-d57aeb76f198,nan,None
-20,dario.marchini@srmbologna.it,0.5,2025-03-17 08:33:00,2025-03-17 17:20:00,2025-03-17 08:33:10.999,,stationary,stationary,work,nan,329663a0-0302-11f0-a234-15a3d785bcb0,nan,None
-20,dario.marchini@srmbologna.it,1.0,2025-03-17 08:33:00,2025-03-17 17:20:00,2025-03-17 08:33:10.999,2025-03-17 17:20:52.132,stationary,stationary,work,nan,e7760810-034e-11f0-ba9a-d57aeb76f198,nan,None
-21,dario.marchini@srmbologna.it,0.5,2025-03-17 17:20:00,2025-03-17 17:42:00,2025-03-17 17:42:19.999,,moving,stationary,nan,nan,e7760812-034e-11f0-ba9a-d57aeb76f198,on_bicycle,None
+19,dario.marchini@srmbologna.it,1.0,2025-03-17 08:18:00,2025-03-17 08:33:00,2025-03-13 18:03:56.999,2025-03-17 08:18:26.951,moving,stationary,nan,nan,32963c90-0302-11f0-a234-15a3d785bcb0,on_bicycle,
+20,dario.marchini@srmbologna.it,0.5,2025-03-17 08:33:00,2025-03-17 17:20:00,2025-03-17 17:42:19.999,,stationary,stationary,work,nan,e7760812-034e-11f0-ba9a-d57aeb76f198,,
+20,dario.marchini@srmbologna.it,0.5,2025-03-17 08:33:00,2025-03-17 17:20:00,2025-03-17 08:33:10.999,,stationary,stationary,work,nan,329663a0-0302-11f0-a234-15a3d785bcb0,,
+20,dario.marchini@srmbologna.it,1.0,2025-03-17 08:33:00,2025-03-17 17:20:00,2025-03-17 08:33:10.999,2025-03-17 17:20:52.132,stationary,stationary,work,nan,e7760810-034e-11f0-ba9a-d57aeb76f198,,
+21,dario.marchini@srmbologna.it,0.5,2025-03-17 17:20:00,2025-03-17 17:42:00,2025-03-17 17:42:19.999,,moving,stationary,nan,nan,e7760812-034e-11f0-ba9a-d57aeb76f198,on_bicycle,
 21,dario.marchini@srmbologna.it,1.0,2025-03-17 17:20:00,2025-03-17 17:42:00,2025-03-17 17:20:52.132,2025-03-17 17:42:19.999,moving,moving,nan,nan,e7760811-034e-11f0-ba9a-d57aeb76f198,on_bicycle,on_bicycle
-21,dario.marchini@srmbologna.it,0.7213121212121212,2025-03-17 17:20:00,2025-03-17 17:42:00,2025-03-17 08:33:10.999,2025-03-17 17:20:52.132,moving,stationary,nan,nan,e7760810-034e-11f0-ba9a-d57aeb76f198,on_bicycle,None
-22,dario.marchini@srmbologna.it,0.5,2025-03-17 17:42:00,2025-03-18 08:20:00,2025-03-18 08:30:01.999,,stationary,stationary,home,nan,5c67db42-03cb-11f0-ba9a-d57aeb76f198,nan,None
-22,dario.marchini@srmbologna.it,0.5,2025-03-17 17:42:00,2025-03-18 08:20:00,2025-03-17 17:42:19.999,,stationary,stationary,home,nan,e7760812-034e-11f0-ba9a-d57aeb76f198,nan,None
-23,dario.marchini@srmbologna.it,1.0,2025-03-18 08:20:00,2025-03-18 08:33:00,2025-03-18 08:30:01.999,2025-03-18 17:25:28.039,moving,stationary,nan,nan,59cd90d0-0459-11f0-ba9a-d57aeb76f198,on_bicycle,None
-23,dario.marchini@srmbologna.it,0.5,2025-03-18 08:20:00,2025-03-18 08:33:00,2025-03-18 08:30:01.999,,moving,stationary,nan,nan,5c67db42-03cb-11f0-ba9a-d57aeb76f198,on_bicycle,None
+21,dario.marchini@srmbologna.it,0.7213121212121212,2025-03-17 17:20:00,2025-03-17 17:42:00,2025-03-17 08:33:10.999,2025-03-17 17:20:52.132,moving,stationary,nan,nan,e7760810-034e-11f0-ba9a-d57aeb76f198,on_bicycle,
+22,dario.marchini@srmbologna.it,0.5,2025-03-17 17:42:00,2025-03-18 08:20:00,2025-03-18 08:30:01.999,,stationary,stationary,home,nan,5c67db42-03cb-11f0-ba9a-d57aeb76f198,,
+22,dario.marchini@srmbologna.it,0.5,2025-03-17 17:42:00,2025-03-18 08:20:00,2025-03-17 17:42:19.999,,stationary,stationary,home,nan,e7760812-034e-11f0-ba9a-d57aeb76f198,,
+23,dario.marchini@srmbologna.it,1.0,2025-03-18 08:20:00,2025-03-18 08:33:00,2025-03-18 08:30:01.999,2025-03-18 17:25:28.039,moving,stationary,nan,nan,59cd90d0-0459-11f0-ba9a-d57aeb76f198,on_bicycle,
+23,dario.marchini@srmbologna.it,0.5,2025-03-18 08:20:00,2025-03-18 08:33:00,2025-03-18 08:30:01.999,,moving,stationary,nan,nan,5c67db42-03cb-11f0-ba9a-d57aeb76f198,on_bicycle,
 23,dario.marchini@srmbologna.it,1.0,2025-03-18 08:20:00,2025-03-18 08:33:00,2025-03-18 08:22:38.749,2025-03-18 08:30:01.999,moving,moving,nan,nan,5c67db41-03cb-11f0-ba9a-d57aeb76f198,on_bicycle,on_bicycle
-24,dario.marchini@srmbologna.it,1.0,2025-03-18 08:33:00,2025-03-18 17:25:00,2025-03-18 08:30:01.999,2025-03-18 17:25:28.039,stationary,stationary,work,nan,59cd90d0-0459-11f0-ba9a-d57aeb76f198,nan,None
-24,dario.marchini@srmbologna.it,0.5,2025-03-18 08:33:00,2025-03-18 17:25:00,2025-03-18 08:30:01.999,,stationary,stationary,work,nan,5c67db42-03cb-11f0-ba9a-d57aeb76f198,nan,None
-25,dario.marchini@srmbologna.it,0.9033177777777778,2025-03-18 17:25:00,2025-03-18 17:40:00,2025-03-18 17:41:27.014,2025-03-18 17:55:15.309,moving,stationary,nan,nan,59cd90d2-0459-11f0-ba9a-d57aeb76f198,on_bicycle,None
+24,dario.marchini@srmbologna.it,1.0,2025-03-18 08:33:00,2025-03-18 17:25:00,2025-03-18 08:30:01.999,2025-03-18 17:25:28.039,stationary,stationary,work,nan,59cd90d0-0459-11f0-ba9a-d57aeb76f198,,
+24,dario.marchini@srmbologna.it,0.5,2025-03-18 08:33:00,2025-03-18 17:25:00,2025-03-18 08:30:01.999,,stationary,stationary,work,nan,5c67db42-03cb-11f0-ba9a-d57aeb76f198,,
+25,dario.marchini@srmbologna.it,0.9033177777777778,2025-03-18 17:25:00,2025-03-18 17:40:00,2025-03-18 17:41:27.014,2025-03-18 17:55:15.309,moving,stationary,nan,nan,59cd90d2-0459-11f0-ba9a-d57aeb76f198,on_bicycle,
 25,dario.marchini@srmbologna.it,1.0,2025-03-18 17:25:00,2025-03-18 17:40:00,2025-03-18 17:25:28.039,2025-03-18 17:41:27.014,moving,moving,nan,nan,59cd90d1-0459-11f0-ba9a-d57aeb76f198,on_bicycle,on_bicycle
-25,dario.marchini@srmbologna.it,1.0,2025-03-18 17:25:00,2025-03-18 17:40:00,2025-03-18 08:30:01.999,2025-03-18 17:25:28.039,moving,stationary,nan,nan,59cd90d0-0459-11f0-ba9a-d57aeb76f198,on_bicycle,None
-26,dario.marchini@srmbologna.it,0.5,2025-03-18 17:40:00,2025-03-18 17:55:00,2025-03-18 18:10:28.999,,stationary,stationary,home,nan,59cd90d4-0459-11f0-ba9a-d57aeb76f198,nan,None
-26,dario.marchini@srmbologna.it,0.98299,2025-03-18 17:40:00,2025-03-18 17:55:00,2025-03-18 17:55:15.309,2025-03-18 18:10:28.999,stationary,moving,home,nan,59cd90d3-0459-11f0-ba9a-d57aeb76f198,nan,in_vehicle
-26,dario.marchini@srmbologna.it,1.0,2025-03-18 17:40:00,2025-03-18 17:55:00,2025-03-18 17:41:27.014,2025-03-18 17:55:15.309,stationary,stationary,home,nan,59cd90d2-0459-11f0-ba9a-d57aeb76f198,nan,None
-26,dario.marchini@srmbologna.it,1.0,2025-03-18 17:40:00,2025-03-18 17:55:00,2025-03-18 17:25:28.039,2025-03-18 17:41:27.014,stationary,moving,home,nan,59cd90d1-0459-11f0-ba9a-d57aeb76f198,nan,on_bicycle
-27,dario.marchini@srmbologna.it,0.5,2025-03-18 17:55:00,2025-03-18 18:10:00,2025-03-18 18:10:28.999,,moving,stationary,nan,nan,59cd90d4-0459-11f0-ba9a-d57aeb76f198,in_vehicle,None
+25,dario.marchini@srmbologna.it,1.0,2025-03-18 17:25:00,2025-03-18 17:40:00,2025-03-18 08:30:01.999,2025-03-18 17:25:28.039,moving,stationary,nan,nan,59cd90d0-0459-11f0-ba9a-d57aeb76f198,on_bicycle,
+26,dario.marchini@srmbologna.it,0.5,2025-03-18 17:40:00,2025-03-18 17:55:00,2025-03-18 18:10:28.999,,stationary,stationary,home,nan,59cd90d4-0459-11f0-ba9a-d57aeb76f198,,
+26,dario.marchini@srmbologna.it,0.98299,2025-03-18 17:40:00,2025-03-18 17:55:00,2025-03-18 17:55:15.309,2025-03-18 18:10:28.999,stationary,moving,home,nan,59cd90d3-0459-11f0-ba9a-d57aeb76f198,,in_vehicle
+26,dario.marchini@srmbologna.it,1.0,2025-03-18 17:40:00,2025-03-18 17:55:00,2025-03-18 17:41:27.014,2025-03-18 17:55:15.309,stationary,stationary,home,nan,59cd90d2-0459-11f0-ba9a-d57aeb76f198,,
+26,dario.marchini@srmbologna.it,1.0,2025-03-18 17:40:00,2025-03-18 17:55:00,2025-03-18 17:25:28.039,2025-03-18 17:41:27.014,stationary,moving,home,nan,59cd90d1-0459-11f0-ba9a-d57aeb76f198,,on_bicycle
+27,dario.marchini@srmbologna.it,0.5,2025-03-18 17:55:00,2025-03-18 18:10:00,2025-03-18 18:10:28.999,,moving,stationary,nan,nan,59cd90d4-0459-11f0-ba9a-d57aeb76f198,in_vehicle,
 27,dario.marchini@srmbologna.it,1.0,2025-03-18 17:55:00,2025-03-18 18:10:00,2025-03-18 17:55:15.309,2025-03-18 18:10:28.999,moving,moving,nan,nan,59cd90d3-0459-11f0-ba9a-d57aeb76f198,in_vehicle,in_vehicle
-27,dario.marchini@srmbologna.it,1.0,2025-03-18 17:55:00,2025-03-18 18:10:00,2025-03-18 17:41:27.014,2025-03-18 17:55:15.309,moving,stationary,nan,nan,59cd90d2-0459-11f0-ba9a-d57aeb76f198,in_vehicle,None
-28,dario.marchini@srmbologna.it,0.5,2025-03-18 18:10:00,2025-03-18 18:24:00,2025-03-18 18:53:27.765,,stationary,moving,other (shop),nan,59cd90d7-0459-11f0-ba9a-d57aeb76f198,nan,in_vehicle
-28,dario.marchini@srmbologna.it,0.5,2025-03-18 18:10:00,2025-03-18 18:24:00,2025-03-18 18:10:28.999,,stationary,stationary,other (shop),nan,59cd90d4-0459-11f0-ba9a-d57aeb76f198,nan,None
-28,dario.marchini@srmbologna.it,1.0,2025-03-18 18:10:00,2025-03-18 18:24:00,2025-03-18 17:55:15.309,2025-03-18 18:10:28.999,stationary,moving,other (shop),nan,59cd90d3-0459-11f0-ba9a-d57aeb76f198,nan,in_vehicle
+27,dario.marchini@srmbologna.it,1.0,2025-03-18 17:55:00,2025-03-18 18:10:00,2025-03-18 17:41:27.014,2025-03-18 17:55:15.309,moving,stationary,nan,nan,59cd90d2-0459-11f0-ba9a-d57aeb76f198,in_vehicle,
+28,dario.marchini@srmbologna.it,0.5,2025-03-18 18:10:00,2025-03-18 18:24:00,2025-03-18 18:53:27.765,,stationary,moving,other (shop),nan,59cd90d7-0459-11f0-ba9a-d57aeb76f198,,in_vehicle
+28,dario.marchini@srmbologna.it,0.5,2025-03-18 18:10:00,2025-03-18 18:24:00,2025-03-18 18:10:28.999,,stationary,stationary,other (shop),nan,59cd90d4-0459-11f0-ba9a-d57aeb76f198,,
+28,dario.marchini@srmbologna.it,1.0,2025-03-18 18:10:00,2025-03-18 18:24:00,2025-03-18 17:55:15.309,2025-03-18 18:10:28.999,stationary,moving,other (shop),nan,59cd90d3-0459-11f0-ba9a-d57aeb76f198,,in_vehicle
 29,dario.marchini@srmbologna.it,0.5,2025-03-18 18:24:00,2025-03-18 18:39:00,2025-03-18 18:53:27.765,,moving,moving,nan,nan,59cd90d7-0459-11f0-ba9a-d57aeb76f198,in_vehicle,in_vehicle
-29,dario.marchini@srmbologna.it,0.9786077777777777,2025-03-18 18:24:00,2025-03-18 18:39:00,2025-03-18 18:39:19.253,2025-03-18 18:53:27.765,moving,stationary,nan,nan,59cd90d6-0459-11f0-ba9a-d57aeb76f198,in_vehicle,None
-29,dario.marchini@srmbologna.it,0.5,2025-03-18 18:24:00,2025-03-18 18:39:00,2025-03-18 18:10:28.999,,moving,stationary,nan,nan,59cd90d4-0459-11f0-ba9a-d57aeb76f198,in_vehicle,None
-30,dario.marchini@srmbologna.it,0.5,2025-03-18 18:39:00,2025-03-18 18:53:00,2025-03-18 18:53:27.765,,stationary,moving,other (shop),nan,59cd90d7-0459-11f0-ba9a-d57aeb76f198,nan,in_vehicle
-30,dario.marchini@srmbologna.it,1.0,2025-03-18 18:39:00,2025-03-18 18:53:00,2025-03-18 18:39:19.253,2025-03-18 18:53:27.765,stationary,stationary,other (shop),nan,59cd90d6-0459-11f0-ba9a-d57aeb76f198,nan,None
-30,dario.marchini@srmbologna.it,0.5,2025-03-18 18:39:00,2025-03-18 18:53:00,2025-03-18 18:10:28.999,,stationary,stationary,other (shop),nan,59cd90d4-0459-11f0-ba9a-d57aeb76f198,nan,None
+29,dario.marchini@srmbologna.it,0.9786077777777777,2025-03-18 18:24:00,2025-03-18 18:39:00,2025-03-18 18:39:19.253,2025-03-18 18:53:27.765,moving,stationary,nan,nan,59cd90d6-0459-11f0-ba9a-d57aeb76f198,in_vehicle,
+29,dario.marchini@srmbologna.it,0.5,2025-03-18 18:24:00,2025-03-18 18:39:00,2025-03-18 18:10:28.999,,moving,stationary,nan,nan,59cd90d4-0459-11f0-ba9a-d57aeb76f198,in_vehicle,
+30,dario.marchini@srmbologna.it,0.5,2025-03-18 18:39:00,2025-03-18 18:53:00,2025-03-18 18:53:27.765,,stationary,moving,other (shop),nan,59cd90d7-0459-11f0-ba9a-d57aeb76f198,,in_vehicle
+30,dario.marchini@srmbologna.it,1.0,2025-03-18 18:39:00,2025-03-18 18:53:00,2025-03-18 18:39:19.253,2025-03-18 18:53:27.765,stationary,stationary,other (shop),nan,59cd90d6-0459-11f0-ba9a-d57aeb76f198,,
+30,dario.marchini@srmbologna.it,0.5,2025-03-18 18:39:00,2025-03-18 18:53:00,2025-03-18 18:10:28.999,,stationary,stationary,other (shop),nan,59cd90d4-0459-11f0-ba9a-d57aeb76f198,,
 31,dario.marchini@srmbologna.it,0.5,2025-03-18 18:53:00,2025-03-18 19:14:00,2025-03-18 18:53:27.765,,moving,moving,nan,nan,59cd90d7-0459-11f0-ba9a-d57aeb76f198,in_vehicle,in_vehicle
-31,dario.marchini@srmbologna.it,0.7363214285714286,2025-03-18 18:53:00,2025-03-18 19:14:00,2025-03-18 18:39:19.253,2025-03-18 18:53:27.765,moving,stationary,nan,nan,59cd90d6-0459-11f0-ba9a-d57aeb76f198,in_vehicle,None
-32,dario.marchini@srmbologna.it,0.5,2025-03-18 19:14:00,2025-03-18 21:25:00,2025-03-18 21:25:10.220,,stationary,moving,home,nan,59cd90d9-0459-11f0-ba9a-d57aeb76f198,nan,in_vehicle
-32,dario.marchini@srmbologna.it,0.5,2025-03-18 19:14:00,2025-03-18 21:25:00,2025-03-18 18:53:27.765,,stationary,moving,home,nan,59cd90d7-0459-11f0-ba9a-d57aeb76f198,nan,in_vehicle
+31,dario.marchini@srmbologna.it,0.7363214285714286,2025-03-18 18:53:00,2025-03-18 19:14:00,2025-03-18 18:39:19.253,2025-03-18 18:53:27.765,moving,stationary,nan,nan,59cd90d6-0459-11f0-ba9a-d57aeb76f198,in_vehicle,
+32,dario.marchini@srmbologna.it,0.5,2025-03-18 19:14:00,2025-03-18 21:25:00,2025-03-18 21:25:10.220,,stationary,moving,home,nan,59cd90d9-0459-11f0-ba9a-d57aeb76f198,,in_vehicle
+32,dario.marchini@srmbologna.it,0.5,2025-03-18 19:14:00,2025-03-18 21:25:00,2025-03-18 18:53:27.765,,stationary,moving,home,nan,59cd90d7-0459-11f0-ba9a-d57aeb76f198,,in_vehicle
 33,dario.marchini@srmbologna.it,0.5,2025-03-18 21:25:00,2025-03-18 21:54:00,2025-03-18 21:25:10.220,,moving,moving,nan,nan,59cd90d9-0459-11f0-ba9a-d57aeb76f198,in_vehicle,in_vehicle
-34,dario.marchini@srmbologna.it,0.5,2025-03-18 21:54:00,2025-03-19 00:28:00,2025-03-19 00:56:02.999,,stationary,stationary,other (sport),nan,59cd90dd-0459-11f0-ba9a-d57aeb76f198,nan,None
-34,dario.marchini@srmbologna.it,0.5,2025-03-18 21:54:00,2025-03-19 00:28:00,2025-03-18 21:25:10.220,,stationary,moving,other (sport),nan,59cd90d9-0459-11f0-ba9a-d57aeb76f198,nan,in_vehicle
-35,dario.marchini@srmbologna.it,0.5,2025-03-19 00:28:00,2025-03-19 00:56:00,2025-03-19 00:56:02.999,,moving,stationary,nan,nan,59cd90dd-0459-11f0-ba9a-d57aeb76f198,walking,None
-35,dario.marchini@srmbologna.it,0.5339291666666667,2025-03-19 00:28:00,2025-03-19 00:56:00,2025-03-19 00:56:02.999,2025-03-19 13:14:56.999,moving,stationary,nan,nan,5dd92af0-053e-11f0-ba9a-d57aeb76f198,walking,None
-35,dario.marchini@srmbologna.it,0.6410720238095238,2025-03-19 00:28:00,2025-03-19 00:56:00,2025-03-19 00:53:02.999,2025-03-19 00:56:02.999,moving,moving,nan,nan,59cd90dc-0459-11f0-ba9a-d57aeb76f198,walking,walking
-35,dario.marchini@srmbologna.it,1.0,2025-03-19 00:28:00,2025-03-19 00:56:00,2025-03-19 00:28:49.246,2025-03-19 00:52:47.999,moving,moving,nan,nan,59cd90db-0459-11f0-ba9a-d57aeb76f198,walking,in_vehicle
-36,dario.marchini@srmbologna.it,0.5,2025-03-19 00:56:00,2025-03-19 13:10:00,2025-03-19 00:56:02.999,,stationary,stationary,home,nan,59cd90dd-0459-11f0-ba9a-d57aeb76f198,nan,None
-36,dario.marchini@srmbologna.it,1.0,2025-03-19 00:56:00,2025-03-19 13:10:00,2025-03-19 00:56:02.999,2025-03-19 13:14:56.999,stationary,stationary,home,nan,5dd92af0-053e-11f0-ba9a-d57aeb76f198,nan,None
-37,dario.marchini@srmbologna.it,0.5,2025-03-19 13:10:00,2025-03-19 13:22:00,2025-03-19 13:48:20.999,,moving,stationary,nan,nan,5dd92af4-053e-11f0-ba9a-d57aeb76f198,on_bicycle,None
+34,dario.marchini@srmbologna.it,0.5,2025-03-18 21:54:00,2025-03-19 00:28:00,2025-03-19 00:56:02.999,,stationary,stationary,other (sport),nan,59cd90dd-0459-11f0-ba9a-d57aeb76f198,,
+34,dario.marchini@srmbologna.it,0.5,2025-03-18 21:54:00,2025-03-19 00:28:00,2025-03-18 21:25:10.220,,stationary,moving,other (sport),nan,59cd90d9-0459-11f0-ba9a-d57aeb76f198,,in_vehicle
+35,dario.marchini@srmbologna.it,0.5,2025-03-19 00:28:00,2025-03-19 00:56:00,2025-03-19 00:56:02.999,,moving,stationary,nan,nan,59cd90dd-0459-11f0-ba9a-d57aeb76f198,car+walking,
+35,dario.marchini@srmbologna.it,0.5339291666666667,2025-03-19 00:28:00,2025-03-19 00:56:00,2025-03-19 00:56:02.999,2025-03-19 13:14:56.999,moving,stationary,nan,nan,5dd92af0-053e-11f0-ba9a-d57aeb76f198,car+walking,
+35,dario.marchini@srmbologna.it,0.6410720238095238,2025-03-19 00:28:00,2025-03-19 00:56:00,2025-03-19 00:53:02.999,2025-03-19 00:56:02.999,moving,moving,nan,nan,59cd90dc-0459-11f0-ba9a-d57aeb76f198,car+walking,walking
+35,dario.marchini@srmbologna.it,1.0,2025-03-19 00:28:00,2025-03-19 00:56:00,2025-03-19 00:28:49.246,2025-03-19 00:52:47.999,moving,moving,nan,nan,59cd90db-0459-11f0-ba9a-d57aeb76f198,car+walking,in_vehicle
+36,dario.marchini@srmbologna.it,0.5,2025-03-19 00:56:00,2025-03-19 13:10:00,2025-03-19 00:56:02.999,,stationary,stationary,home,nan,59cd90dd-0459-11f0-ba9a-d57aeb76f198,,
+36,dario.marchini@srmbologna.it,1.0,2025-03-19 00:56:00,2025-03-19 13:10:00,2025-03-19 00:56:02.999,2025-03-19 13:14:56.999,stationary,stationary,home,nan,5dd92af0-053e-11f0-ba9a-d57aeb76f198,,
+37,dario.marchini@srmbologna.it,0.5,2025-03-19 13:10:00,2025-03-19 13:22:00,2025-03-19 13:48:20.999,,moving,stationary,nan,nan,5dd92af4-053e-11f0-ba9a-d57aeb76f198,on_bicycle,
 37,dario.marchini@srmbologna.it,0.11290555555555556,2025-03-19 13:10:00,2025-03-19 13:22:00,2025-03-19 13:35:38.708,2025-03-19 13:48:20.999,moving,moving,nan,nan,5dd92af3-053e-11f0-ba9a-d57aeb76f198,on_bicycle,on_bicycle
 37,dario.marchini@srmbologna.it,1.0,2025-03-19 13:10:00,2025-03-19 13:22:00,2025-03-19 13:20:45.999,2025-03-19 13:33:01.999,moving,moving,nan,nan,5dd92af2-053e-11f0-ba9a-d57aeb76f198,on_bicycle,walking
 37,dario.marchini@srmbologna.it,1.0,2025-03-19 13:10:00,2025-03-19 13:22:00,2025-03-19 13:14:56.999,2025-03-19 13:20:29.999,moving,moving,nan,nan,5dd92af1-053e-11f0-ba9a-d57aeb76f198,on_bicycle,on_bicycle
-37,dario.marchini@srmbologna.it,1.0,2025-03-19 13:10:00,2025-03-19 13:22:00,2025-03-19 00:56:02.999,2025-03-19 13:14:56.999,moving,stationary,nan,nan,5dd92af0-053e-11f0-ba9a-d57aeb76f198,on_bicycle,None
-38,dario.marchini@srmbologna.it,0.5,2025-03-19 13:22:00,2025-03-19 13:34:00,2025-03-19 13:48:20.999,,stationary,stationary,other (supermarket),nan,5dd92af4-053e-11f0-ba9a-d57aeb76f198,nan,None
-38,dario.marchini@srmbologna.it,1.0,2025-03-19 13:22:00,2025-03-19 13:34:00,2025-03-19 13:35:38.708,2025-03-19 13:48:20.999,stationary,moving,other (supermarket),nan,5dd92af3-053e-11f0-ba9a-d57aeb76f198,nan,on_bicycle
-38,dario.marchini@srmbologna.it,1.0,2025-03-19 13:22:00,2025-03-19 13:34:00,2025-03-19 13:20:45.999,2025-03-19 13:33:01.999,stationary,moving,other (supermarket),nan,5dd92af2-053e-11f0-ba9a-d57aeb76f198,nan,walking
-38,dario.marchini@srmbologna.it,1.0,2025-03-19 13:22:00,2025-03-19 13:34:00,2025-03-19 13:14:56.999,2025-03-19 13:20:29.999,stationary,moving,other (supermarket),nan,5dd92af1-053e-11f0-ba9a-d57aeb76f198,nan,on_bicycle
-38,dario.marchini@srmbologna.it,0.6624986111111112,2025-03-19 13:22:00,2025-03-19 13:34:00,2025-03-19 00:56:02.999,2025-03-19 13:14:56.999,stationary,stationary,other (supermarket),nan,5dd92af0-053e-11f0-ba9a-d57aeb76f198,nan,None
-39,dario.marchini@srmbologna.it,1.0,2025-03-19 13:34:00,2025-03-19 13:47:00,2025-03-19 13:48:20.999,2025-03-20 08:18:48.975,moving,stationary,nan,nan,26260a50-055d-11f0-ba9a-d57aeb76f198,on_bicycle,None
-39,dario.marchini@srmbologna.it,0.5,2025-03-19 13:34:00,2025-03-19 13:47:00,2025-03-19 13:48:20.999,,moving,stationary,nan,nan,5dd92af4-053e-11f0-ba9a-d57aeb76f198,on_bicycle,None
+37,dario.marchini@srmbologna.it,1.0,2025-03-19 13:10:00,2025-03-19 13:22:00,2025-03-19 00:56:02.999,2025-03-19 13:14:56.999,moving,stationary,nan,nan,5dd92af0-053e-11f0-ba9a-d57aeb76f198,on_bicycle,
+38,dario.marchini@srmbologna.it,0.5,2025-03-19 13:22:00,2025-03-19 13:34:00,2025-03-19 13:48:20.999,,stationary,stationary,other (supermarket),nan,5dd92af4-053e-11f0-ba9a-d57aeb76f198,,
+38,dario.marchini@srmbologna.it,1.0,2025-03-19 13:22:00,2025-03-19 13:34:00,2025-03-19 13:35:38.708,2025-03-19 13:48:20.999,stationary,moving,other (supermarket),nan,5dd92af3-053e-11f0-ba9a-d57aeb76f198,,on_bicycle
+38,dario.marchini@srmbologna.it,1.0,2025-03-19 13:22:00,2025-03-19 13:34:00,2025-03-19 13:20:45.999,2025-03-19 13:33:01.999,stationary,moving,other (supermarket),nan,5dd92af2-053e-11f0-ba9a-d57aeb76f198,,walking
+38,dario.marchini@srmbologna.it,1.0,2025-03-19 13:22:00,2025-03-19 13:34:00,2025-03-19 13:14:56.999,2025-03-19 13:20:29.999,stationary,moving,other (supermarket),nan,5dd92af1-053e-11f0-ba9a-d57aeb76f198,,on_bicycle
+38,dario.marchini@srmbologna.it,0.6624986111111112,2025-03-19 13:22:00,2025-03-19 13:34:00,2025-03-19 00:56:02.999,2025-03-19 13:14:56.999,stationary,stationary,other (supermarket),nan,5dd92af0-053e-11f0-ba9a-d57aeb76f198,,
+39,dario.marchini@srmbologna.it,1.0,2025-03-19 13:34:00,2025-03-19 13:47:00,2025-03-19 13:48:20.999,2025-03-20 08:18:48.975,moving,stationary,nan,nan,26260a50-055d-11f0-ba9a-d57aeb76f198,on_bicycle,
+39,dario.marchini@srmbologna.it,0.5,2025-03-19 13:34:00,2025-03-19 13:47:00,2025-03-19 13:48:20.999,,moving,stationary,nan,nan,5dd92af4-053e-11f0-ba9a-d57aeb76f198,on_bicycle,
 39,dario.marchini@srmbologna.it,1.0,2025-03-19 13:34:00,2025-03-19 13:47:00,2025-03-19 13:35:38.708,2025-03-19 13:48:20.999,moving,moving,nan,nan,5dd92af3-053e-11f0-ba9a-d57aeb76f198,on_bicycle,on_bicycle
 39,dario.marchini@srmbologna.it,1.0,2025-03-19 13:34:00,2025-03-19 13:47:00,2025-03-19 13:20:45.999,2025-03-19 13:33:01.999,moving,moving,nan,nan,5dd92af2-053e-11f0-ba9a-d57aeb76f198,on_bicycle,walking
 39,dario.marchini@srmbologna.it,0.11538333333333332,2025-03-19 13:34:00,2025-03-19 13:47:00,2025-03-19 13:14:56.999,2025-03-19 13:20:29.999,moving,moving,nan,nan,5dd92af1-053e-11f0-ba9a-d57aeb76f198,on_bicycle,on_bicycle
-40,dario.marchini@srmbologna.it,0.5,2025-03-19 13:47:00,2025-03-20 08:17:00,2025-03-20 08:28:53.999,,stationary,stationary,home,nan,26260a52-055d-11f0-ba9a-d57aeb76f198,nan,None
-40,dario.marchini@srmbologna.it,1.0,2025-03-19 13:47:00,2025-03-20 08:17:00,2025-03-19 13:48:20.999,2025-03-20 08:18:48.975,stationary,stationary,home,nan,26260a50-055d-11f0-ba9a-d57aeb76f198,nan,None
-40,dario.marchini@srmbologna.it,0.5,2025-03-19 13:47:00,2025-03-20 08:17:00,2025-03-19 13:48:20.999,,stationary,stationary,home,nan,5dd92af4-053e-11f0-ba9a-d57aeb76f198,nan,None
-41,dario.marchini@srmbologna.it,0.5,2025-03-20 08:17:00,2025-03-20 08:31:00,2025-03-20 08:28:53.999,,moving,stationary,nan,nan,26260a52-055d-11f0-ba9a-d57aeb76f198,on_bicycle,None
+40,dario.marchini@srmbologna.it,0.5,2025-03-19 13:47:00,2025-03-20 08:17:00,2025-03-20 08:28:53.999,,stationary,stationary,home,nan,26260a52-055d-11f0-ba9a-d57aeb76f198,,
+40,dario.marchini@srmbologna.it,1.0,2025-03-19 13:47:00,2025-03-20 08:17:00,2025-03-19 13:48:20.999,2025-03-20 08:18:48.975,stationary,stationary,home,nan,26260a50-055d-11f0-ba9a-d57aeb76f198,,
+40,dario.marchini@srmbologna.it,0.5,2025-03-19 13:47:00,2025-03-20 08:17:00,2025-03-19 13:48:20.999,,stationary,stationary,home,nan,5dd92af4-053e-11f0-ba9a-d57aeb76f198,,
+41,dario.marchini@srmbologna.it,0.5,2025-03-20 08:17:00,2025-03-20 08:31:00,2025-03-20 08:28:53.999,,moving,stationary,nan,nan,26260a52-055d-11f0-ba9a-d57aeb76f198,on_bicycle,
 41,dario.marchini@srmbologna.it,1.0,2025-03-20 08:17:00,2025-03-20 08:31:00,2025-03-20 08:18:48.975,2025-03-20 08:28:53.999,moving,moving,nan,nan,26260a51-055d-11f0-ba9a-d57aeb76f198,on_bicycle,in_vehicle
-41,dario.marchini@srmbologna.it,1.0,2025-03-20 08:17:00,2025-03-20 08:31:00,2025-03-19 13:48:20.999,2025-03-20 08:18:48.975,moving,stationary,nan,nan,26260a50-055d-11f0-ba9a-d57aeb76f198,on_bicycle,None
-42,dario.marchini@srmbologna.it,0.5,2025-03-20 08:31:00,2025-03-20 17:20:00,2025-03-20 17:34:51.026,,stationary,stationary,work,nan,2790df52-05e9-11f0-853f-e508809b3947,nan,None
-42,dario.marchini@srmbologna.it,0.5,2025-03-20 08:31:00,2025-03-20 17:20:00,2025-03-20 08:28:53.999,,stationary,stationary,work,nan,26260a52-055d-11f0-ba9a-d57aeb76f198,nan,None
-43,dario.marchini@srmbologna.it,0.5,2025-03-20 17:20:00,2025-03-20 17:34:00,2025-03-20 17:34:51.026,,moving,stationary,nan,nan,2790df52-05e9-11f0-853f-e508809b3947,on_bicycle,None
-44,dario.marchini@srmbologna.it,0.5,2025-03-20 17:34:00,2025-03-21 08:17:00,2025-03-20 17:34:51.026,,stationary,stationary,home,nan,2790df52-05e9-11f0-853f-e508809b3947,nan,None
-45,dario.marchini@srmbologna.it,1.0,2025-03-21 08:17:00,2025-03-21 08:30:00,2025-03-21 08:29:00.999,2025-03-21 16:35:07.988,moving,stationary,nan,nan,a888e540-06b0-11f0-ab99-95f567402117,on_bicycle,None
+41,dario.marchini@srmbologna.it,1.0,2025-03-20 08:17:00,2025-03-20 08:31:00,2025-03-19 13:48:20.999,2025-03-20 08:18:48.975,moving,stationary,nan,nan,26260a50-055d-11f0-ba9a-d57aeb76f198,on_bicycle,
+42,dario.marchini@srmbologna.it,0.5,2025-03-20 08:31:00,2025-03-20 17:20:00,2025-03-20 17:34:51.026,,stationary,stationary,work,nan,2790df52-05e9-11f0-853f-e508809b3947,,
+42,dario.marchini@srmbologna.it,0.5,2025-03-20 08:31:00,2025-03-20 17:20:00,2025-03-20 08:28:53.999,,stationary,stationary,work,nan,26260a52-055d-11f0-ba9a-d57aeb76f198,,
+43,dario.marchini@srmbologna.it,0.5,2025-03-20 17:20:00,2025-03-20 17:34:00,2025-03-20 17:34:51.026,,moving,stationary,nan,nan,2790df52-05e9-11f0-853f-e508809b3947,on_bicycle,
+44,dario.marchini@srmbologna.it,0.5,2025-03-20 17:34:00,2025-03-21 08:17:00,2025-03-20 17:34:51.026,,stationary,stationary,home,nan,2790df52-05e9-11f0-853f-e508809b3947,,
+45,dario.marchini@srmbologna.it,1.0,2025-03-21 08:17:00,2025-03-21 08:30:00,2025-03-21 08:29:00.999,2025-03-21 16:35:07.988,moving,stationary,nan,nan,a888e540-06b0-11f0-ab99-95f567402117,on_bicycle,
 45,dario.marchini@srmbologna.it,1.0,2025-03-21 08:17:00,2025-03-21 08:30:00,2025-03-21 08:17:09.026,2025-03-21 08:29:00.999,moving,moving,nan,nan,4e87c551-0626-11f0-853f-e508809b3947,on_bicycle,on_bicycle
-46,dario.marchini@srmbologna.it,1.0,2025-03-21 08:30:00,2025-03-21 16:35:00,2025-03-21 08:29:00.999,2025-03-21 16:35:07.988,stationary,stationary,work,nan,a888e540-06b0-11f0-ab99-95f567402117,nan,None
-47,dario.marchini@srmbologna.it,1.0,2025-03-21 16:35:00,2025-03-21 16:48:00,2025-03-21 16:48:09.999,2025-03-21 19:09:51.629,moving,stationary,nan,nan,a888e542-06b0-11f0-ab99-95f567402117,on_bicycle,None
+46,dario.marchini@srmbologna.it,1.0,2025-03-21 08:30:00,2025-03-21 16:35:00,2025-03-21 08:29:00.999,2025-03-21 16:35:07.988,stationary,stationary,work,nan,a888e540-06b0-11f0-ab99-95f567402117,,
+47,dario.marchini@srmbologna.it,1.0,2025-03-21 16:35:00,2025-03-21 16:48:00,2025-03-21 16:48:09.999,2025-03-21 19:09:51.629,moving,stationary,nan,nan,a888e542-06b0-11f0-ab99-95f567402117,on_bicycle,
 47,dario.marchini@srmbologna.it,1.0,2025-03-21 16:35:00,2025-03-21 16:48:00,2025-03-21 16:35:07.988,2025-03-21 16:48:00.999,moving,moving,nan,nan,a888e541-06b0-11f0-ab99-95f567402117,on_bicycle,on_bicycle
-47,dario.marchini@srmbologna.it,1.0,2025-03-21 16:35:00,2025-03-21 16:48:00,2025-03-21 08:29:00.999,2025-03-21 16:35:07.988,moving,stationary,nan,nan,a888e540-06b0-11f0-ab99-95f567402117,on_bicycle,None
-48,dario.marchini@srmbologna.it,1.0,2025-03-21 16:48:00,2025-03-21 19:09:00,2025-03-21 16:48:09.999,2025-03-21 19:09:51.629,stationary,stationary,home,nan,a888e542-06b0-11f0-ab99-95f567402117,nan,None
-48,dario.marchini@srmbologna.it,0.10650106382978723,2025-03-21 16:48:00,2025-03-21 19:09:00,2025-03-21 16:35:07.988,2025-03-21 16:48:00.999,stationary,moving,home,nan,a888e541-06b0-11f0-ab99-95f567402117,nan,on_bicycle
+47,dario.marchini@srmbologna.it,1.0,2025-03-21 16:35:00,2025-03-21 16:48:00,2025-03-21 08:29:00.999,2025-03-21 16:35:07.988,moving,stationary,nan,nan,a888e540-06b0-11f0-ab99-95f567402117,on_bicycle,
+48,dario.marchini@srmbologna.it,1.0,2025-03-21 16:48:00,2025-03-21 19:09:00,2025-03-21 16:48:09.999,2025-03-21 19:09:51.629,stationary,stationary,home,nan,a888e542-06b0-11f0-ab99-95f567402117,,
+48,dario.marchini@srmbologna.it,0.10650106382978723,2025-03-21 16:48:00,2025-03-21 19:09:00,2025-03-21 16:35:07.988,2025-03-21 16:48:00.999,stationary,moving,home,nan,a888e541-06b0-11f0-ab99-95f567402117,,on_bicycle
 49,dario.marchini@srmbologna.it,0.5625149659863946,2025-03-21 19:09:00,2025-03-21 19:58:00,2025-03-21 19:45:26.206,2025-03-21 20:19:19.288,moving,moving,nan,nan,a888e545-06b0-11f0-ab99-95f567402117,in_vehicle,in_vehicle
-49,dario.marchini@srmbologna.it,1.0,2025-03-21 19:09:00,2025-03-21 19:58:00,2025-03-21 19:20:44.212,2025-03-21 19:45:26.206,moving,stationary,nan,nan,a888e544-06b0-11f0-ab99-95f567402117,in_vehicle,None
+49,dario.marchini@srmbologna.it,1.0,2025-03-21 19:09:00,2025-03-21 19:58:00,2025-03-21 19:20:44.212,2025-03-21 19:45:26.206,moving,stationary,nan,nan,a888e544-06b0-11f0-ab99-95f567402117,in_vehicle,
 49,dario.marchini@srmbologna.it,0.5456503401360544,2025-03-21 19:09:00,2025-03-21 19:58:00,2025-03-21 19:09:54.086,2025-03-21 19:20:44.212,moving,moving,nan,nan,a888e543-06b0-11f0-ab99-95f567402117,in_vehicle,in_vehicle
-49,dario.marchini@srmbologna.it,0.3236833333333333,2025-03-21 19:09:00,2025-03-21 19:58:00,2025-03-21 16:48:09.999,2025-03-21 19:09:51.629,moving,stationary,nan,nan,a888e542-06b0-11f0-ab99-95f567402117,in_vehicle,None
-50,dario.marchini@srmbologna.it,1.0,2025-03-21 19:58:00,2025-03-21 20:05:00,2025-03-21 19:45:26.206,2025-03-21 20:19:19.288,stationary,moving,other,nan,a888e545-06b0-11f0-ab99-95f567402117,nan,in_vehicle
-50,dario.marchini@srmbologna.it,0.34810952380952376,2025-03-21 19:58:00,2025-03-21 20:05:00,2025-03-21 19:20:44.212,2025-03-21 19:45:26.206,stationary,stationary,other,nan,a888e544-06b0-11f0-ab99-95f567402117,nan,None
-51,dario.marchini@srmbologna.it,1.0,2025-03-21 20:05:00,2025-03-21 20:19:00,2025-03-21 20:19:19.288,2025-03-22 09:34:04.269,moving,stationary,nan,nan,0cf4cb20-06fc-11f0-ab99-95f567402117,in_vehicle,None
+49,dario.marchini@srmbologna.it,0.3236833333333333,2025-03-21 19:09:00,2025-03-21 19:58:00,2025-03-21 16:48:09.999,2025-03-21 19:09:51.629,moving,stationary,nan,nan,a888e542-06b0-11f0-ab99-95f567402117,in_vehicle,
+50,dario.marchini@srmbologna.it,1.0,2025-03-21 19:58:00,2025-03-21 20:05:00,2025-03-21 19:45:26.206,2025-03-21 20:19:19.288,stationary,moving,other,nan,a888e545-06b0-11f0-ab99-95f567402117,,in_vehicle
+50,dario.marchini@srmbologna.it,0.34810952380952376,2025-03-21 19:58:00,2025-03-21 20:05:00,2025-03-21 19:20:44.212,2025-03-21 19:45:26.206,stationary,stationary,other,nan,a888e544-06b0-11f0-ab99-95f567402117,,
+51,dario.marchini@srmbologna.it,1.0,2025-03-21 20:05:00,2025-03-21 20:19:00,2025-03-21 20:19:19.288,2025-03-22 09:34:04.269,moving,stationary,nan,nan,0cf4cb20-06fc-11f0-ab99-95f567402117,in_vehicle,
 51,dario.marchini@srmbologna.it,1.0,2025-03-21 20:05:00,2025-03-21 20:19:00,2025-03-21 19:45:26.206,2025-03-21 20:19:19.288,moving,moving,nan,nan,a888e545-06b0-11f0-ab99-95f567402117,in_vehicle,in_vehicle
-52,dario.marchini@srmbologna.it,1.0,2025-03-21 20:19:00,2025-03-22 09:25:00,2025-03-21 20:19:19.288,2025-03-22 09:34:04.269,stationary,stationary,home,nan,0cf4cb20-06fc-11f0-ab99-95f567402117,nan,None
+52,dario.marchini@srmbologna.it,1.0,2025-03-21 20:19:00,2025-03-22 09:25:00,2025-03-21 20:19:19.288,2025-03-22 09:34:04.269,stationary,stationary,home,nan,0cf4cb20-06fc-11f0-ab99-95f567402117,,
 53,dario.marchini@srmbologna.it,0.7967947368421052,2025-03-22 09:25:00,2025-03-22 11:00:00,2025-03-22 09:59:18.270,2025-03-22 12:00:29.254,moving,moving,nan,nan,fd9963c1-077d-11f0-ab99-95f567402117,in_vehicle,in_vehicle
-53,dario.marchini@srmbologna.it,0.32070315789473686,2025-03-22 09:25:00,2025-03-22 11:00:00,2025-03-22 09:58:50.262,2025-03-22 09:59:18.270,moving,stationary,nan,nan,fd9963c0-077d-11f0-ab99-95f567402117,in_vehicle,None
+53,dario.marchini@srmbologna.it,0.32070315789473686,2025-03-22 09:25:00,2025-03-22 11:00:00,2025-03-22 09:58:50.262,2025-03-22 09:59:18.270,moving,stationary,nan,nan,fd9963c0-077d-11f0-ab99-95f567402117,in_vehicle,
 53,dario.marchini@srmbologna.it,0.514081052631579,2025-03-22 09:25:00,2025-03-22 11:00:00,2025-03-22 09:34:04.269,2025-03-22 09:58:50.262,moving,moving,nan,nan,0cf4cb21-06fc-11f0-ab99-95f567402117,in_vehicle,in_vehicle
-53,dario.marchini@srmbologna.it,0.2533805263157895,2025-03-22 09:25:00,2025-03-22 11:00:00,2025-03-21 20:19:19.288,2025-03-22 09:34:04.269,moving,stationary,nan,nan,0cf4cb20-06fc-11f0-ab99-95f567402117,in_vehicle,None
-54,dario.marchini@srmbologna.it,1.0,2025-03-22 11:00:00,2025-03-22 11:40:00,2025-03-22 09:59:18.270,2025-03-22 12:00:29.254,stationary,moving,home,nan,fd9963c1-077d-11f0-ab99-95f567402117,nan,in_vehicle
-55,dario.marchini@srmbologna.it,0.4512433333333333,2025-03-22 11:40:00,2025-03-22 11:50:00,2025-03-22 12:00:29.254,2025-03-22 22:10:13.236,moving,stationary,nan,nan,fd9963c2-077d-11f0-ab99-95f567402117,in_vehicle,None
+53,dario.marchini@srmbologna.it,0.2533805263157895,2025-03-22 09:25:00,2025-03-22 11:00:00,2025-03-21 20:19:19.288,2025-03-22 09:34:04.269,moving,stationary,nan,nan,0cf4cb20-06fc-11f0-ab99-95f567402117,in_vehicle,
+54,dario.marchini@srmbologna.it,1.0,2025-03-22 11:00:00,2025-03-22 11:40:00,2025-03-22 09:59:18.270,2025-03-22 12:00:29.254,stationary,moving,home,nan,fd9963c1-077d-11f0-ab99-95f567402117,,in_vehicle
+55,dario.marchini@srmbologna.it,0.4512433333333333,2025-03-22 11:40:00,2025-03-22 11:50:00,2025-03-22 12:00:29.254,2025-03-22 22:10:13.236,moving,stationary,nan,nan,fd9963c2-077d-11f0-ab99-95f567402117,in_vehicle,
 55,dario.marchini@srmbologna.it,1.0,2025-03-22 11:40:00,2025-03-22 11:50:00,2025-03-22 09:59:18.270,2025-03-22 12:00:29.254,moving,moving,nan,nan,fd9963c1-077d-11f0-ab99-95f567402117,in_vehicle,in_vehicle
-56,dario.marchini@srmbologna.it,1.0,2025-03-22 11:50:00,2025-03-22 18:05:00,2025-03-22 12:00:29.254,2025-03-22 22:10:13.236,stationary,stationary,home,nan,fd9963c2-077d-11f0-ab99-95f567402117,nan,None
-57,dario.marchini@srmbologna.it,1.0,2025-03-22 18:05:00,2025-03-22 18:15:00,2025-03-22 12:00:29.254,2025-03-22 22:10:13.236,moving,stationary,nan,nan,fd9963c2-077d-11f0-ab99-95f567402117,in_vehicle,None
-58,dario.marchini@srmbologna.it,1.0,2025-03-22 18:15:00,2025-03-22 19:37:00,2025-03-22 12:00:29.254,2025-03-22 22:10:13.236,stationary,stationary,other,nan,fd9963c2-077d-11f0-ab99-95f567402117,nan,None
-59,dario.marchini@srmbologna.it,1.0,2025-03-22 19:37:00,2025-03-22 19:41:00,2025-03-22 12:00:29.254,2025-03-22 22:10:13.236,moving,stationary,nan,nan,fd9963c2-077d-11f0-ab99-95f567402117,in_vehicle,None
-61,dario.marchini@srmbologna.it,1.0,2025-03-22 19:41:00,2025-03-22 19:43:00,2025-03-22 12:00:29.254,2025-03-22 22:10:13.236,moving,stationary,nan,nan,fd9963c2-077d-11f0-ab99-95f567402117,in_vehicle,None
-62,dario.marchini@srmbologna.it,1.0,2025-03-22 19:43:00,2025-03-22 22:09:00,2025-03-22 12:00:29.254,2025-03-22 22:10:13.236,stationary,stationary,home,nan,fd9963c2-077d-11f0-ab99-95f567402117,nan,None
-63,dario.marchini@srmbologna.it,1.0,2025-03-22 22:09:00,2025-03-22 22:15:00,2025-03-22 22:17:01.225,2025-03-23 00:08:52.241,moving,stationary,nan,nan,fd9963c4-077d-11f0-ab99-95f567402117,in_vehicle,None
+56,dario.marchini@srmbologna.it,1.0,2025-03-22 11:50:00,2025-03-22 18:05:00,2025-03-22 12:00:29.254,2025-03-22 22:10:13.236,stationary,stationary,home,nan,fd9963c2-077d-11f0-ab99-95f567402117,,
+57,dario.marchini@srmbologna.it,1.0,2025-03-22 18:05:00,2025-03-22 18:15:00,2025-03-22 12:00:29.254,2025-03-22 22:10:13.236,moving,stationary,nan,nan,fd9963c2-077d-11f0-ab99-95f567402117,in_vehicle,
+58,dario.marchini@srmbologna.it,1.0,2025-03-22 18:15:00,2025-03-22 19:37:00,2025-03-22 12:00:29.254,2025-03-22 22:10:13.236,stationary,stationary,other,nan,fd9963c2-077d-11f0-ab99-95f567402117,,
+59,dario.marchini@srmbologna.it,1.0,2025-03-22 19:37:00,2025-03-22 19:41:00,2025-03-22 12:00:29.254,2025-03-22 22:10:13.236,moving,stationary,nan,nan,fd9963c2-077d-11f0-ab99-95f567402117,in_vehicle,
+61,dario.marchini@srmbologna.it,1.0,2025-03-22 19:41:00,2025-03-22 19:43:00,2025-03-22 12:00:29.254,2025-03-22 22:10:13.236,moving,stationary,nan,nan,fd9963c2-077d-11f0-ab99-95f567402117,in_vehicle,
+62,dario.marchini@srmbologna.it,1.0,2025-03-22 19:43:00,2025-03-22 22:09:00,2025-03-22 12:00:29.254,2025-03-22 22:10:13.236,stationary,stationary,home,nan,fd9963c2-077d-11f0-ab99-95f567402117,,
+63,dario.marchini@srmbologna.it,1.0,2025-03-22 22:09:00,2025-03-22 22:15:00,2025-03-22 22:17:01.225,2025-03-23 00:08:52.241,moving,stationary,nan,nan,fd9963c4-077d-11f0-ab99-95f567402117,in_vehicle,
 63,dario.marchini@srmbologna.it,1.0,2025-03-22 22:09:00,2025-03-22 22:15:00,2025-03-22 22:10:13.236,2025-03-22 22:15:55.266,moving,moving,nan,nan,fd9963c3-077d-11f0-ab99-95f567402117,in_vehicle,in_vehicle
-63,dario.marchini@srmbologna.it,1.0,2025-03-22 22:09:00,2025-03-22 22:15:00,2025-03-22 12:00:29.254,2025-03-22 22:10:13.236,moving,stationary,nan,nan,fd9963c2-077d-11f0-ab99-95f567402117,in_vehicle,None
-64,dario.marchini@srmbologna.it,0.5,2025-03-22 22:15:00,2025-03-23 00:10:00,2025-03-23 00:09:00.239,,stationary,moving,other,nan,fd9963c5-077d-11f0-ab99-95f567402117,nan,in_vehicle
-64,dario.marchini@srmbologna.it,1.0,2025-03-22 22:15:00,2025-03-23 00:10:00,2025-03-22 22:17:01.225,2025-03-23 00:08:52.241,stationary,stationary,other,nan,fd9963c4-077d-11f0-ab99-95f567402117,nan,None
-64,dario.marchini@srmbologna.it,0.13844434782608694,2025-03-22 22:15:00,2025-03-23 00:10:00,2025-03-22 22:10:13.236,2025-03-22 22:15:55.266,stationary,moving,other,nan,fd9963c3-077d-11f0-ab99-95f567402117,nan,in_vehicle
+63,dario.marchini@srmbologna.it,1.0,2025-03-22 22:09:00,2025-03-22 22:15:00,2025-03-22 12:00:29.254,2025-03-22 22:10:13.236,moving,stationary,nan,nan,fd9963c2-077d-11f0-ab99-95f567402117,in_vehicle,
+64,dario.marchini@srmbologna.it,0.5,2025-03-22 22:15:00,2025-03-23 00:10:00,2025-03-23 00:09:00.239,,stationary,moving,other,nan,fd9963c5-077d-11f0-ab99-95f567402117,,in_vehicle
+64,dario.marchini@srmbologna.it,1.0,2025-03-22 22:15:00,2025-03-23 00:10:00,2025-03-22 22:17:01.225,2025-03-23 00:08:52.241,stationary,stationary,other,nan,fd9963c4-077d-11f0-ab99-95f567402117,,
+64,dario.marchini@srmbologna.it,0.13844434782608694,2025-03-22 22:15:00,2025-03-23 00:10:00,2025-03-22 22:10:13.236,2025-03-22 22:15:55.266,stationary,moving,other,nan,fd9963c3-077d-11f0-ab99-95f567402117,,in_vehicle
 65,dario.marchini@srmbologna.it,0.5,2025-03-23 00:10:00,2025-03-23 00:16:00,2025-03-23 00:09:00.239,,moving,moving,nan,nan,fd9963c5-077d-11f0-ab99-95f567402117,in_vehicle,in_vehicle
-65,dario.marchini@srmbologna.it,1.0,2025-03-23 00:10:00,2025-03-23 00:16:00,2025-03-22 22:17:01.225,2025-03-23 00:08:52.241,moving,stationary,nan,nan,fd9963c4-077d-11f0-ab99-95f567402117,in_vehicle,None
-66,dario.marchini@srmbologna.it,0.5,2025-03-23 00:16:00,2025-03-23 10:39:00,2025-03-23 10:59:33.999,,stationary,moving,home,nan,15775c91-0990-11f0-ab99-95f567402117,nan,walking
-66,dario.marchini@srmbologna.it,0.5,2025-03-23 00:16:00,2025-03-23 10:39:00,2025-03-23 10:41:51.001,,stationary,moving,home,nan,99a6c921-07cd-11f0-ab99-95f567402117,nan,running
-66,dario.marchini@srmbologna.it,0.5,2025-03-23 00:16:00,2025-03-23 10:39:00,2025-03-23 00:09:00.239,,stationary,moving,home,nan,fd9963c5-077d-11f0-ab99-95f567402117,nan,in_vehicle
-67,dario.marchini@srmbologna.it,0.5,2025-03-23 10:39:00,2025-03-23 11:07:00,2025-03-23 10:59:33.999,,moving,moving,nan,nan,15775c91-0990-11f0-ab99-95f567402117,walking,walking
-67,dario.marchini@srmbologna.it,0.5,2025-03-23 10:39:00,2025-03-23 11:07:00,2025-03-23 10:41:51.001,,moving,moving,nan,nan,99a6c921-07cd-11f0-ab99-95f567402117,walking,running
-68,dario.marchini@srmbologna.it,0.5,2025-03-23 11:07:00,2025-03-23 12:10:00,2025-03-23 10:59:33.999,,stationary,moving,home,nan,15775c91-0990-11f0-ab99-95f567402117,nan,walking
-68,dario.marchini@srmbologna.it,0.5,2025-03-23 11:07:00,2025-03-23 12:10:00,2025-03-23 10:41:51.001,,stationary,moving,home,nan,99a6c921-07cd-11f0-ab99-95f567402117,nan,running
-69,dario.marchini@srmbologna.it,0.26906749999999996,2025-03-23 12:10:00,2025-03-23 12:50:00,2025-03-23 12:54:14.238,2025-03-23 14:28:11.270,moving,stationary,nan,nan,15775c94-0990-11f0-ab99-95f567402117,in_vehicle,None
+65,dario.marchini@srmbologna.it,1.0,2025-03-23 00:10:00,2025-03-23 00:16:00,2025-03-22 22:17:01.225,2025-03-23 00:08:52.241,moving,stationary,nan,nan,fd9963c4-077d-11f0-ab99-95f567402117,in_vehicle,
+66,dario.marchini@srmbologna.it,0.5,2025-03-23 00:16:00,2025-03-23 10:39:00,2025-03-23 10:59:33.999,,stationary,moving,home,nan,15775c91-0990-11f0-ab99-95f567402117,,walking
+66,dario.marchini@srmbologna.it,0.5,2025-03-23 00:16:00,2025-03-23 10:39:00,2025-03-23 10:41:51.001,,stationary,moving,home,nan,99a6c921-07cd-11f0-ab99-95f567402117,,running
+66,dario.marchini@srmbologna.it,0.5,2025-03-23 00:16:00,2025-03-23 10:39:00,2025-03-23 00:09:00.239,,stationary,moving,home,nan,fd9963c5-077d-11f0-ab99-95f567402117,,in_vehicle
+67,dario.marchini@srmbologna.it,0.5,2025-03-23 10:39:00,2025-03-23 11:07:00,2025-03-23 10:59:33.999,,moving,moving,nan,nan,15775c91-0990-11f0-ab99-95f567402117,running/walking,walking
+67,dario.marchini@srmbologna.it,0.5,2025-03-23 10:39:00,2025-03-23 11:07:00,2025-03-23 10:41:51.001,,moving,moving,nan,nan,99a6c921-07cd-11f0-ab99-95f567402117,running/walking,running
+68,dario.marchini@srmbologna.it,0.5,2025-03-23 11:07:00,2025-03-23 12:10:00,2025-03-23 10:59:33.999,,stationary,moving,home,nan,15775c91-0990-11f0-ab99-95f567402117,,walking
+68,dario.marchini@srmbologna.it,0.5,2025-03-23 11:07:00,2025-03-23 12:10:00,2025-03-23 10:41:51.001,,stationary,moving,home,nan,99a6c921-07cd-11f0-ab99-95f567402117,,running
+69,dario.marchini@srmbologna.it,0.26906749999999996,2025-03-23 12:10:00,2025-03-23 12:50:00,2025-03-23 12:54:14.238,2025-03-23 14:28:11.270,moving,stationary,nan,nan,15775c94-0990-11f0-ab99-95f567402117,in_vehicle,
 69,dario.marchini@srmbologna.it,1.0,2025-03-23 12:10:00,2025-03-23 12:50:00,2025-03-23 12:19:11.229,2025-03-23 12:52:40.256,moving,moving,nan,nan,15775c93-0990-11f0-ab99-95f567402117,in_vehicle,in_vehicle
-70,dario.marchini@srmbologna.it,0.8706756410256411,2025-03-23 12:50:00,2025-03-23 15:00:00,2025-03-23 12:54:14.238,2025-03-23 14:28:11.270,stationary,stationary,other,nan,15775c94-0990-11f0-ab99-95f567402117,nan,None
-70,dario.marchini@srmbologna.it,0.1359302564102564,2025-03-23 12:50:00,2025-03-23 15:00:00,2025-03-23 12:19:11.229,2025-03-23 12:52:40.256,stationary,moving,other,nan,15775c93-0990-11f0-ab99-95f567402117,nan,in_vehicle
-72,dario.marchini@srmbologna.it,0.6862037261503928,2025-03-23 15:40:00,2025-03-24 16:25:00,2025-03-23 23:40:59.248,2025-03-24 16:28:45.231,stationary,stationary,home,nan,15775c9f-0990-11f0-ab99-95f567402117,nan,None
-72,dario.marchini@srmbologna.it,0.1241780359147026,2025-03-23 15:40:00,2025-03-24 16:25:00,2025-03-23 19:40:42.001,2025-03-23 22:15:06.264,stationary,stationary,home,nan,15775c99-0990-11f0-ab99-95f567402117,nan,None
-73,dario.marchini@srmbologna.it,0.17223367346938775,2025-03-24 16:25:00,2025-03-24 18:03:00,2025-03-24 18:01:07.266,2025-03-25 12:32:51.110,moving,stationary,nan,nan,15775ca1-0990-11f0-ab99-95f567402117,in_vehicle,None
+70,dario.marchini@srmbologna.it,0.8706756410256411,2025-03-23 12:50:00,2025-03-23 15:00:00,2025-03-23 12:54:14.238,2025-03-23 14:28:11.270,stationary,stationary,other,nan,15775c94-0990-11f0-ab99-95f567402117,,
+70,dario.marchini@srmbologna.it,0.1359302564102564,2025-03-23 12:50:00,2025-03-23 15:00:00,2025-03-23 12:19:11.229,2025-03-23 12:52:40.256,stationary,moving,other,nan,15775c93-0990-11f0-ab99-95f567402117,,in_vehicle
+72,dario.marchini@srmbologna.it,0.6862037261503928,2025-03-23 15:40:00,2025-03-24 16:25:00,2025-03-23 23:40:59.248,2025-03-24 16:28:45.231,stationary,stationary,home,nan,15775c9f-0990-11f0-ab99-95f567402117,,
+72,dario.marchini@srmbologna.it,0.1241780359147026,2025-03-23 15:40:00,2025-03-24 16:25:00,2025-03-23 19:40:42.001,2025-03-23 22:15:06.264,stationary,stationary,home,nan,15775c99-0990-11f0-ab99-95f567402117,,
+73,dario.marchini@srmbologna.it,0.17223367346938775,2025-03-24 16:25:00,2025-03-24 18:03:00,2025-03-24 18:01:07.266,2025-03-25 12:32:51.110,moving,stationary,nan,nan,15775ca1-0990-11f0-ab99-95f567402117,in_vehicle,
 73,dario.marchini@srmbologna.it,1.0,2025-03-24 16:25:00,2025-03-24 18:03:00,2025-03-24 16:28:45.231,2025-03-24 18:00:44.292,moving,moving,nan,nan,15775ca0-0990-11f0-ab99-95f567402117,in_vehicle,in_vehicle
-73,dario.marchini@srmbologna.it,0.1913658163265306,2025-03-24 16:25:00,2025-03-24 18:03:00,2025-03-23 23:40:59.248,2025-03-24 16:28:45.231,moving,stationary,nan,nan,15775c9f-0990-11f0-ab99-95f567402117,in_vehicle,None
-74,dario.marchini@srmbologna.it,0.7811471064814814,2025-03-24 18:03:00,2025-03-25 18:03:00,2025-03-24 18:01:07.266,2025-03-25 12:32:51.110,stationary,stationary,home,nan,15775ca1-0990-11f0-ab99-95f567402117,nan,None
+73,dario.marchini@srmbologna.it,0.1913658163265306,2025-03-24 16:25:00,2025-03-24 18:03:00,2025-03-23 23:40:59.248,2025-03-24 16:28:45.231,moving,stationary,nan,nan,15775c9f-0990-11f0-ab99-95f567402117,in_vehicle,
+74,dario.marchini@srmbologna.it,0.7811471064814814,2025-03-24 18:03:00,2025-03-25 18:03:00,2025-03-24 18:01:07.266,2025-03-25 12:32:51.110,stationary,stationary,home,nan,15775ca1-0990-11f0-ab99-95f567402117,,
